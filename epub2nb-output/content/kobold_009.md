@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -1842,7 +1843,7 @@ Zaleze do kuchyně. Na prázdný sáček od cukru třaslavým rukopisem napíše
 
 Posílá řece vzkaz, pomoz mi.
 
-Myslí to s vámi dobře, má vás rád.
+_Myslí to s vámi dobře, má vás rád._
 
 Helliny věty. Změkčilá vata slov. Kterými obaluje bodnutí. Kudla v zádech. Místo aby čin pojmenovala, kolem rány navrší chumáče bílé vaty. Aby zbraň vidět nebyla.
 
@@ -2170,7 +2171,7 @@ Mladší navštěvuje sešlého doktora Broda. Opravují a leští vůz, jezdí
 
 „Ne v jazyce tvojí matky. Tam je to řádný mužský.“
 
-Drahý kdykoliv se mě dotkneš, projede mnou šíp, milostná rána z milosti.
+_Drahý kdykoliv se mě dotkneš, projede mnou šíp, milostná rána z milosti._
 
 Psala Koboldovi Hella, tělo v předpotopním oblečení.
 

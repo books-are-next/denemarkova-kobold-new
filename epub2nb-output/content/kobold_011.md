@@ -1,7 +1,6 @@
 ---
+title: PŘEBYTKY LIDÍ          O ohni
 contentType: prose
 ---
 
-PŘEBYTKY LIDÍ  
-  
-O ohni
+

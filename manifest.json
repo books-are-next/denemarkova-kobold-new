@@ -1,0 +1,327 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Kobold",
+  "author": "Radka Denemarková",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "denemarkova-kobold-8cb4f16",
+  "revision": "8cb4f16",
+  "readingOrder": [
+    "promo.html",
+    "kobold_002.html",
+    "kobold_005.html",
+    "kobold_006.html",
+    "kobold_007.html",
+    "kobold_008.html",
+    "kobold_009.html",
+    "kobold_010.html",
+    "kobold_011.html",
+    "kobold_012.html",
+    "kobold_013.html",
+    "kobold_014.html",
+    "kobold_015.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu May 19 2022 13:11:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652965917506
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kobold_002.html",
+      "toc": []
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "kobold_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PŘEBYTKY NĚHY          O vodě",
+      "file": "kobold_005.html",
+      "words": 4,
+      "chars": 29,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kobold_002.html",
+      "next": "kobold_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PŘEBYTKY NĚHY          O vodě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_006.html",
+      "words": 54,
+      "chars": 313,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kobold_005.html",
+      "next": "kobold_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_007.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kobold_006.html",
+      "next": "kobold_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_008.html",
+      "words": 57,
+      "chars": 364,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kobold_007.html",
+      "next": "kobold_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_009.html",
+      "words": 53601,
+      "chars": 330749,
+      "ideas": 2421,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kobold_008.html",
+      "next": "kobold_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_010.html",
+      "words": 2043,
+      "chars": 12138,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kobold_009.html",
+      "next": "kobold_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Text Helly Koboldové, nalezený po vydražení",
+              "id": "text-helly-koboldové-nalezený-ponbspvydražení",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PŘEBYTKY LIDÍ          O ohni",
+      "file": "kobold_011.html",
+      "words": 4,
+      "chars": 29,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kobold_010.html",
+      "next": "kobold_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PŘEBYTKY LIDÍ          O ohni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_012.html",
+      "words": 11,
+      "chars": 62,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kobold_011.html",
+      "next": "kobold_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_013.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kobold_012.html",
+      "next": "kobold_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_014.html",
+      "words": 91,
+      "chars": 546,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kobold_013.html",
+      "next": "kobold_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kobold",
+      "file": "kobold_015.html",
+      "words": 23501,
+      "chars": 146314,
+      "ideas": 897,
+      "role": "chapter",
+      "order": 12,
+      "prev": "kobold_014.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 117,
+      "chars": 748,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "kobold_015.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 79488,
+      "chars": 491326,
+      "ideas": 3410
+    },
+    "chapters": {
+      "words": 79366,
+      "chars": 490544,
+      "ideas": 3389
+    }
+  }
+}
