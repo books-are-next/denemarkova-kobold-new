@@ -8,11 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-ed9c5d7",
-  "revision": "ed9c5d7",
+  "identifier": "denemarkova-kobold-add8520",
+  "revision": "add8520",
   "readingOrder": [
     "promo.html",
-    "kobold_002.html",
     "kobold_005.html",
     "kobold_006.html",
     "kobold_007.html",
@@ -27,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 19 2022 13:52:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652968344868
+    "date": "Thu May 19 2022 14:00:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652968837224
   },
   "documents": [
     {
@@ -40,28 +39,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "kobold_002.html",
-      "toc": []
-    },
-    {
-      "title": "Kobold",
-      "file": "kobold_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
       "next": "kobold_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "PŘEBYTKY NĚHY          O vodě",
@@ -70,8 +49,8 @@
       "chars": 29,
       "ideas": 1,
       "role": "chapter",
-      "order": 2,
-      "prev": "kobold_002.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "kobold_006.html",
       "toc": [
         {
@@ -90,7 +69,7 @@
       "chars": 313,
       "ideas": 9,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "kobold_005.html",
       "next": "kobold_007.html",
       "toc": [
@@ -110,7 +89,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "kobold_006.html",
       "next": "kobold_008.html",
       "toc": [
@@ -130,7 +109,7 @@
       "chars": 364,
       "ideas": 7,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "kobold_007.html",
       "next": "kobold_009.html",
       "toc": [
@@ -150,7 +129,7 @@
       "chars": 330749,
       "ideas": 2421,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "kobold_008.html",
       "next": "kobold_010.html",
       "toc": [
@@ -170,7 +149,7 @@
       "chars": 12138,
       "ideas": 44,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "kobold_009.html",
       "next": "kobold_011.html",
       "toc": [
@@ -198,7 +177,7 @@
       "chars": 29,
       "ideas": 1,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "kobold_010.html",
       "next": "kobold_012.html",
       "toc": [
@@ -218,7 +197,7 @@
       "chars": 62,
       "ideas": 3,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "kobold_011.html",
       "next": "kobold_013.html",
       "toc": [
@@ -238,7 +217,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "kobold_012.html",
       "next": "kobold_014.html",
       "toc": [
@@ -258,7 +237,7 @@
       "chars": 546,
       "ideas": 6,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "kobold_013.html",
       "next": "kobold_015.html",
       "toc": [
@@ -278,7 +257,7 @@
       "chars": 146314,
       "ideas": 897,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "kobold_014.html",
       "next": "colophon.html",
       "toc": [
