@@ -34,7 +34,10 @@ tocBase:
       - link: kobold_005.html
         title: "PŘEBYTKY NĚHY O\_vodě"
         hiddenTitle: false
-        children: []
+        children:
+          - link: kobold_010.html
+            title: Text Helly Koboldové ...
+            hiddenTitle: true
         listType: plain
       - link: kobold_011.html
         title: PŘEBYTKY LIDÍ O ohni

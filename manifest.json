@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-3c2088a",
-  "revision": "3c2088a",
+  "identifier": "denemarkova-kobold-ed9c5d7",
+  "revision": "ed9c5d7",
   "readingOrder": [
     "promo.html",
     "kobold_002.html",
@@ -27,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 19 2022 13:37:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652967468058
+    "date": "Thu May 19 2022 13:52:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652968344868
   },
   "documents": [
     {
