@@ -53,7 +53,7 @@
             "filename": "kobold_002.md",
             "xhtml": "kobold_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -103,7 +103,7 @@
                 "id": 5,
                 "role": "chapter",
                 "listType": "plain",
-                "inToc": false,
+                "inToc": true,
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
@@ -179,12 +179,12 @@
                 "id": 11,
                 "role": "chapter",
                 "listType": "plain",
-                "inToc": false,
+                "inToc": true,
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Věnování"
+                "title": "Věnování",
+                "children": []
               },
               {
                 "filename": "kobold_013.md",
@@ -426,6 +426,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1652967387693
+    "generatedAt": 1652968263654
   }
 }
