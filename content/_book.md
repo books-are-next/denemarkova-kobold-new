@@ -15,7 +15,6 @@ meta:
   edition: beletrie
 readingOrder:
   - promo.html
-  - kobold_002.html
   - kobold_005.html
   - kobold_006.html
   - kobold_007.html
@@ -35,6 +34,9 @@ tocBase:
         title: "PŘEBYTKY NĚHY O\_vodě"
         hiddenTitle: false
         children:
+          - link: kobold_006.html
+            title: Věnování
+            hiddenTitle: true
           - link: kobold_010.html
             title: Text Helly Koboldové ...
             hiddenTitle: true
@@ -42,7 +44,10 @@ tocBase:
       - link: kobold_011.html
         title: PŘEBYTKY LIDÍ O ohni
         hiddenTitle: false
-        children: []
+        children:
+          - link: kobold_012.html
+            title: Věnování
+            hiddenTitle: true
         listType: plain
     isSection: true
     listType: plain
