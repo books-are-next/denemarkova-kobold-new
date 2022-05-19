@@ -95,6 +95,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "PŘEBYTKY NĚHY O vodě",
             "children": [
               {
                 "filename": "kobold_006.md",
@@ -106,8 +107,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": ""
+                "title": "",
+                "children": []
               },
               {
                 "filename": "kobold_007.md",
@@ -154,12 +155,11 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Text Helly Koboldové, nalezený po vydražení\nfotografie jachty Erin ..."
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               }
-            ],
-            "title": "PŘEBYTKY NĚHY O vodě"
+            ]
           },
           {
             "filename": "kobold_011.md",
@@ -171,6 +171,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "PŘEBYTKY LIDÍ O ohni",
             "children": [
               {
                 "filename": "kobold_012.md",
@@ -220,8 +221,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "PŘEBYTKY LIDÍ O ohni"
+            ]
           },
           {
             "filename": "kobold_016.md",
@@ -425,6 +425,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1652965840034
+    "generatedAt": 1652966918422
   }
 }
