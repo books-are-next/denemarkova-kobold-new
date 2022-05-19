@@ -1,7 +1,6 @@
 ---
+title: "PŘEBYTKY NĚHY          O\_vodě"
 contentType: prose
 ---
 
-PŘEBYTKY NĚHY  
-  
-O vodě
+
