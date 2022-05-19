@@ -30,7 +30,22 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: kobold_005.html
+        title: "PŘEBYTKY NĚHY O\_vodě"
+        hiddenTitle: false
+        children:
+          - link: kobold_010.html
+            title: |-
+              Text Helly Koboldové, nalezený po vydražení
+              fotografie jachty Erin ...
+            hiddenTitle: true
+        listType: plain
+      - link: kobold_011.html
+        title: PŘEBYTKY LIDÍ O ohni
+        hiddenTitle: false
+        children: []
+        listType: plain
     isSection: true
     listType: plain
 static:
