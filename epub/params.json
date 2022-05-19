@@ -106,8 +106,8 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "title": "",
+                "hiddenTitle": true,
+                "title": "Věnování",
                 "children": []
               },
               {
@@ -155,8 +155,8 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "title": "",
+                "hiddenTitle": true,
+                "title": "Text Helly Koboldové ...",
                 "children": []
               }
             ]
@@ -182,8 +182,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Věnování"
               },
               {
                 "filename": "kobold_013.md",
@@ -425,6 +426,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1652966918422
+    "generatedAt": 1652967387693
   }
 }
