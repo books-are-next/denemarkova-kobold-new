@@ -1,15 +1,7 @@
 ---
-title: ''
+title: ""
 contentType: prose
 ---
-
-  
-
-  
-
-  
-
-  
 
 Otázka dne zněla jednoduše. Jak tento den přežít.
 
@@ -20,8 +12,6 @@ Justýna nemá příliš na vybranou. Pohybuje se v omezeném, těsném prostor
 Jako šelma se vyvlékne ze změti rozespalých dětských objetí a podrbe se ve slepených vlasech. Nestihla si těžké, hnědé prameny včera umýt. A nestihne si hustý vodopád propláchnout ani dnes.
 
 Zaklapne blekotající budík. Bosou nohou odhrne poházené kalhoty, ponožky, trička. Vyšlapanou cestičkou dokráčí k záchodové míse. Motor v ní naskakuje škytavě, zastydlý stroj zadýchaného motorového člunu. Nabírá obrátky. Za několik minut už je hrdinkou zrychleného filmu bez stoptriků. Uvaří čaj; vodu obarví a sáček vrátí do lahve od zavařeniny. Bez cukru. Cukr došel. Umaže jahodovou marmeládou devět krajíčků chleba, máslem šetří. Přeřízne ovály na poloviny. Ty, které zůstanou nedokousané a v dětském bříšku nezmizí, připlácne k sobě a takto slíbnuté vloží do mastných papírových sáčků školních svačin; z pytlíků nejprve do misky sesype včerejší drobky. Jako na obrtlíku naskládá na teplé postele devět hromádek pestrosti, obě ruce kmitají, levá i pravá, už dávno neví, zda je pravačka, nebo levačka, potřebuje nezbytně obě ruce, chceš-li najít spolehlivou oporu, nalezneš ji na konci svých ramenou, roztočená mlátička, čamrda, která se zastaví až v noci, až v noci padne. A ve spánku se neklidně převaluje.
-
-  
 
 Pozoruju ji odsud každé ráno. Miluju ji, jedině tak vystoupím ze sebe. Jeden rok, tři měsíce, čtyři dny. Obalenou hroznem devíti hlav, devítihlavá saň se na ni sápe. Nejmenší Bobulka je přisátá na krku, vycházejí z holobytu, z nízkého bílého domku, odkud se na svět dívají zamřížovaným oknem. Pozoruju ji bez dechu, za záclonou, jak se sklání a rozkazuje, jak mrňata popohání, jak přidržuje školní brašny, aby vyhublé pruty vklouzly snadněji do pout, do barevných svěracích kazajek. Neučesaná, přesto krásná.
 
@@ -34,8 +24,6 @@ Vejde do mých útrob.
 Došli ke křižovatce, mizí v zatáčce. Propustila mě ze svých služeb, má paní. Cestou do kuchyně zaliju odstátou vodou tchynin jazyk. V kredenci zašmátrám a pokochám se numerem vkladní knížky.
 
 Je na heslo Justýna.
-
-  
 
 Pět postaviček se odlepí od majáku Justýnina těla, políbí je na čelo a mizí v budově základní školy. Tři další odvede Justýna o čtyři ulice dál. V mateřské školce s vykuleným zajíčkem na dveřích je usadí na dřevěnou lavici, podá tepláčky, přezouvá chodidla v zaštupovaných ponožkách. Přítomná matka se slunečními brýlemi vysoko nad čelem odsune potomka, aby se děti stehny nedotýkaly. Na Justýnu se nepodívá.
 
@@ -63,8 +51,6 @@ Situaci vyřeší učitelka s ptačím obličejem, pro který ji Broskvička zb
 
 Justýna zamává varhánkům. Pětiletému Kaštánkovi. Čtyřletému Knutítkovi. Tříleté Broskvičce, které učitelka zavazuje zapůjčené erární přezůvky. Justýna zvesela zamává zkoprnělé matce, která ji s odporem pozoruje, už přes tmavá skla. První bitva dnešního dne vyhraná, zapějte halelujá.
 
-  
-
 Než svůj domek s verandou a prázdnou garáží opustím a zaklapnu branku, převážu si obinadlem napuchlé kotníky. Dnes se sehnu šetrněji a obmotávám pozorně, přiškrtím, včera jsem rituál odbyl, v tramvaji mi z manšestrákové nohavice vyklouzl zašedlý had s otisky mokvajících boláků, sunul se za mnou, pronásledoval mě až k hrobu. Dokud žila matka, převazovala mi kotníky sněhobílými obvazy ona. Dezinfikovala kůži a mazala mastí, omývala mi nohy žínkou, kterou vyvařovala, myla moje nateklé konve, myla mi nohy jako Pánu Kristu Ježíšovi, to říkala, jako Pánu Kristu Ježíšovi, a uvidíš, že se stane zázrak, a pak zapějeme halelujá, říkala. Nedávám bohu šanci, odstup mezi sebou a bohem zvětšuju. Dávám šanci sobě a své lásce, neštěstí slouží pouze milosti. Nestal se zázrak, nikdy se žádný zázrak nestal. Nikdy ta modrofialová šklebenice nezmizela. Nikdy ta modrofialová šklebenice nemizí.
 
 Zmizí, až ona ji políbí.
@@ -83,8 +69,6 @@ Pušku nemám. Vyrazil jsem s kartáčkem na zuby. Rejžák jsem v komoře v 
 
 Ničeho si nevšimla. Má svých starostí dost, paní má, Matka boží, mutice, mutele. Kdo si jak ustele.
 
-  
-
 Justýna vejde do hypermarketu, sotva dvouletou Bobulku napresuje do pojízdného košíku, pokřižuje se. Projíždějí pomalu, kochají se dotyky se zbožím, dítě pochová plyšové hračky a zatřese si chrastítky v igelitu a přivoní k salámům a šamponům a avivážím. Dítě se proběhne mezi regály jako v zrcadlovém bludišti. Cíl je u pokladny. Justýna cítí pohledy ostatních. Tady se neslyšně vyhlašuje vítěz, tady se prokáže hodnota člověka. Podmínky na startu měli všichni stejné: spravedlivě prázdný koš. Čím ho kdo naplní, rozhoduje.
 
 Justýna prohrála.
@@ -95,8 +79,6 @@ Bičík zůstane zasunutý. Justýna se dočká. Muž ve frontě za ní podsune 
 
 A Harold ví, že ten úsměv patří jemu.
 
-  
-
 Sedím v prvním kupé. U dveří. Řeka peláší do velkoměsta, předhání se s courákem, vyplazuje jazyk, prosmýkne lesklé tělo mezi kopci. Muž naproti si listuje novinami, při pohledu na mě jen nepatrně zdvihne obočí, ošije se a přehodí nohu přes nohu.
 
 O něco horší je to v tramvaji, která mě odsunuje z nádraží. Neurotická žena v háčkované čepici těká očima, valí bulvy, fascinovaná mými naboulenými kotníky, odporem rozšiřuje nozdry, vzrušená, představím si horkost mezi jejíma nohama, signál pro moje tělo, je odstartováno. Ruce vystřelují a nesmyslně tlesknou, jazyk vrní, provětrává se na vzduchu.
@@ -105,13 +87,9 @@ Tělo neovládám. Jenom prapohyby, esenci gest. Jsem řeka. Svoje tělo neovlá
 
 Hlava se zpěčuje, trhá sebou, ruce plácají, trup se komíhá. Nejhorší je, když cítím, jak se ještěrka sune z vlhké jeskyně na světlo. Neovlivním chvíli, kdy se růžový had vychlípne na boží světlo. S jazykem, z něhož odkapávají sliny a který se mi vysmívá, protože ho nechytím, mi nezbývá nic jiného, než někam zalézt a čekat. Než se unaví a zahučí do jeskyně sám. Zalezu, čekám. Čekám, až zaleze on.
 
-  
-
 Justýna smete ze stolu chlebové drobky a vsype je do misky. Večer je vhodí do polévky. Přebalí Bobulku, látkové pleny nechá odmočit v kbelíku, který páchne močí. Z igelitové tašky vyjme krabici mléka a vnoří ji do druhého kbelíku s ledovou vodou. Bobulka se přidržuje židle, maličko vrávorá, ťape ke kuchyňskému závěsu a zase zpátky, z hrany stolu sesmekne peněženku, kutulů, kutulů, drobné kovové uzávěry se sypou. Justýna se vyděsí, klekne na kolena, rozčileně sbírá a počítá zakutálené mince, hlavu zaklesne pod postel, útlé boky a zadek do výšky, šmátrá.
 
 Tak ji tu nalezne Harold. Stojí ve dveřích a nemrká.
-
-  
 
 Dělám, co je třeba. V soukromé pohřební službě FREUDE A SPOL. já pracuju rád. Dělám, co je třeba. Dělám víc, než je třeba. Nejčastěji chystám mrtvé do rakve, radostně, a upravuju obřadní síň. Je velebná. Připadám si jako kněz. Ráno stojím zády k varhanám a rozpažím ruce, abych přilípl písmeno tvora, který si vybral příděl času. Za každé tělo se pomodlím, což dělat nemusím. Jsou na mě závislí, rád se o ně starám. Jako otcové o své děti, jako muži o své ženy. Rád bych se staral i o někoho živého. O ni. Jsem zamilovaný. Nikdy jsem nebyl zamilovaný. Ruce protáhnu mezi prašnými světelnými paprsky, slunce natahuje prádelní šňůry z vysokých, mléčných oken. Nahlas vyslovím její posvátné jméno. V průzračné akustice dutě prázdného ticha mi zní jako uhrančivá píseň ze záhrobí.
 
@@ -145,8 +123,6 @@ Z igelitové tašky vyklouznou světlemodré šaty s cenovkou, šaty s výst�
 
 Velikost Justýnina těla.
 
-  
-
 Harold na stůl obřadně postaví lahev červeného vína, hromadu čokoládových croissantů, kuřecí řízky, balík deseti minerálních vod, svazek banánů, hrozen tmavomodrého pokušení. A váleček trvanlivého salámu, který v ruce potěžká.
 
 „Něco jste si, mladá paní, zapomněla na pultě.“
@@ -157,13 +133,9 @@ Justýna zírá na šišku vysočiny, kterou Harold pomalu obejme a přejede v�
 
 Harold do Justýny vnikne zezadu, ta jedním okem sleduje Bobulku, aby neutekla nebo si do pusy nestrčila písek, druhým okem fixuje modrofialové víno, přepočítává kuličky, rozpočítává je na devět dílů. Než se Harold zlomí a zaheká, má jasno: na každého vychází sedm kuliček. Zítra bude moci koupit bačkůrky. Které jednou zdědí Bobulka.
 
-  
-
-Obstarožní kazetový magnetofon, který sem Freude před patnácti lety odložil a zapomněl na něj a na němž si Muklová přehrávala anglická slovíčka, spustí mou nejoblíbenější. _Ode an die Freude_. Rytmus mých trhavých údů odpovídá Beethovenově trhavé radosti. Černý pytel poměřím délkou těla mrtvé. Je příliš krátký, musel bych jí zkroutit nohy. Zpřelámat hnáty. Jak říká Muklovka. Normálně bych to udělal, člověk za ta léta otupí, oblíbené tóny ho inspirují k tvůrčím polohám, jsem umělec mrtvých těl, skládám koláže a zdobím, ale tentokrát tělo poškozené nebude, tentokrát žádný kubismus v praxi. Krejčovským metrem raději vezmu míru lidské kůži. Lesklé, černé pytle přeměřuju přímo u kovové skříňky. Samá voda – přihořívá. Když si konečně vyhlídnu ten pravý, mrtvou odstrojím. Nahé mrtvé tělo do pytle nasoukám. Začnu u odbarvené hlavy, povislých prsou, černé jámy a napuchlých kotníků, ty mě zvlášť potěší. Spřízněná duše. Ženská je zachovalá, pěstěná. Stejně jí to nebylo nic platné_. Gita Lauschmannová_, brzy seskládám písmena toho podivného jména. Ta asi nebyla místní. Doktorka Gita Lauschmannová. Tady jsou si, drahá Gito, všichni rovni. Tady už nikoho nic nepálí.
+Obstarožní kazetový magnetofon, který sem Freude před patnácti lety odložil a zapomněl na něj a na němž si Muklová přehrávala anglická slovíčka, spustí mou nejoblíbenější. _Ode an die Freude_. Rytmus mých trhavých údů odpovídá Beethovenově trhavé radosti. Černý pytel poměřím délkou těla mrtvé. Je příliš krátký, musel bych jí zkroutit nohy. Zpřelámat hnáty. Jak říká Muklovka. Normálně bych to udělal, člověk za ta léta otupí, oblíbené tóny ho inspirují k tvůrčím polohám, jsem umělec mrtvých těl, skládám koláže a zdobím, ale tentokrát tělo poškozené nebude, tentokrát žádný kubismus v praxi. Krejčovským metrem raději vezmu míru lidské kůži. Lesklé, černé pytle přeměřuju přímo u kovové skříňky. Samá voda – přihořívá. Když si konečně vyhlídnu ten pravý, mrtvou odstrojím. Nahé mrtvé tělo do pytle nasoukám. Začnu u odbarvené hlavy, povislých prsou, černé jámy a napuchlých kotníků, ty mě zvlášť potěší. Spřízněná duše. Ženská je zachovalá, pěstěná. Stejně jí to nebylo nic platné*. Gita Lauschmannová*, brzy seskládám písmena toho podivného jména. Ta asi nebyla místní. Doktorka Gita Lauschmannová. Tady jsou si, drahá Gito, všichni rovni. Tady už nikoho nic nepálí.
 
 Zítra ji zasypou hlínou. Posmrtné vzdušné lůžko. Zatěžkané k udušení.
-
-  
 
 Justýna si na vařiči ohřeje vodu. Opatrně stoupne do bledězelené, umělohmotné, orýpané vaničky. Spodní polovinu těla má obnaženou, přičapne a mýdlem ze sebe odplachuje Haroldovu lepkavost. Chtěla by s tím přestat. Jenže argument trsů banánů a hroznového vína je příliš pádný. Ještě pádnější je fakt, že Harold zastupuje moc, na které je se svými dětmi po manželově smrti závislá.
 
@@ -172,8 +144,6 @@ Osuší si stehna a štěrbinu, oblékne se, obsah vaničky vylije do rohu dvor
 „Pán,“ vyplivne banánovou kaši Bobulka.
 
 „Ježíšek,“ obejme ji Justýna.
-
-  
 
 Hotovo. Ženino tělo je obaleno černým pytlem; slušivé malé večerní. Matce jsem před lety ušil z té igelitové pytloviny pláštěnku s obrovitými nohavicemi, černou potápěčskou kombinézu pro podzemní ponor. Všem privilegovaným mrtvým, kteří neproletí komínem, bych rád dopřál tu originální eleganci s kapucí. Jenomže je to moc práce pro moje neohrabané prsty; museli by být moc a moc hodní, aby si róbu zasloužili. A to nejsou. Nemusí být naděje, stačí něco menšího.
 
@@ -201,15 +171,11 @@ A repete.
 
 Jsem zamilovaný. Jsem šťastný. Já jsem tak šťastný. Ochutnávám sám sebe v novém složení.
 
-  
-
 Na dvouplotýnkovém vařiči ve smaltovaném hrnečku bublá vroucí voda. Justýna ji osolí a vhodí pečlivě odpočítané špagety. Téměř je rozvaří, v hlubokém talíři vidličkou rozčmachtá se sladkým kečupem. Krmí Bobulku. Každé sousto spadlé mimo dětskou špulku polkne sama. Bobulku přebalí a uspí v posteli; vypráví jí o zvířatech, jejichž obrysy ožívají na plesnivé omítce. V plastové vaničce pere pleny a dětské oblečení. Levným mýdlem. Po kterém jí popraská už tak zrudlá kůže na rukou. Vymáchá hadříky v ledové vodě; popraskané rudé rukavice z pravé kůže žhnou, pálí. Zašedlé pleny pověsí na natažený motouz mezi křivou hruškou a skobou ve zdi. Vodu vylije do fošnového čtverce v rohu dvorku. V téže plastové vaničce umyje nádobí, vodu si ohřívá na vařiči ve špagetovém hrnečku. Vytře podlahu, lino je potrhané. V trhlinách se pročerňují obrazce, ve kterých se zachytávají drobky, písek, prach. Pokusí se přerovnat oblečení pro deset lidí, nacpané do jedné skříně. Je to marná snaha, ponožky samy vyskakují, komínky svetříků se opile kácí.
 
 Vztekle přecpanou skříň přirazí. Z proutěného košíku, kde se navrchu převalují roztrhané kalhoty, vyloví dva páry ponožek a zastupuje je. Mokrým hadrem přetře stůl. U zavařovací sklenice se žlutou umělou růží se tiše pomodlí.
 
 Blíží se jejich čas.
-
-  
 
 A repete.
 
@@ -232,8 +198,6 @@ V roztoku si drhnu ruce, dokud nezrudnou. A přemažu je dezinfekční indulon
 _Ode an die Freude_ končí. V týlu mě zamrazí, jako by mi kdosi zátylek obemkl ledovými prsty.
 
 Co mě má kdo soudit. Když není v mém těle.
-
-  
 
 Přicházejí pravidelně a ohlášené. Ledabyle zaťukají na dveře. Podpatky, které vydupávají rytmus, než se připojí tělo a v rytmu tanga se roztančí. Vejdou, štítivě se rozhlídnou. Jedna si sedne ke stolu. Než na něj položí svá lejstra, ukazováčkem přejede ubrus a špičku si detailně prohlédne. Lejstra odloží. Druhá obejde kuchyňský kout a pokoj a záchod.
 
@@ -281,13 +245,9 @@ Opouštějí místnost. Jedné z nich se na ruce blyští zlaté hodinky a na 
 
 „Krávy jedny nedojený. Ale máme to v kapse.“ Zasměje se na rozespalou Bobulku Justýna.
 
-  
-
-Vyjmu z tlamičky kazetu. Beethovena zastrčím do spodní zásuvky Freudova stolu; v tom bordelu Muklovka čmuchat nebude. Všechny nahrané audiokazety mám dobře poschovávané. Mozartův potrestaný prostopášník _Don Giovanni_ se krčí za šanonem z roku 2000. _Così fan tutte_ si brebentí v sousedním sektoru, evidenční číslo 14 368. Bacha a jeho _Janovy_ a _Matoušovy pašije_ mi vzorně střeží mrtví roku 1998. Beethovenova _Missa solemnis_ ševelí pod vyrovnanou zásobou černých igelitových pytlů. Debussyho _Dívka s vlasy jako len_, co pouštím dětským tělíčkům, je zaseklá mezi pixlami sava. Muklová si ráda vyřizuje účty se životem. Přese mě. Černou pásku se zakonzervovanými tóny by mi naschvál vytočila, zamotala, za­šmodrchala a zpřetrhala. Noty by se polámaly, slily nebo poztrácely.
+Vyjmu z tlamičky kazetu. Beethovena zastrčím do spodní zásuvky Freudova stolu; v tom bordelu Muklovka čmuchat nebude. Všechny nahrané audiokazety mám dobře poschovávané. Mozartův potrestaný prostopášník _Don Giovanni_ se krčí za šanonem z roku 2000. _Così fan tutte_ si brebentí v sousedním sektoru, evidenční číslo 14 368. Bacha a jeho _Janovy_ a *Matoušovy pašije* mi vzorně střeží mrtví roku 1998. Beethovenova _Missa solemnis_ ševelí pod vyrovnanou zásobou černých igelitových pytlů. Debussyho _Dívka s vlasy jako len_, co pouštím dětským tělíčkům, je zaseklá mezi pixlami sava. Muklová si ráda vyřizuje účty se životem. Přese mě. Černou pásku se zakonzervovanými tóny by mi naschvál vytočila, zamotala, za­šmodrchala a zpřetrhala. Noty by se polámaly, slily nebo poztrácely.
 
 Připravím na poslední jízdu dva pasažéry, tentokrát smažáky. Laciná horská dráha s žhnoucím polibkem. Oheň by měl roztavit spíš živé, ne mrtvé. Aby se přetavili v jinou morálku. Klasických pohřbů je mizerně málo, a to se ještě pochovávané musejí protlačit sítem mých estetických nároků. Jsem taky člověk. Než je nabalzamuju a poctím mužným darem. A naše květiny vykvetou. Palčivé trhliny. Kdo koho k tomu nutí?
-
-  
 
 Přiřítí se ze školy. Burák a Krahulík si čutají na dvorku, přitom hlídají Bobulku. Justýna má u stolu jenom čtyři židle. Usadí na ně osmiletou Barvičku, o rok staršího Banánka a Brambůrka, co se vrtí a netrpělivě pokukuje po gólech mezi cihlami. Píší úkoly. Justýna nerozumí Banánkově pětce ze slohu, ten příběh se jí líbí, červeň žalobnicky křičí u měkkých a tvrdých i/y. Sepíšou namáhavě opravu, občas na poradu přivolají Krahulíka. Vypočítají slovní úlohu, nediskutují o numerech, ale o obsahu. Petr koupí pět kilogramů jablek. Kilogram stojí osmnáct korun. Pavel koupí deset kilogramů třešní, kilogram stojí dvacet korun. Kolik zaplatí oba bratři za celý nákup dohromady? Dětem se sbíhají sliny, kolik místa vlastně zabere deset kilo třešní, byly růžový, nebo rudý, byly šťavnatý a popraskaný, nebo nedozrálý. Zbystří i hyperaktivní Brambůrek. Není člověk žádný, co přelstil žaludek prázdný.
 
@@ -303,8 +263,6 @@ Ozve se radostný řev, každé dítě si s pokladem zaleze na svoje místo. Ju
 
 Slupky polkne Justýna.
 
-  
-
 V obřadní síni poskládám na stojan písmenka a hraniční data. Každé písmeno v sobě skrývá desetiletí, nacucalo se odžitými léty. Znervózním, jazyk si to šine k bráně, ani tady se nežinýruje. Je to tíživá odpovědnost. Před sedmi lety jsem přesmýkl slabiky muže, který zemřel při autonehodě. Na břehu řeky Styx dodnes marně dokazuje svou totožnost, aby ho, spresovaného plechem, převezli do podsvětí. Pomalu, jako v dětské písance, si polohlasem opakuju hlásky, slabiky, slova. Na počátku byl slabikář. Tady jejich jména ožívají s posledními pěti minutami slávy.
 
 Padla.
@@ -312,8 +270,6 @@ Padla.
 Do štrafované nákupní tašky na kolečkách opatrně vložím igelitovou tašku s nápisem H & M. Nejprve ji přehnu, pohladím a přežehlím rukou. Zašustí. Hřejivá milost tohoto dne. Děkuju, paní Gito. Děkuju.
 
 Ze dvou obřadů si odnáším po růži a orchideji.
-
-  
 
 Dožvýkají sladkou manu, která jen rozdráždí chuť. Úkoly si teď u stolu načmárají ti nejstarší, Burák s Krahulíkem. Cosi hledají v učebnicích, hádají se mezi sebou, nakonec zaútočí na Justýnu. Proč nemají televizi a proč nemají počítač a proč nemají mobil. Justýna, která zašívá a štupuje, aby ulevila proutěnému koši, se rozčílí, zásoba šití neubývá, nikdy, kouzelné hrnečku dost tady neplatí a ještě tolik hlasů kolem a tisíce otázek, nikdo kolovrátek otázek neumlčí. Bolí ji v krku a je malátná a čelo má horké, ale toho si všímat nesmí, toho si matky nevšímají.
 
@@ -335,11 +291,7 @@ Justýna si odkašle a připomene si loňskou zimu, kdy zlobilo topení, spali 
 
 Smějí se a napodobují vyplázlý ještěrčí jazyk, kyvadlovité kývání těla a neohrabané plácání rukama, istě, istě, U-U-Ustyno.
 
-  
-
 Sílím svým pošupovaným pokladem na kolečkách, můj energetický zdroj. Přežiju cestu tramvají přes řeku, přežiju cestu vlakem; jazyk stočený spí, končetiny vykonávají rozkazy poslušně a nesalutují. I když učňové, co se vracejí ze školní exkurze, vtipkují na můj účet, vole, vole, co to tady smrdí, asi tenhle prďoch, ten tady dost prdí. Hihňají se tomu přes dvě stanice, než přistoupí čtyři zmalované studentky. Mají džíny kolem boků proklatě nízko, tanga povytažená, v rýze nad zadkem vytetované ornamenty. Učňové na mě v cukuletu zapomenou. Proklouznu kolem nich. Nevnímán vystoupím i se svým drkotavým sladkým tajemstvím. Je těžké žít v tomhle těle a necítit zlo a žhnout, moje milá.
-
-  
 
 Justýna přebalí Bobulku. Převleče jí čisté manšestráčky, otře žínkou pusu, zdvihne ji, opře o svůj bok. Krahulík přebírá velení nad pěticí Rychlých šípů. Justýna vyráží směr mateřská školka. Vyzvedne tři zbylé varhánky. Sbalí rozežranou bačkůrku, doma se ji pokusí slepit. Ptačí oko mžiká ve dveřích.
 
@@ -367,8 +319,6 @@ Poslední tři porce nafialovělých bobulí.
 
 Bylo tu, není tu.
 
-  
-
 Opouštím nádraží, dech se mi tají. Tajemství provláčím po křivolaké pěšince houštím. Bojím se, aby mi řeka poklad nevyškubla, je marnivá. U řeky sedí rybář. Zvedne oči. Jsou plné ryb.
 
 Blížím se ke kraji městečka, prokolébám se kolem skládky. Až k bílému, podlouhlému, rozporcovanému domku, jednu porci obývá ona, zbytek je prázdný. Moje láska, jas mých dní, nebeská bytost, vedle níž se cítím svobodný, vedle níž zapomínám na zvoníka od Matky Boží, na kůži, do které je zabalená moje úzkost a moje duše.
@@ -384,8 +334,6 @@ Zakoktávám se, zalykám štěstím, projede mnou šíp žádostivosti, had se 
 Děti se rozesmějí, já s nimi. Kluci se začnou rvát o míč. Hádají se, kdo dal gól. Justýna zaječí, roztrhne je, zakopne o pískový hrad, na kterém kutá Bobulka s Broskvičkou, holky se rozbrečí.
 
 V trávě leží dětská bačkůrka. A nejlevnější lepidlo na papír.
-
-  
 
 „I-I-Im o eslepite.“
 
@@ -403,15 +351,11 @@ Teď z vysunutého, růžového okapu odkapávají spršky vyděšených, panic
 
 Těkám očima po obývacím pokoji, zachytávám se stolu v kuchyni, bílého dřezu. Před očima probleskne záchodová mísa. Přilepoval jsem včera večer odchlíplou tapetu na záchodě. Chemopren leží na vrcholku vyrovnaných smotků toaletního papíru. Přidřepnu na záchodovou mísu. Musím se vydýchat. A převléknout zpocenou košili.
 
-  
-
 Justýna mě posadí na dřevěnou zahradní lavici s oprýskanou barvou, Banánek s Brambůrkem ji našli na smetišti, já jí přišrouboval nohy. Celý šťastný lepím dětskou podrážku, přinášejí mi další věci, Justýna je ponouká. Je tu plno a útulno. Procesí maličkých přichází, přicházejí k svému svatému, který uzdravuje. Jsem lepič rozvolněných školních brašen, unavených penálů, bot, rozšklebených knížek, puklých misek, rozstřepených zrcadel, rozvrzaných židlí, jsem lepič rozpadajících se životů, rád bych slepil sám sebe, rozpadající se osud, poslední záchrana s trvanlivým lepidlem v ruce, roztáhnout prsty, napatlat na dlaň mazlavou směs, připlácnout ji Justýninou dlaní.
 
 Justýna cosi složitě a tajnosnubně domlouvá, odhání zvědavou Broskvičku, dohaduje se s Burákem a Krahulíkem, a vy nám pomůžete, že jo.
 
 A já jim pomůžu.
-
-  
 
 Justýna rozesadí nejmladší děti na lavici vedle mě. Knutítek chce sedět vedle Kaštánka, přesazují se a chechtají, starší děti sedí v tureckém sedu na zemi, Barvička tiskne na klíně Bobulku. Justýna s nejstaršími habány odehraje _Červenou Karkulku_. Sepraný červený šátek nakonec uváže Bobulce kolem krku. Potom si vymýšlí příběh, úmornou tragédii, já jsem strašlivý kníže Krvepolský, co zakleté princezně Justýně pije krev.
 
@@ -439,8 +383,6 @@ Zařvou jednohlasně děti, ječí a zalykají se, jako by polykaly zahnutý me
 
 Holčička horlivě přikyvuje a šťastně se zakucká.
 
-  
-
 Zešeřilo se. Chlad pozdního léta dobývá městečko. Od řeky táhne mlha. Justýna chystá večeři. Vaří chlebovou polévku. K mému údivu na každý průhledný plátek chleba k zasycení přiloží navrch ještě tenčí. Tenounký, tenoulinký plátek pravého salámu. Banány a salám v domácnosti, kde se šetří i se solí.
 
 Ale to není moje starost.
@@ -457,13 +399,9 @@ Justýna ohřeje vodu. V plastové vaničce omyje čtyři nejmenší. Pevně je
 
 Můj anděl je den ode dne hubenější.
 
-  
-
 Justýna nechá Krahulíka a Buráka plkat na zápraží. Vypláchne vaničku. Umyje nádobí. Drobky ze stolu smete dlaní do mističky. Zamete podlahu. Přisedne si s krabičkou cigaret, s šitím a přeplněným proutěným košem k nejstarším synům. Zašívá skoby na kalhotách; čeká, až uvnitř došpitají a usnou. Potom rozsvítí malou lampičku na stole a jako v nějakém vetešnictví přebírá dnešní úrodu špinavého oblečení, některé kousky před denním světlem a zraky učitelek obstojí ještě zítra. Ty, které podstoupí proceduru s mýdlovými bublinkami, navrší do plastové vaničky.
 
 Synátoři se proplíží kolem ní, v dlani ukradený smotek tabáku. Vyhoupnou se na horní palandy. Před klížícíma se očima mají zkrabacený obraz Justýny. Do ouška jehly navléká novou nit.
-
-  
 
 Stehny proťapkají mravenci. Napětí v každém nervu. Vůbec mi nevadí, že jazyk vystřelil. Klinká si do stran, olizuje záclonu. Měsíc zasvěcuje obrysy domu. Do skvrnitého měsíce vplouvá bílý tyl. Rozmlžená nevěsta. V měkké záři zahlédnu tvář anglické princezny v našlehaných svatebních šatech, s hvězdnatou korunkou ve vlasech. Vystřihl jsem si před lety její andělskou fotku ze starého časopisu a přelepil do sešitu nahotin, je už pěkně ošmudlaná. Vždycky cudně klopila oči. Jako je klopívám já. A to měla kotníky v pořádku. Nejspíš.
 
@@ -479,8 +417,6 @@ Klika se pohnula. Tak pojď už, pojď, pojď, pojď, no tak. Pot mi raší na �
 
 Rovnováhu udrží.
 
-  
-
 Z matčiných silonových punčoch jsem si vyrobil noční návleky. Nad koleny je podvážu tkaničkami od bot. Nejdřív si kotníky obalím, punčochy vycpu přežehlenými kapesníky. Je to pohodlnější než si složitě obmotávat mokvající ránu obvazy.
 
 Na posteli a na podlaze jsou poházené hřbety výtisků milostné poezie. Rozevřené zobáčky típají do parket. Sklapávám je, pochytám písmena, která chtěla utéct. Vracím je mezerám na polici číslo čtyři, stejně vždycky končím u té jediné, kterou jsme předčítali s matkou, ta slova posílala Pánu Ježíši. Pošlu je i já, matka mi pomůže.
@@ -490,8 +426,6 @@ Dopadnu na matraci. Natáhnu se, kotníky podložím polštářem vycpaným hus�
 V pološeru si na stropě promítám film s Justýnou. Jak zavrávorá a rozčileně kopne do bílé tašky s červenými písmeny. Jak taškou zatřese, vyklouzne hádek, modrá látka. Jak si překvapením kecne na bobek. A jemně vlnivou látku přetáčí ze strany na stranu, mne mezi prsty, zamyšleně luští cenovku a pročítá složený vzkaz, jak pobíhá za rohem a cosi tam do ulice na neznámého volá. Nikdo se neozve.
 
 Hruď zahýká štěstím, ucítím teplou slast, když si představím, jak se v kuchyňce svléká. A nahá obléká moje šaty, moje moje moje, jsem to já, kdo jí jemně přetahuje hebkou látku přes hlavu, hladí ji a jemně líbá na čelo a spánky, poddajně vlnivou modří obepíná paže, ňadra, břicho a klín, její klín mi ukáže půlnoc, teplá slast se vyřine, tentokrát se místa mezi nohama nemusím dotknout. Moje milá. Ty. Já.
-
-  
 
 Justýna si popraskaný střep zrcadla posunuje po oblinách svého těla, jako by procházela letištní kontrolou, hledala kovové předměty, čekala vzrušená na zapípání. Šaty jsou překrásné. Na stole uhladí papír popsaný propiskou a polohlasem – pokolikáté – potěžká slova.
 
@@ -527,8 +461,6 @@ Justýna zamyšleně brejlí na nakrojenou šišku salámu.
 
 Usměje se.
 
-  
-
 Otázka dne zněla jednoduše. Jak tento den přežít.
 
 Zásada číslo jedna: nepanikařit.
@@ -547,15 +479,11 @@ První se hladově zakousne Knutítek. Blahem zahýká. V koutcích úst se mu 
 
 Bylo tu, není tu.
 
-  
-
 Čas blaha. Jeden rok, tři měsíce, pět dní. Krčím se za záclonou. Víla vytančila z vrátek. Má umyté vlasy. Učesané. Schycené červenou gumičkou. Je krásná k neunesení. Zatajím myšlenky. Její stádečko ji sleduje jako uhranuté. Pohyby má vláčné, laskavé. Dotýká se prsty vlásků, jako by hrála neviditelnou paličkou na xylofon.
 
 Projdu do kuchyně, kotníky nafouklé, třou se o sebe, jako by mi na ně někdo nalepil bicepsy zápasníka. Odstátou vodou zaliju tchynin jazyk. V kredenci zašmátrám, pokochám se numerem vkladní knížky, k vylisovaným bankovkám přiložím příbuzné tulačky, zmačkané dvě stovky. Heslo Justýna.
 
 Takový pocukrovaný, takový svěží den. Justýno, paní má drahá.
-
-  
 
 Pět postaviček se odtrhne a putuje k budově základní školy už bez doprovodné stráže.
 
@@ -577,8 +505,6 @@ Kluk překotně přitakává. Krahulík mizí. S Burákem se zalígrujou na zá
 
 Zvoní.
 
-  
-
 Justýna odšlape čtyři ulice. Bobulku marně pohání, a tak ji větší kus cesty poponáší. Své varhánky sesadí na oranžovou lavici. Pod obrázky zvířátek, která jim patří. Zouvá poděděné boty, převléká tepláčky.
 
 Broskvička má bačkůrky nově slepené, hořce páchnou lepidlem, pyšně je předvádí ptačí tváři. Ta vyčkává, aby trojici převedla do sousedního oddělení, než s ostatními dětmi odejde do divadla. Ptačí tvář se pousměje, přesto vzdychne, nasměruje ukazováček.
@@ -598,8 +524,6 @@ Broskvička má bačkůrky nově slepené, hořce páchnou lepidlem, pyšně je 
 „V hokeji!“
 
 „V hokeji. Mistr světa amoleta.“
-
-  
 
 Než svůj domek s verandou a zpustlou zahradou opustím, převážu si kotníky. Nafukující se zkažené maso obepnuto, kůže na buben napnuta, jen do ní zabušit paličkami. V náhlém hnutí mysli prohledám matčinu lékárničku, antibiotikum k ošetření kůže. Nezáleželo mi na tom, po její smrti už ne, přál jsem si, aby se nakazil zbytek těla a já už nemusel nic, jen se rozpadnout a někde zalezlý dodýchat. Odumíral jsem, duševní sebevražda, samoupálení. To paní Justýna mě vrátila do života, když se přistěhovala naproti. Mast je prošlá. Zítra se dobelhám ke své lékařce. Začnu se léčit, důkladně. Kvůli paní spanilé odnaproti, kvůli ní.
 
@@ -623,15 +547,11 @@ Pětkrát bych to měl zopakovat, oharkům. Přilétne rozžhavené oko, které 
 
 Vlak vjíždí do jejich hurónského smíchu.
 
-  
-
 V rámu okna stromy a slizká stopa řeky. V rámu okna vidím její tvář. Cítím její tělo vedle svého. Před rokem tu seděla. Hledala tátu, kterého nikdy neviděla. Na úřadech dohledávala poslední adresu. Nevěří, že je mrtvý.
 
 Dnes jako tehdy. Sedíme vedle sebe v kupé. Dnes jako tehdy. Dotýkáme se stehny. Nevyzná se ve velkém městě, nevyzná se tu. Drží se mého lokte. Loket míří do břicha. Projede mnou milostný šíp a vlhnou mi oči. Jsem šťastný. Justýna drží papírek, písmena na něm chtějí k řece. U řeky stojí velký dům, v něm bydlíval ten muž. Justýna přesto doufá. Vchodové dveře jsou otevřené, vystoupáme vzhůru. Zazvoníme u stejného čísla, které máme napsané na lístku. Ach, jak je krásná. A voňavá. A nervózní. Znovu si učísne vlasy a olízne rty. Nemaluje se, nikdy, a jak je krásná. A napjatá. Jsme spolu. Je advent. Zvoníme. Prst s okousaným nehtem drží na zvonku dlouho. Pak krátce zabubnuje.
 
 Dívám se z okna vlaku. Široké silnice a činžovní domy. Spleť kolejí před nádražím houstne. Všude její tvář. Na každém billboardu.
-
-  
 
 Justýna vejde do hypermarketu. Bobulku posadí do pojízdného košíku. Bobulka si lehne, vykukuje zpoza kovových mříží. Projíždějí uličkami rychle. Justýna točí rozpustile košíkem, dítě v drátěném kolotoči výská. Justýna se sehne a políbí vyšpulené rty v mřížce, přetížené regály míjejí, mají svoje tajemství, svoje bohatství, míjejí mohutného muže v obleku: sklání se nad etiketou šampaňského, dlouze vybírá.
 
@@ -641,13 +561,9 @@ Bochník chleba, kvádr krystalového cukru, krabice mléka, šest vajíček, me
 
 Harold ví, že ten úsměv patří jemu.
 
-  
-
 Vlak vjíždí do bzučícího velkoměsta. Její tvář v rámu okna se rozpadá. Sedím v prvním kupé, na kraji, hlídám si kliku u dveří. Haranti už v tuhle dobu nejezdí, dřepí ve školních lavicích, ale jeden nikdy neví. U okýnka někdo funivě dospává, zachumlaný v zavěšeném baloňáku. Hlava proklouzla do límce, vidím jen nohy v tmavomodrých kalhotách, nohy pěkně tvarované, černé semišové boty do špičky. Plíživý podzim barví plátno v rámu okna do útěšlivých odstínů, do medové barvy Justýniných vlasů. Med lesních včel. Potlačím chuť vytrčit ruku z okna a prsty prohrábnout koruny stromů, ze kterých by popadaly hrsti listí. Justýna leží na střeše vlaku, do zad ji bodá teplo babího léta, Justýna svými hustými rozpuštěnými vlasy, které přepadávají ve vlnivých pramenech přes obě strany vagonu, barví a proměňuje okolní krajinu; vykoupat se tak nahý v jejích voňavých pramenech a přičichnout. Řeka podél vlaku spěchá a doráží, ráda by olízla koneček vlasů, ráda by se propojila v jeden tok. Vystrčit tak ruku z okna a pocákat řeku, ať zvíře nedolejzá.
 
 Vlak kníkavě brzdí. Žlutý baloňák v koutě se vzdouvá, tušené zvíře pod látkou se rozpohybuje.
-
-  
 
 Harold na stůl postaví lahev šampaňského, pyramidu loupáků, vepřové řízky, sáček s jablky, sáček s pomeranči, deset tabulek čokolády.
 
@@ -658,8 +574,6 @@ Bobulka na dvorku přesýpá přes cedník písek. Dřívky vyrývá obrazce do 
 „Buď hodná, Bobulko, něco mi uvař, nejdřív musíš mouku pořádně prosít, jo.“
 
 Justýna opatrně přivře dveře, ve škvíře Bobulčino tělíčko jako v kleštích.
-
-  
 
 Ta ženská v háčkované čepici, co se tak na mně včera přimhouřenýma očima popásala, sedí v tramvaji zas. Možná z ní ani nevystupuje, bydlí v ní. Bezdomovkyně není, nesmrdí. A zas mě hypnotizuje, hypnotizuje mě pohledem, přitom se odtahuje. Očima si mě přitahuje, tělem odstrkuje. Dneska ti žádný divadýlko nepředvedu, děvenko, trhni si svojí nohou.
 
@@ -687,8 +601,6 @@ Z truhličky tuhého papíru se vyloupnou modré italské lodičky na štíhlé
 
 Zásah.
 
-  
-
 Naproti Haroldovi stojí bosá Justýna. Štíhlá, s docela úzkými boky, víla v bledě modrém, látka dokonale střižených šatů obepíná pevné tělo, které už tolikrát rodilo, bradavky se marně prodírají na světlo; dočkají se. Vlasy jemné a elektrizující, sepnuté černou gumičkou, oči rozšířené, ústa pootevřená. Justýna vlasy uvolní, zatřese hlavou, ve vlasech je síla řek. Bosýma nohama si stoupne na Haroldovy vyleštěné polobotky, na ten vratký podstavec. Opře se mu rukama o hruď, špitne magické SINE AMORE NIHIL a líbne ho na pleš. Dvakrát ďobne jako ptáček, okusí jemné vrásky mužových rtů. Ozobe jemnou něhou jeho víčka, čelo, tváře, špičku nosu, ušní lalůčky. Vrátí se k výchozímu bodu, povysune jazyk a nezadržitelná smršť smete definitivně hadí pár, proplétají se a padají do nevědomí.
 
 Justýna Harolda políbila. Justýna Harolda hladila. Justýna Haroldovi špitala tichá slůvka.
@@ -699,8 +611,6 @@ Když k němu přijdou poprvé, nechává je ve své kanceláři. Čekají dlou
 
 O tomhle Justýna nemá ani potuchy. Jen intuitivně vnímá zvířený prach, který bez vysvětlení dosedá na její tělo.
 
-  
-
 Nastává velký den paní Lauschmannové, mé štědré přítelkyně. Je v pořadí třetí. Zdatní zřízenci soukromé pohřební služby FREUDE A SPOL. kmitají, dvakrát sesouvám z písmenek cizí jména, smažáky, třetí bude má rozmilá, blízká, chápavá. Ano, dnešek prosvícený babím létem je dnem Gity Lauschmannové. Zaslouží si _Missu solemnis_ v uzavřeném kruhu, v soukromí, přestože v úterky provětrávám Mozartovy kazety, _Così fan tutte_. Jenomže Lauschmannová není jako všechny. Lauschmannová je jiná. Je ke mně přívětivá a štědrá i po smrti.
 
 Tělo v černém igelitovém pytli už je nasoukané v dřevěné lodi. Než dosedne na exlou košili poklop a loď se změní v ponorku, položím na hruď bílou igelitovou tašku s červeným nápisem H&M: uvnitř pečlivě složené modré šaty, kytičkovaný stan mé obézní matky. A papírovou šachtli s ošmajdanými zdravotními polobotkami; zlostná muklovka Muchová dnes bude muset z práce odťapat v plstěných pantoflích. Zatímco matka i Lauschmannová natáhly bačkory.
@@ -709,15 +619,11 @@ Ano, jsem cynický.
 
 Jinak bych ve svém těle nepřežil.
 
-  
-
 Justýna zamyšleně převléká Bobulku. Justýna převléká Bobulku a nevnímá ji. Marně pátrá, kde udělala chybu. Proč beze slova odešel, sotva si dopnul kalhoty. Proč ten závan mrazivého chladu. Bez lásky není nic, to jí přece napsal. A co je psáno, to je dáno. Svléká kouzelné šaty, modř pečlivě složí. Stojí nahá před umělohmotnou vaničkou, ne, nesmyje ho ze sebe, bude s ní, nechá ho na břiše a stehnech zaschnout. Bez lásky není nic.
 
 „Pán,“ stéká čokoládová kapka Bobulce po bradičce.
 
 „Ano, můj pán,“ slízne černou slzu Justýna.
-
-  
 
 O pauzách rád špacíruju mezi hroby. Je krásně, ukusuju chleba s máslem, konvicí s vodou pohupuju v ruce, střídavě zalévám. S obdélníky rozměrů lůžka se mazlí otupělé slunce. Většina je zabetonovaných, což je nelidské. Ve třetí řadě je hrob, o který se starám léta, o který se staral i táta, hrob s nápisem _Li-Tu_, _Artist (1899–1944),_ vymyká se, vymyká se tím jménem, vymyká se podivínstvím, vymyká se, jako se vymykám já. S tátou jsme vymýšleli osud člověka jménem Li-Tu, co asi dělal v tomto městě, kudy chodil, kde žil, co dělal, s kým se přátelil, proč má tak měšťácký hrob. Otec zjistil, že byl varietním umělcem, oblíbeným mezi německy mluvícím pražským obyvatelstvem, a dovlekl k němu anděla bez hlavy ze zrušeného hrobu. Já si chtěl anděla loni v batohu odnést domů na zahradu nebo ho věnovat své paní, ale neunesl jsem ho, těžkl každým krokem. Daroval jsem ho tak podruhé neznámému Číňanovi, musí mít radost, když byl ten artist.
 
@@ -767,15 +673,11 @@ Přeřadili ho. A jeho kamaráda taky. Nesměl našlapovat nad královstvím mr
 
 V komunismu se jen radostně žije.
 
-  
-
 Justýna prázdnou lahví od červeného vína naklepává plátek kuřecího řízku a solí ho slzami. Škytne a v prstech rozemne a rozdrobí půlku starého rohlíku. Hladké mouky nabere na špičku nože a uplácne do mokrého masa. Rozkvedlá slizkou hmotu vajíčka se stopečkou mléka, vykoupe v bahenní koupeli plátek masa a připlácne na něj strouhankové drobky. Z vajíčka bude polévka k večeři.
 
 Krmí Bobulku a rozpláče se. Mluví na Bobulku mezi vzlyky, mudruje, to je proto, že mám tolik dětí, toho on se bojí, ale nedá se nic dělat, děti jsou přece taky láska, ty seš taky láska. Bobulka po maminčině vzoru zkrabatí obličej. Pláčou obě.
 
 Každá z lásky k někomu jinému.
-
-  
 
 Smuteční obřad mojí sudičky Lauschmannové se blíží. Šlápnu magneťáku na plyn. Muklová nezaklepe, vrazí do místnosti, její kostnatý prst zprudka utne tóny.
 
@@ -793,13 +695,9 @@ Muklovka za sebou práskne dveřmi. Šlápla na krk mně. Tělo se zakymácí, j
 
 Bráním živoucí lásku, bráním Justýnu. Nic ji nesmí ohrozit. Je to past. A já, rytíř v chrabré zbroji, se léčce vyhnu; nabrousím si jazyk.
 
-  
-
 V plastové vaničce pere Justýna pleny, dětská trička a povlečení ze tří postelí. Zašedlá prostěradla přehodí přes motouz natažený mezi pokřivenými větvemi hrušky a skobou ve zdi. V plastové vaničce vymění vodu, umyje nádobí, vodu si ohřívá na vařiči ve smaltovaných hrnečcích. Vytře podlahu, lino je potrhané, v trhlinách se pročerňují obrazce, ve kterých se zachytávají drobky, písek, úzkost, prach, strouhanka, mouka, strach. Pokusí se přerovnat oblečení pro deset lidí, nacpané do jedné skříně, je to marná snaha, ponožky samy vyskakují, komínky svetříků se opile kácejí. Přecpanou skříň prudce přirazí a rozpláče se ještě víc. Mokrým hadrem přetře stůl, masíruje kluzkou plochu nesmyslně dlouho, chce se vedřít kamsi hluboko, ne, zvládne to, začne zhluboka dýchat, musí to zvládnout, musí potlačit nutkání lézt po zdi a drhnout čelem omítku.
 
 Je čas.
-
-  
 
 „I-I-istě, i-istě, pani. U-upřimnou a hlubokou soustrast.“
 
@@ -833,8 +731,6 @@ Zamknu za nimi dveře. Mám pocit, že vyzvracím plíce. Tolik slov. Moře slov
 
 Má láska je zachráněna.
 
-  
-
 S Bobulkou na klíně čeká Justýna v přeplněné, dusné čekárně. Slzy vyschly, sedí otupěle. Pláč unavil její tělo. Všichni čekají na milost. Někteří milost zneužívají. A jednou zneužitá milost se zády obrátí ke všem zbývajícím, bez rozdílu.
 
 V moderní budově z kovu a skla, v budově s rozlehlými chodbami zbyl na čekárnu prostor do písmena L, je to vlastně průchozí chodbička, kam se vejde málo židlí. Na korkovou nástěnku je připíchnuta čtvrtka s nápisem „Přednostní právo sedět mají matky s malými dětmi“. Kdosi propiskou a roztřeseným písmem připsal „A důchodci“. A obyčejnou tužkou a písmem oblým „A těhotné“. A v rohu sotva čitelně tiskacím písmem „Rád postojím. Zdraví zdravý mladý muž“.
@@ -842,8 +738,6 @@ V moderní budově z kovu a skla, v budově s rozlehlými chodbami zbyl na 
 Lidé se opírají zády o zeď nebo sedí na bobku, polohlasem mrmlají. Zášť k těm cizím odvedle. Zvednou se pokaždé všichni, jakmile se otevřou dveře s propouštěným prosebníkem. Z kanceláří přelétávají sem a tam mouchy, shonem natrvalené úřednice, bzučící kmitavá výčitka povalečům v koutě. Mouchy navlečené do uniforem halenek a sukní a kostýmků, které nakupují na tržišti u Vietnamců, jimž pak vystavují pokuty za nepoctivou živnost. Norma slušného oblečení, norma slušného života. Od klientů se odtahují. Za úsměvy skrývají snahu vyhnout se komplikacím, snahu rychle oštemplovat případy, vyřízeno a horká káva. Skrývají za nimi strach. Aby nepřepadly z paluby pro první třídu do podpalubí; nechtějí se utopit, nechtějí se od těch neúspěšných v čekárně nakazit, s jejich světem nemají nic společného, nemají nic společného s tvory evakuovanými ze společnosti. Odtahují se i od Justýny. Justýnino tělo přiláká rozptýlenou úzkost. Je dvojnásobným nebezpečím, k ní padají semínka strachu rozsévaná od narození a dopadnou na pečlivě zoranou půdu.
 
 I hejno much se vzrušeně rozvlní a rozbzučí pokaždé, když chodbou produpe jejich elegantní nadřízený, náměstek pro sociální záležitosti JUDr. Harold Novák.
-
-  
 
 Napustím horkou vodu do umyvadla, musím se omýt. Pot mi tryskal ze všech pórů, páchnoucí trsy chlupů v podpaždí namydlím. Pot přischl v podobě žmolků, v podobě žlutavé hlíny, kterou zasypávali rakev. Vydrhnu se a rychle pryč. Chystám se zamknout, když kolem mě v drahém obleku a se zbrusu novým zlatým řetězem na opáleném krku prolétne majitel firmy, pan Josífek Freude.
 
@@ -860,8 +754,6 @@ Dnes jich mám za sebou stovky.
 Mobil zabublá odrhovačku. Mávne, neví o mně, řítí se dál a hlasitě křičí do vzduchu. Ani na setinu vteřiny ho nenapadne, že si jednou poskládám i jeho písmena. V kapitalismu se neumírá, říká Josífek Freude.
 
 V kapitalismu se jen radostně žije.
-
-  
 
 „Ten dluh na nájmu v ubytovně jsem přece splatila.“ Omluvně se zajíkne Justýna.
 
@@ -939,8 +831,6 @@ Justýna na rozmáchlá inkoustová písmena plivne. Na chodbě. Nechá Bobulku 
 
 Lid v čekárně obživne. Rozšumí se. Okamžitě zmlkne, když se dveře znovu otevřou.
 
-  
-
 Ještě v tramvaji promýšlím, zda jsem přece jen neměl na sudičku Lauschmannovou natáhnout ten květovaný hacafrak a nohy narvat do polobotek. Ne ne, tím bych ji zneuctil. Nadměrnou velikostí nemoderního střihu a prochozenýma botama nevoňavé Muklové. Ve vlaku se zavrtám mezi písmena. Dnes nikoho nevnímám, dočítám _Dona Quijota_. Knihy a hudba, moje pramice, na kterých já zvládám nebezpečné úseky peřejí. Plavu si mezi řádky a pevně svírám držadlo nafouklé nákupní tašky. Když otáčím stránku, vklíním držadlo mezi kolena. Blaží mě vědomí těžce vybojovaného daru pro mou Dulcineu.
 
 I am the king.
@@ -948,8 +838,6 @@ I am the king.
 Me.
 
 I-istě. I-istě.
-
-  
 
 Justýna jen taktak stihne školku několik minut před zavírací hodinou. Na tázavý pohled ptačího obličeje nereaguje. Rezignovaně obleče děti. Do přihrádek srovná oblečení, šklebí se na ni díra na koleni. Roztržené tepláčky vztekle popadne a mává s nimi Knutítkovi před očima.
 
@@ -967,8 +855,6 @@ Teplákovinu i rozpadající se přezůvky hodí do tašky a vyrazí.
 
 Justýna mrskne po ptačím obličeji v rámu dveří uslzeným okem a utíká pryč. Přestože by učitelku nejraději chytla za ruku a položila si její dlaň na rozpálené čelo. Aby ji ta dlaň konejšila a hladila po dlouhých vlasech.
 
-  
-
 Průvodčí je mladíček, naparuje se, je nový, ještě mě nezná. Mě si všichni pamatují, po mně nikdo průkaz nechce. Hrabu se ve své tašce na kolečkách, peněženka s doklady a legitimací uvízla na dně. Na sedadle vedle mě se kupí zasmrádlé ručníky, zmuchlané prázdné papíry, gumové rukavice, hned několik párů. Průvodčí se přestane pohupovat v kolenou. Vytahuju modrý plášť s rezavými skvrnami, jako od krve, z levé nosní dírky se mi občas spustí. Hrabu jako slepice, zrno ne a ne se objevit. Když vysunu bleděmodrý Popelčin střevíček, průvodčí si otře čelo, zacouvá a nepatřičně salutuje.
 
 „To je… to je to… dobrý… v pořádku… příjemnou cestu… pane.“
@@ -976,8 +862,6 @@ Průvodčí je mladíček, naparuje se, je nový, ještě mě nezná. Mě si vš
 Odbíhá a z kapsy vytahuje telefon.
 
 Vystoupí na stejné zastávce jako já. Vrhne se k výpravčímu a gestikuluje směrem ke mně. Seskakuju ze schůdků. Tašku na kolečkách opatrně sundám dolů, obejmu ji jako malé dítě. Výpravčí se podrbe za uchem, uklidní mladíčka poplácáním po rameni. Odcházím, a když se na rozcestí otočím, ještě spolu debatují. Výpravčí poslouchá, pravou rukou opřený o starou pumpu. Pak se rozpovídá a začne přecházet sem a tam.
-
-  
 
 Justýna zažene Barvičku, která si maluje na sáček od cukru. Potřebuje uvolnit stůl. Zařve na čutající kluky. Výslech začíná. Vyslechne Banánka s Brambůrkem a Buráka s Krahulíkem. Pátrají očima v kalendáři, pátrají nad žákovskými knížkami. Zacelují políčka s otazníky. Ti nejstarší chyběli, chyběli několik dní. Justýna přechodila chřipku, dostala zápal plic, někdo se o mladší sourozence starat musel.
 
@@ -992,8 +876,6 @@ Justýna generálským tónem přivolá Barvičku zpátky. Má proslov k vojsku
 Rozkrájí dětem jablka.
 
 Jádřince polkne sama.
-
-  
 
 I muž v kožené bundě dneska přecházel sem a tam. Brzy ráno. Na tramvajovém můstku. Když jsem jel do práce.
 
@@ -1032,8 +914,6 @@ Když jsem z tramvaje vystupoval, tmavokožec do mě vrazil.
 „Vodprejskni, kreténe.“
 
 Zapaloval si cigaretu. Promodralý plamínek vykoukl ze zapalovače. Balancoval na hraně. Tmavokožec do něj ponořil bílou hůlku, kterou nejprve olízl. Plamínek zalezl.
-
-  
 
 Opouštím nádraží, v uších mi cvrliká japonština, zdálky to vypadá, že výpravčí mluví japonsky, mladíček mu nerozumí. Do Japonska nikdy nepojedu. Existuje hodně míst, kam nikdy nepojedu. Jen do říše mrtvých, to mě v nejlepším případě ještě čeká, neslyšně pracující hrobař.
 
@@ -1097,8 +977,6 @@ Hrají fotbal. Tuším zbolavělý stín paní za zdí. Počkej si na měsíc, m
 
 > _vůní, co na můj čich.[^5]_
 
-  
-
 Noc je temná, hvězdy rozhořelé. Půlnoc si dává načas. Justýna bosým chodidlem práh překročí až o půl jedné, ačkoliv se původně rozhodla, že dnes svůj rozcitlivělý nos nevystrčí. Pomalu rozevírá dveře, pruh světla se plíží na zápraží, olizuje beton, přelízne papírovou krabici. Justýna není překvapená. Cigaretu nechá v koutku úst a přidřepne. Rozhlédne se.
 
 Vyjme jednu modrou lodičku postříbřenou hvězdami a zkoumá ji. Kecne na zadek, obuje pravý střevíček. Potom levý.
@@ -1107,19 +985,13 @@ Přes ulici se pohne záclona.
 
 A zazní jemný sten.
 
-  
-
 Zlíbal jsem oba střevíčky tolikrát, tisíckrát jsem ocucal podpatky. Když se jich teď dotýká, pocítím mezi nohama slastné bodnutí. Když se dotýká jejich kůže, je to, jako by mi všechny ty vášnivé polibky oplácela. Vyjeknu slastí. Když oči rozevřu, Justýna už na zápraží nesedí.
-
-  
 
 Justýna dřepí u stolu. Sesutá postava mizí a zjevuje se. Ve tmě cvaká spínačem lampičky. Na nohou modrý obal na štíhlé jehle. Cvaká spínačem bílé lampičky, ulevuje si představami, kam by podpatek zaryla Haroldovi do těla. Každé cvaknutí = jedna bolestná rána. Prvním cvaknutím ji pohltí tma, druhým cvaknutím se zjeví v trychtýři světla. Nerozumí tomu, nerozumí jeho chování. Přisune si proutěný košík, vyloví tepláčky, navlékne nit do ouška jehly, zašívá. Nárt ji tlačí, nohy vysune ze zánovního vězení. Než boty pohřbí do krabice, přetáčí je ze všech stran, kochá se. V labutím krku těsně nad podpatkem je izolepou přichycena podivná rulička. Z proužku utrženého linkovaného papíru rozmotá štůsek pomačkaných stokorun, dvoustovek a… a tisícikorunu.
 
 Justýna se rozzáří. Takhle on je tedy rafinovaný. Odvádí pozornost, uklidňuje. Nesmíme se prozradit. Musí být přísný na ni, musí být přísný na sebe. Než nastane jejich doba. Ona zatím přivykne tomu překvapivému faktu, že ji Harold skutečně miluje.
 
 A ona se naučí milovat jeho.
-
-  
 
 Jeden rok, šest měsíců, pět dní. Tůně blaha, ve kterých se slastně ráchám.
 
@@ -1167,8 +1039,6 @@ Zkouška ohněm. Podklesnu, kleknu. Lýtka zhadrovatěla, přestože je léčím
 
 Lapí mě mřížoví.
 
-  
-
 Justýna popraskanýma, zvlhlýma rukama přetáčí obálku s předvoláním. Pošťačce, která zvědavě nakukuje do dveří, kde Justýna v plastové vaničce máchá prádlo v ledové vodě, podepíše doručenku. Justýnin podpis je nečitelný, rozpitý.
 
 Justýna sehne hlavu, projde pod mokrým tričkem, látka ji plácne studeně do ucha. Šňůra je natažená mezi horním dílcem palandy a skobou nad vchodem, prádlo visí zplihle nad stolem, odkapávají karnevalové fáborky na letní tancovačce, prudká bouřka odehnala všechny tanečníky.
@@ -1180,8 +1050,6 @@ Dosedne. Ruce se jí třesou, na dlaních má mozoly, každý kus prádla, než 
 Její pán se ozval.
 
 Její pán ji konečně povolává k sobě.
-
-  
 
 Zmátořím se v umývárně. Do výlevky odtéká teplá voda, s ní odplouvá pot mých spánků. Sleduju tekutý vír. Nenávratně mizí v potrubí a mlaskne. Přiživím ho. Mocně si odplivnu. Závaží dnešního dne přeplivnu na zítřek. Nic se nejí tak horký, jak se ukuchtí, říkávala máma, nic se nehltá vařící, tak přestaň bulet a čekej. Zítřek mnohé rozfouká, mnohé zchladne.
 
@@ -1211,8 +1079,6 @@ Dnes ho tedy uvidí.
 
 Dnes pro změnu obdaruje ona jeho. Ty!
 
-  
-
 Dveře starožitnictví na Starém Městě, v domě s modrou omítkou a bílými parapety, zaklinkají své kudykam, kudykam. Vždycky si mě usadí do rudě plyšového křesla, nabídnou horké kafe. Majitel s mladými prodavačkami se tolik usmívají, ne na mě, ale na rokokovou figurku, sklání hlavy, odprodávám další kus máminy celoživotní porcelánové sbírky. Financoval ji táta, tuhletu slepou matčinu vášeň, vděčný, že ho vyvázala z otcovských i manželských povinností, nesnesl pohled na podivuhodnou kojeneckou hmotu, o které tvrdili, že je jeho synem, nesnesl pohled do vlastního zrcadla, které rostlo. Viděl jsem ho sedmkrát, neřekl ani slovo, strnule se usmíval, uhýbal očima s potlačeným nutkáním otočit se úplně a zvracet. Porcelánový mecenáš.
 
 Funebrák.
@@ -1237,8 +1103,6 @@ V přetékajících potravinách dokoupím dva dorty. Kola úměrná počtu pí
 
 A pro sebe drolivé laskonky s rokokovou polevou.
 
-  
-
 Justýna stoupne levou nohou na poklop záchodové mísy. Jedním švihem se vyhoupne, ze splachovací nádržky sundá papírovou krabici, došlápne na zem.
 
 Vyvětrá pokladnici.
@@ -1247,8 +1111,6 @@ Vyvětrá pokladnici.
 
 > _… a nos jej bez přestání…[^6]_
 
-  
-
 Vzbudí a nakrmí Bobulku. Jogurtový kelímek vyškrábne sama. Na zápraží ochutná a polyká ostrý vzduch. Je roztrpčená, protože v podzimním chladu musí blankyt zdusit starým hnědým kabátem, který v čase jarních úklidů našel Krahulík; kabát byl pověšený u sídlištních popelnic, zdálky vypadal jako opilý spáč. Je roztrpčená i proto, že zatouží po půlkapce parfému, chtěla by modrou nádheru pokropit omamnou rosou, přivábit prince. Vonět kvůli němu. Bobulce ke krku dopne škobrtavý zip zimní bundy, bundy s příliš dlouhými rukávy, které musí na koncích několikrát přehnout.
 
 „Dneska máš narozeniny a dárek dostanu i já, víš.“
@@ -1256,8 +1118,6 @@ Vzbudí a nakrmí Bobulku. Jogurtový kelímek vyškrábne sama. Na zápraží 
 „Ježíšek?“
 
 „Pán, broučku, můj pán.“
-
-  
 
 Artista balancuje se třemi bílými krabicemi na jedné ruce, přes třípatrový bílý svatební dort sotva vidím na cestu, dav se přede mnou rozevírá, brní mě pravé předloktí, nejraději bych ty šachtle položil na dlažbu, navázal je za sebou a táhl kvádrovité pejsky. Nebo si je naskládal na sáňky a drkotal po dláždění. Druhou rukou vleču nákupní tašku na kolečkách, Barbie ve futrálu, vyztuženou z obou stran čtyřmi lahvemi dětského šampaňského a z vnější strany krytou sáňkovou klecí.
 
@@ -1268,8 +1128,6 @@ Zazubí se starý známý průvodčí, když škobrtnu na schůdcích vlaku. A 
 „K-kde je ten m-mladej utřinos?“
 
 „Nevydržel nám. Tadle práce holt nejni pro slabý nervy.“
-
-  
 
 V posledním patře radnice, v čekárně sociálního odboru se Justýna vysvlékne z kabátu jako z prašivé, zastaralé kůže. Kabát přeloží, sroluje a odloží ke zdi. Na hladké linoleum. Na kabát si sedne a na klín si posadí Bobulku. Věšák tu chybí. Lidé se potí v přehřáté místnosti, radiátory hučí. Justýna je krásná a ví o tom a k ničemu jí to není. V této místnosti je krása zbytečnou přítěží, nehodí se sem, takové privilegium vyvolává podezření a závist a prohlubuje úzkost. Z koláče ukrajuje někdo, kdo to nepotřebuje. Tady se čeká na verdikty abstraktní moci, která se maskuje těly úředníků a úřednic. Solidarita žen je jenom iluzí. V čekárně se přou o pořadí, tlumeně se hádají, Justýnu svorně odsouvají. Z houfu nenávistně semknutých si ji přivolá samotná paní Bohdalová.
 
@@ -1282,8 +1140,6 @@ Vejdou. Zaklapnou za nimi dveře. V místnosti se dvěma masivními dubovými t
 Justýna neodpoví. Nadzdvihne Bobulku, přihladí si jednou rukou látku na stehnech, aby ji Bobulka nezmuchlala, a nechá dítě dosednout do klína. Je vyrovnaná, jistá, vody se zklidnily. Harold má jistě svůj plán. Třeba jí vrátí její třípokojový byt. A požádá ji o ruku.
 
 „Tak to, milá maminko, zkrátíme. Po dlouhém zvažování jsme podali návrh na odebrání dětí.“
-
-  
 
 Rozprší se v momentě, kdy trůním ve vlaku, obličej za pyramidou. Pokojně oddychuji, nejhorší úsek cesty jsem zdolal, náklad bez problémů dopravím k cíli. Rozprší se bezohledně, z bezedné kropenky se sypou kapky, víčko se utrhlo, vychrstla se vodní láva, déšť, o kterém nikdo neví, kdy začal, a který vzbuzuje dojem, že nikdy nepřestane, někde v podvědomí přežívá varovný Noemův osud, lidé se fascinováni ztišili u oken; o ničem jiném než o nečekaném dešti se ve vlaku semknutě nebaví.
 
@@ -1323,8 +1179,6 @@ Bosý Krahulík vyrazí jako první. Deštník půjčím Broskvičce a Banánko
 
 Procesí šťastných bosonohých.
 
-  
-
 „Dluh jsem dávno splatila.“
 
 Justýna si odkašle. Justýně vyschlo v krku. Dopadá na ni radiové vlnění slov; kdyby držela sluchátka, odtáhne je od ucha do bodu nesrozumitelnosti, nebo rovnou vypne.
@@ -1338,8 +1192,6 @@ Justýna pevně stiskne Bobulku. Otočí si ji tváří k sobě a obemkne ji r
 „Já… já chci okamžitě mluvit s panem vedoucím.“
 
 „Já jsem tady vedoucí.“ Usměje se a vztyčí paní Bohdalová. „Doktor Harold Novák tu už měsíc nepracuje. Povýšil.“
-
-  
 
 Přeběhly, chytají se provazů deště. Skotačily živě, skotačily, děti mají neživotnou koncovku, nevím proč, měl jsem se na to zeptat mámy, když ještě žila, Freude ani Muklovka mi na tohle neodpoví, protože moc nepíšou, moc nečtou; děti taky nemají. Freude a Muklovka jsou neživí.
 
@@ -1363,8 +1215,6 @@ Déšť se unavil a slábne, bodejť, nic netrvá věčně. Namačkáni v těs
 
 Cítím štěstí = smrdím pěstí.
 
-  
-
 Justýna opustí střílnu.
 
 Nechráněná odolává palbě ze dvou stanovišť. Nic neříká, pro vyvolené zbude neštěstí vždycky dost.
@@ -1381,8 +1231,6 @@ A jiné Harold nepostavil před těžkou volbu.
 
 Promočená a urousaná Justýna vlítne do dveří, napuchlýma očima přelétne a spočítá ptáčata, je jich o jednoho víc, ne ne ne, to je ten potrhlý soused, kníže Krvepolský. Sbalím všem kufry a mizíme, kmitne jí hlavou. Jenomže nemá kufry. A nemá, kam by šla. Kecne na zem a rozpláče se znovu. Musí najít svého tátu, kterého nikdy neviděla. Nevěří, že je mrtvý. Ochrání ji jeho kůže. Bílá kůže je zaříkávadlo. Bílá kůže je mocná. Jeho kůže bude vlídná, zabalí se do ní. Táta. Tatínek.
 
-  
-
 Kapitán dorazil i s plavčíkem. Justýna sedí na bobku, zapomenutá vodní víla; blankytná, nehmotná rusalka. V chodidlech zažraná špína, v chodidlech struktura skály. S urousanými prameny vlasů přilepenými na tváře a spánky a čelo. Prší z ní voda.
 
 Vstanu od stolu, protlačím se k ní, nastavují mi se smíchem nohy, není tu k hnutí. Srdce mi buší, hlavně abych ovládl své pohyby. Dotýkám se jí, ani nedutám. Opatrněji slepené pramínky uvolním z koutku úst. Odsunu oponu nad očima. Podám jí svůj vyžehlený kapesník s monogramem. Zatroubí halali a zmizí za závěsem v kuchyňce. Při představě, že se v této vteřině převléká, se mi zrychlí dech, tělo začne tančit, jsem jako psík slintající nad voňavou uzeninovou kostí. Rychle v kapse zašátrat po krabičce sirek, zapálit dvě svíčky zabodnuté do kiwi a ananasu v rosolovité polevě. Ruka se mi třese, cuká, netrefím se. Hihňají se. Nejstarší Krahulík mi vytrhne z ruky začerněné párátko a titěrnou krabičku. Plamínek vyšlehne. Teplo domova.
@@ -1390,8 +1238,6 @@ Vstanu od stolu, protlačím se k ní, nastavují mi se smíchem nohy, není tu
 Justýna vejde, už převlečená, drbe si vlasy ručníkem, přidá se k nám, hodně štěstí, zdraví. Řve z plných plic, huláká, až celá zrudne, my se přidáváme, hlasitost řídíme podle ní, vydávíme plíce, to ona určuje rytmus našich životů, to s ní jsme šťastní, to ona je nejsilnější, šťastná krásná paní.
 
 Jedenáct hrdel hřímá svůj očistný chorál, hodně štěstí, zdraví, milá Bobulko, hodně štěstí, zdraví.
-
-  
 
 Otázka dne zněla jednoduše. Jak tento den přežít.
 
@@ -1410,8 +1256,6 @@ Ráno vysvitlo slunce v podivně pokojném, jasném pruhu. Přívětivém. Neby
 Z vlasů stáhne bezmyšlenkovitě gumičku a pohrabáčem pravé ruky si sčesává dlouhé prameny vlasů přes oči, přes celý obličej, schovává se za clonu, vzlykne a cosi mumlá, gumičku v ruce přetáčí jako růženec.
 
 Justýna panikaří.
-
-  
 
 Slastné protažení. Za zavřenými víčky kmitám očima a paběrkuju střípky snů, obrazy rozesmáté Justýny, která se nade mnou sklání, nalitá prsa tiskne na mé vztahující se bradavky, rozesmátá Justýna mi sáhne do slabin, vlhkou černotou nasedá na můj vercajk, na mého ztopořeného nebožtíka, Justýna si osedlá mého hřebce a rajtuje jako posedlá, do úst mi vnoří jazyk a na něm, jako na lopatce, žlutou manu.
 
@@ -1447,8 +1291,6 @@ Zabouchla. Zamkla za mnou.
 
 Natřikrát.
 
-  
-
 Burák zaplácne budík. Vstávají a štěbetají, v nohou postelí marně hledají hromádky s oblečením. Bobulka zapláče, Banánek volá Justýnu; najde ji, jak se zchladle choulí na zápraží a zarytě mlčí. Bobulka k ní přicape s barbínou v náručí.
 
 „Jmenuje se Ustyna. Jako ty. Šikal Kuvepolský.“
@@ -1479,8 +1321,6 @@ Do školky dnes Justýna děti neodvede. Sedí nehybně až do chvíle, kdy k n
 
 S Bobulkou v náručí a třemi udýchanými dětmi v závěsu vtrhne Justýna rovnou do ordinace dětské lékařky. Námitky čekajících utne. Je to smrtelně vážné. A je to nakažlivé.
 
-  
-
 Přetáčím v ruce pichlavý ananas, jeho snový ždibeček po jazyku převalovala Justýna. V hlavě přehrávám včerejší večer. Ze bzukotu hlasů vylovím a paběrkuju slova, její slova. A věty, její věty.
 
 Za svítání tiskla záda ke zdi, přilepená k sáňkám, něžný závoj vlasů kryl tvář. Ani se nepohnula. I když kolem ní vířilo hejno komárů. Vystřelila nečekaně, ale ne směrem ke školce. Něco se opravdu děje. Ale co?
@@ -1493,8 +1333,6 @@ Nic se nejí tak horký, jak se ukuchtí, říkávala matka. Ale někdo na rozfo
 
 Zhluboka se nadechnu. Horkou kaši vyfoukám já.
 
-  
-
 Justýna sedí v ordinaci a vlídné lékařce v brýlích, která za jejími dětmi přijíždí domů, aby jí ulehčila, o překot cosi vysvětluje. Řeka nesourodých slov, lapají po záchranné vestě. Lékařka Justýnu zastaví uprostřed toku a zklidní. Trpí-li někdo paranoiou, ještě to neznamená, že ho skutečně někdo nepronásleduje, myslí si lékařka a poslouchá dál. Justýnina slova jsou dravým proudem: kdosi chce její děti neví kdo ale jak se má bránit co má dělat vzdělání nemá příbuzné nemá peníze nemá s nikým se tu nepřátelí přivedl ji manžel a byla doma s dětmi děti jsou její svět nic jiného nemá. Justýna valí slova na překvapenou ženu, odvalí na ni zmatený vír. Kdosi odklidil i její tajnou lásku mstí se jim oběma a teď chce odklidit i její děti.
 
 Justýna valí zcuchaná slova, která s pootevřenými ústy vyslechne i zdravotní sestra opřená o futro dveří. Lékařka se vyptává na podrobnosti a tvrdnou jí rysy. Dá Knutítkovi čokoládu, aby ji rozlomil a rozpočítal pro ostatní děti.
@@ -1502,8 +1340,6 @@ Justýna valí zcuchaná slova, která s pootevřenými ústy vyslechne i zdra
 „Nebojte se, maminko.“
 
 Je vidět, že se bojí sama.
-
-  
 
 Sociálku jsem nikdy nepotřeboval. Matka si nikdy o pomoc neříkala, matka chtěla zvládat všechno sama a taky zvládala a peněz měla dost, ale k čemu jí byly, když vypadala, jak vypadala, a narodil jsem se já, byla to silná žena a někdy se mi po ní stýská. Sociální odbor. S mnoha odděleními. První stupínek vítězství. Pojmenovat kuchaře.
 
@@ -1539,8 +1375,6 @@ Kde se ve mně vzala nadpozemská síla, co zkrotila neposedný jazyk a roztře
 
 „M-ma je rada.“
 
-  
-
 Justýna sedí na krajíčku židle. V prstech přetáčí gumičku do vlasů. Bobulka s Broskvičkou staví na zemi kostky s papírovými obrázky Budulínka. Knutítek s Kaštánkem se navzájem vzpřímeně přeměřují, záda vyrovnaná u kovového stojanu s rýžkami, vrchol hlavy rozčísnutý kovovou šibenicí. Dětská lékařka telefonuje.
 
 „Ano, jistě, o tom není sporu, že místní sociální pracovnice jsou zkušené a odvádějí kvalitní práci.… No právě proto, že okresní soud jen výjimečně nevyhoví vašemu návrhu.… Já si myslím, že je to nedorozumění.… Ale ty děti přece nikdy nebyly týrané nebo hladové nebo citově deprivované. Právě naopak, je to příkladná mateřská péče, vřelá.… Že je chcete matce odebrat, je –… Dobře, ale musí vyžít ze sociálních dávek.… Dobře, ale společnost produkuje problémy, a jednotlivec, který nemá adekvátní prostředky, se má pokusit je řešit jak, když –… Je zajímavé, že si nevšímáte jiných případů, těch mám plnou ordinaci. Vytížené páry, které zaplatí všechno, ale dítě je nakonec obtěžuje, když nesplňuje očekávání, a kdyby existovaly internátní školky, zbaví se dítěte okamžitě jako vadného zboží… Já vím, že to neměla nechat dojít až tak daleko, ale to už teď nezměníme.… Tak proč jí místo toho raději neulehčíte?… Kdo?… Ne, nezacházím do detailů.… Jak a kde si asi má přivydělávat?… Tak si to zkuste při jejím zatížení. Jenom než rozveze a sveze děti, úkoly, vařit, prát, ještě uklízet jednu místnost, která prostě hygienické normy splňovat nemůže, i kdyby se na hlavu postavila…“
@@ -1565,8 +1399,6 @@ Lékařka sáhne do kabelky, vytáhne peněženku a vtiskne Justýně do dlaně
 
 „Všichni záplatujeme. A hlavu vzhůru. – Další.“
 
-  
-
 Má je ráda. Já to vím nejlíp. A já mám rád ji.
 
 Jeho nenávidím. Nenávidím svůj jazyk. Zalezl a nezacláněl. Ale pro změnu odmítal formulovat slova, lepit věty, kterými bych šéfkuchtu rozmetal. Za trest ho vyříznu. Jednou.
@@ -1580,8 +1412,6 @@ Mlčky.
 Ta myšlenka mnou prošlehne jako dávivý plamen. Jsem to já, koho spálí.
 
 Kdyby byla bez dětí… Kdyby byla bez dětí, měl bych ji jen pro sebe.
-
-  
 
 Justýna vejde do hypermarketu. Bobulku napresuje do sedátka pojízdného košíku, Broskvičku do drátěné vany, Knutítek s Kaštánkem si házejí kamínky na parkovišti před obchodem. Projíždějí rychle, Justýna ignoruje prosby holčiček. Chtějí se pokochat dotyky se zbožím, s plyšovými hračkami. Zpoza regálu se vyloupne chlapácký stín.
 
@@ -1609,8 +1439,6 @@ Vlastní desetikorunu vysvobodí ze zajetí, jakmile vyprázdněný koš zavěs�
 
 Cestou domů se Justýna staví ve výčepu hospody a dokoupí si dvě kusovky. Obě dcery křečovitě drží, Bobulku na ruce, Broskvičce svírá dlaň.
 
-  
-
 Naplival bych za to na sebe, naplival.
 
 Polévá mě hrůza, co kdyby Justýna mohla číst moje myšlenky. Nemyslel jsem to vážně, Justýno, zakřičel bych do jejích vlasů, nemyslel jsem to vážně. Milá moje, máš mě ještě, máš mě? Nahmátnu oblý loket…
@@ -1625,8 +1453,6 @@ Jakmile mě zmerčí, chytnou se za ruce.
 
 „Brýden.“
 
-  
-
 Justýna sedí na kameni pod hruškou. Těžký šutr si nenasouká do kapsy, nevstoupí do chladně odtažité řeky. Takový sobecký luxus si dovolit nemůže. Stáhla by s sebou do hlubin celé hejno. Stáhla by do hlubin nejen život svůj.
 
 Dorazí domů současně, děti přepočítá. Napíše s nimi úkoly. Nejvíc se všichni naučí tím, že látku vysvětlují Justýně, která o tom všem nemá ani páru; učí se rychle. Justýna si pročistí hlavu a ostří kopí výřečnosti.
@@ -1634,8 +1460,6 @@ Dorazí domů současně, děti přepočítá. Napíše s nimi úkoly. Nejvíc 
 Děti ječí na dvorku. Justýna si pustí rádio, oddrmolené zprávy se odrážejí od stěn lebky a padají jako nepotřebné kamínky do zapomnění. Zamyšleně probírá kazety převázané červenou mašlí, pročítá hřbety, z hromádky vytáhne tu s popiskem _Ode an die Freude_, tu si ještě nikdy nepřehrála. Ve strachu, že bude jako ostatní. Jako by nebyly určené pro ni. Takovou hudbu, která je chvílemi nudná a chvílemi hrozí, že jí roztrhne hruď, ještě na rozhlasových vlnách neslyšela.
 
 Dneska si ji pustí.
-
-  
 
 Než se z města vrátím, bílý nízký domek se zaplní. Zamřížované okno svítí, večerním šerem se prodírá dětské štěbetání, rozhlasové tóny utopené ve změti hádek a smíchu, ruch podobný letnímu odpoledni u dětského brouzdaliště.
 
@@ -1649,8 +1473,6 @@ Mám nový triedr.
 
 Budu jí mnohem blíž.
 
-  
-
 Justýna v houstnoucí mlze a náhlém projasnění sepisuje lidi, na které se může obrátit. Přemítá, jaký příbuzný se to na ni vyptával, žádné nemá, doluje v paměti, marně, dračic v tvrzi se ptát nebude, mohly by jí přitížit. Musí být obezřetná. V mysli se drápky zachytily dvě slabiky: táta.
 
 Chumel myšlenek, z nichž se Justýna marně vymotává, bobtná. Příběhy se boxují mezi sebou, vystrnaďují se. Justýna se zaposlouchá, _Ode an die Freude_, nesrozumitelná zpráva z jiného světa. Harold ji tedy opravdu miluje. A stydí se za to, jak ji vydíral, nebyl to chtíč, ne, takhle přece vypadá opravdová láska. Kaje se někde o samotě, poustevník. A oblažuje ji tajnými dárky.
@@ -1660,8 +1482,6 @@ Justýna se rozhodne, že na něho přestane číhat, přestane čekat. A bude 
 Utne _Ode an die Freude_ těsně před koncem.
 
 Na chvilku je všechno dobré. Ohnivá útěcha.
-
-  
 
 Nejdřív je postava rozmazaná. Mizí v rámu dveří. Než znovu zaostřím, obrazy mi těkají od kompostu a seschlé hrušky k obrysům zavařovacího hrnce na zápraží, ke staré pneumatice. Odtrhnu slzící oči, zamrkám. Pod úplňkem proplula ryba z oblaků.
 
@@ -1674,8 +1494,6 @@ Má milou pihu u levého obočí. To obočí je jako plavný pták. Bledé rty 
 Je to jasné.
 
 Zítra ji požádám o ruku. Zítra.
-
-  
 
 Justýna zaleze do kuchyně. Zatáhne za sebou závěs. Nevěřícně přepočítává bankovky. Rozloží si je na podlahu. Šlápoty Haroldových chodidel. Justýna poskakuje z jedné na druhou. Měla by se poklonit a zlíbat je, jednou bude Haroldovi dobrovolně omývat nohy. Justýna bankovky rozdělí na deset hromádek, hraje karetní hru. Peníze uvězní zpátky do srdíčkové krabice a mikrotenového sáčku, přepáše je zavařovací gumou, stoupne na záchodovou mísu a přiloží k ostatním pokladům. Její úzkost je rozpuštěna.
 
@@ -1693,13 +1511,9 @@ Bobulku dá do jeslí.
 
 A pak vyhledá Harolda.
 
-  
-
 Nemůžu spát. Převaluju své tělo, neforemný pytel. Kotníky svědí nedočkavostí. Jsem šťastný. Zachránil jsem své paní hnízdo, penězi uplatí satoryji šéfkuchařku. Promítám si v duchu, jak pro ni upravím ložnici. Ráno nesmím zapomenout čistě povléct, co kdyby už večer… Konečně se na světlo dostane matčin sváteční satén. A z obývacího pokoje bude dětský pokoj. Dům zrekonstruujeme tak jako tak. Nastavíme celé patro. Něžný budoár pro mou lásku. Financovaný ladností matčiných porcelánových figurek. Usínám, do snů se vplétá pomněnková rokoková fešanda z porcelánu, kterou v náručí přenáším přes svůj práh.
 
 Nesmím zakopnout.
-
-  
 
 Klopýtnu. Panenka padá. Roztříští se. Za okny se blýskne.
 
@@ -1725,8 +1539,6 @@ Jsem zchvácený. Ale nechcípnul jsem. Ona taky ne. Nic se nestalo. Osprchuju s
 
 Jen ona by mohla spolykat i pětici divé zvěře.
 
-  
-
 Otázka dne zněla jednoduše. Jak tento den přežít.
 
 Zásada číslo jedna: nepanikařit.
@@ -1736,8 +1548,6 @@ Justýna spěchá se seznamem jmen na papírku. Naháže dychtivě dětem do ná
 Vysvobodí je zvonění.
 
 Justýna s prořídlým konvojem pokračuje do školky. Vyplázne jazyk na vykuleného zajíčka na dveřích, učitelku s ptačím obličejem vynechá, zkontroluje, zda jsou bačkůrky slepené, a vypraví se rovnou za ředitelkou. Bobulka má slova nacvičená. Odposlouchané věty zopakuje s vážnou tváří místo matky. Ředitelka se účastně vyptává na podrobnosti. Rozejdou se stiskem rukou.
-
-  
 
 Ráno, takové pocukrované svěží ráno. Justýna vyplula v modrých šatech a lodičkách. Mezi devíti koulemi v zimních bundách byla jako královna mezi mimozemšťany. Dává mi znamení. Tak dnes. Jeden rok, šest měsíců, sedm dní. Bůh, matčin Pán, sedmý den odpočívá, má náladu na udílení milosti. Má paní spěchá. Přesto jsem triedrem stihl propátrat zakulacená ramena, rovná záda, zvrásněné lokty, kolena a vykrojené nárty.
 
@@ -1815,15 +1625,11 @@ Druhý muž celou dobu mlčí. Dívá se z okna, jako by tam viděl celou pravd
 
 „S n-nebožtikama. A s-skladam p-pismenka. A už potřebuju j-jit. P-pod drnem ty š-šaty přece n-neužije ž-žadna z nich. P-pomahat se m-musí ž-živym.“
 
-  
-
 Justýna by si nejraději povyskočila. Rozjařené dítě. Všechno se zdá být na dobré cestě. Takový zářivý, pocukrovaný den. Odpočítá drobné, nečekaný výdaj nového dne. I když je bohatá, na poklad se sahat nesmí. U Stánku s novinami koupí inzertní noviny, prodej a nákup bytů a domů. Ještě na ulici je namátkou rozevře a spadne jí čelist.
 
 Krabice nad splachovadlem skrývá velký poklad.
 
 Který nestačí ani na koupi psí boudy.
-
-  
 
 „Dobře. Ano. To máte jistě pravdu. Tak tolik k paní Lauschmannové. Ne ne, ještě se prosím posaďte. Viktorie Vlková a Jana Karolína Ottová, říkají vám ta jména něco?“
 
@@ -1855,8 +1661,6 @@ Pot vyrazil. Ve spáncích buší. Přes tlukot přetéká potůček a krabatí
 
 „N-ne. J-ja ne. J-ja mam rad všechna t-těla u l-ledu. M-mam je rad. A p-pamatuju si je. Mam je rad.“
 
-  
-
 Justýna na stole rozloží pláty novin. Propiskou zatrhuje nejnižší sumy. Zahradní domky. Chaty na samotách se suchým WC. Představuje si, co by na zahradě pěstovala. Překřikují se s Bobulkou. Jahody, mrkev, okurky, rajčata, cibuli, pórek, brambory.
 
 „Veliký melouny pro nás. A malinký pro Ustynu.“ Směje se Bobulka.
@@ -1872,8 +1676,6 @@ Termín ukončení pracovního projektu se kryje s termínem její vlastní smr
 Dobrovolný pracovní tábor.
 
 Takhle ale Justýna nepřemýšlí. Je šťastná, bytostně šťastná. Její způsob modlitby. Za vršící se pyramidou vyžehleného prádla se usmívá žena, která každý z kousků oblečení, než ho vypne a přejede horkou, černou, syčící lokomotivou, přiloží k tváři a políbí.
-
-  
 
 Muž cosi drmolí. Druhý muž mi ukáže zprávu přednosty ústavu soudního lékařství, který se na žádost Lauschmannovy rodiny exhumace účastnil. A posléze i exhumací dam Vlkové a Ottové. Ten případ musí policie vyšetřovat; došlo k záměně těla, došlo k poškození těla.
 
@@ -1899,8 +1701,6 @@ V očích se jí zalesknou slzy.
 
 A uvnitř slz zatavený strach.
 
-  
-
 „U knížete Krvepolskýho jsou poldové. Něco hledaj. Celý město to ví.“
 
 Burák má oči navrch hlavy. Ostatní se vyhrnou za ním, k vrávoravému plotu. Vejrají s otevřenou pusou na auto a tajemné muže. Okouní tu lidé z městečka. Justýna hejno zažene zpátky.
@@ -1913,11 +1713,7 @@ Justýna za pomoci Krahulíka sepisuje dopis. Syn jí radí, jaká i/y vepsat. J
 
 Dopis, který dětská lékařka přiloží k žádosti adresované úřadu ombudsmana.
 
-  
-
 Musím okamžitě promluvit s Justýnou, musím jí říct, že protější dům jí patří, všechno, co mám, je její, všechno, porcelán a stříbrné tepané podnosy a obrazy a pokoje, tam se schová, je proti chvílím krutým, zahání z duše hlad, a toho, kdo má rád, uchrání před uřknutím. Nalodím si ji do domu, do mé archy Noemovy, budu se o ni starat a chránit ji. Oběma mužům křičím do tváře, že mě můžou obhájit jedině mí mrtví, mám je rád. Hnojím léta jejich zahrádky, aby vykvetli, šňupou radši afrikány a jetel než kopřivy. Napíšu vám seznam svých mrtvých, křičím na ně, napíšu vám seznam a zeptejte se jich.
-
-  
 
 Nad bílým domkem vyšly první hvězdy. Kolem domu obšlapuje pět výtečníků. Nebe za dozoru měsíce sesílá pevné vločky, které se chytají za ruce a dvorek se zrezivělým prádelním hrncem a starými pneumatikami pokrývají útěšlivou bělobou. Večer změkčí mastnotu Justýniných vlasů, které si nestihla umýt. Bude tu stát opřená o zárubeň dveří, vykouří čtvrtinu cigarety, své denní penzum a bude vzpomínat na šťastné chvíle svého života, chvíle, kdy jí Harold na zápraží nechával dary lásky,
 
@@ -1927,15 +1723,11 @@ _SINE AMORE NIHIL_
 
 Justýna zadupe a odklepe na prahu sníh. Nevšimne se pětice stínů, které s kanystry obíhají kolem. Dveře zamkne a pevně utěsní, stejně jako zamřížované okno. Lehá si do semknuté náruče, k devíti jarním ústům.
 
-  
-
 Bílý dům k ránu hoří. Požár se zakládá v přítmí. Vnitřek je roztaven na beztvarou masu. Hoří a plameny se objímají a chtivě se vlní při pohanském tanci a vykukují z okna. Není vidět, po čem prahnou a po čem se sápou. Domek chce v plamenech vychrlit svoje vnitřnosti. Oheň praská a pálí, vystřeluje ještěrčí jazyky a ochutnává vločky, slízává chlad, dere se pevně zamčenými dveřmi, které zvenčí někdo narychlo zabednil, a mohutní. Kosti v poušti Namibie. Vnitřek domu plameny olízly a ochutnaly, nezastaví se, nesmějí se polekat. Lekly se.
 
 Proto chtějí ven, nasycené se prokousávají střechou, která chutná po benzinu. Plameny na prudkém světle nemají barvu.
 
 Hasiče nikdo nezavolá, dokud se hustý, nasládlý černý kouř nepřižene k náměstí.
-
-  
 
 Musím s ní mluvit. Psychiatrovi, kterého si vyšetřovatel pozve, aby napsal posudek, jestli jsem nebo nejsem vyšinutý, jestli jsem nebo nejsem svéprávný vykradač hrobek, převyprávím příběh o své paní, té netknuté, čisté kráse, povím mu o své lásce, o svém prvním a posledním milostném příběhu, svěřím se mu, uchvácený svou bohyní, poprosím ho, ať mě za ní třebas jen na hodinu pustí, aspoň na hodinku, jenom si ji přestěhuju k sobě.
 
@@ -1987,32 +1779,16 @@ Kobold, tužebník vltavský.
 
 Jilmy v Čechách vymřely v devatenáctém století.
 
-  
-
 Nádech a pod hladinu.
-
-  
 
 _Berlín-Wannsee_, listopad 2008
 
-  
-
 Výdech a nad hladinu.
-
-  
 
 _Graz_, březen 2010
 
-  
-
-  
-
 [^2]: Odkaz na báseň Jiřího Ortena _Milostná_. In: _Deníky_, Československý spisovatel, Praha 1958, s. 450–451.
-
 [^3]: Báseň Jana Skácela _Sonet jako talisman_. In: _Květy z nahořklého dřeva_, Mladá fronta, Praha 2000, s. 57.
-
 [^4]: Z básně Jana Skácela _Sonet jako talisman_. In: _Květy z nahořklého dřeva_, Mladá fronta, Praha 2000, s. 57.
-
 [^5]: Odkaz na báseň Jiřího Ortena _Milostná_. In: _Deníky_, Československý spisovatel, Praha 1958, s. 450–451.
-
 [^6]: Z básně Jana Skácela _Sonet jako talisman_. In: _Květy z nahořklého dřeva_, Mladá fronta, Praha 2000, s. 57.

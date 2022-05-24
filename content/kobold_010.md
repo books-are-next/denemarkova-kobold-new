@@ -1,10 +1,8 @@
 ---
-title: ""
+title: "Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)"
 hiddenTitle: true
 contentType: prose
 ---
-
-fotografie jachty Erin (vlepený pod rámem)
 
 _Tváří v tvář smrti je návaznost na druhé přerušena, pane. Tři ženy stojí na Kamenném mostě. Hella, Judita, Justýna. Skočí a dopadnou do písku, který tudy protéká. Zaboří se a začnou plavat._
 
