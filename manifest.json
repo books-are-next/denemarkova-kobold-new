@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-2f8d317",
-  "revision": "2f8d317",
+  "identifier": "denemarkova-kobold-ca3f79e",
+  "revision": "ca3f79e",
   "readingOrder": [
     "promo.html",
     "kobold_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Tue May 24 2022 19:02:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1653418932593
+    "date": "Tue May 24 2022 19:13:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653419608880
   },
   "documents": [
     {
@@ -43,10 +43,10 @@
       "toc": []
     },
     {
-      "title": "PŘEBYTKY NĚHY — O vodě",
+      "title": "PŘEBYTKY NĚHY — O_vodě",
       "file": "kobold_005.html",
-      "words": 12,
-      "chars": 71,
+      "words": 11,
+      "chars": 69,
       "ideas": 3,
       "role": "chapter",
       "order": 1,
@@ -56,13 +56,13 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PŘEBYTKY NĚHY — O vodě",
+          "name": "PŘEBYTKY NĚHY — O_vodě",
           "id": null,
           "children": [
             {
               "index": 1,
               "level": 2,
-              "name": "title: “PŘEBYTKY NĚHY — O_vodě”\ncontentType: prose",
+              "name": "title: PŘEBYTKY NĚHY — O_vodě\ncontentType: prose",
               "id": "contenttype-prose",
               "children": []
             }
@@ -113,8 +113,8 @@
     {
       "title": "Kobold",
       "file": "kobold_008.html",
-      "words": 57,
-      "chars": 364,
+      "words": 58,
+      "chars": 366,
       "ideas": 7,
       "role": "chapter",
       "order": 4,
@@ -151,10 +151,10 @@
       ]
     },
     {
-      "title": "Kobold",
+      "title": "Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)",
       "file": "kobold_010.html",
-      "words": 2037,
-      "chars": 12095,
+      "words": 2043,
+      "chars": 12139,
       "ideas": 43,
       "role": "chapter",
       "order": 6,
@@ -164,7 +164,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)",
           "id": null,
           "children": []
         }
@@ -241,8 +241,8 @@
     {
       "title": "Kobold",
       "file": "kobold_014.html",
-      "words": 91,
-      "chars": 546,
+      "words": 92,
+      "chars": 548,
       "ideas": 6,
       "role": "chapter",
       "order": 10,
@@ -301,13 +301,13 @@
   ],
   "totals": {
     "all": {
-      "words": 79499,
-      "chars": 491365,
+      "words": 79506,
+      "chars": 491411,
       "ideas": 3413
     },
     "chapters": {
-      "words": 79377,
-      "chars": 490583,
+      "words": 79384,
+      "chars": 490629,
       "ideas": 3392
     }
   }
