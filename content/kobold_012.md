@@ -1,14 +1,8 @@
 ---
-title: ''
+title: ""
 hiddenTitle: true
 contentType: prose
 ---
-
-  
-
-  
-
-  
 
 Ester a Honzovi
 
