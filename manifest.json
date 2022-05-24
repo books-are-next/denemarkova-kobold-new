@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-ee73fd6",
-  "revision": "ee73fd6",
+  "identifier": "denemarkova-kobold-9eb998a",
+  "revision": "9eb998a",
   "readingOrder": [
     "promo.html",
     "kobold_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Tue May 24 2022 19:35:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1653420949130
+    "date": "Tue May 24 2022 19:57:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653422246176
   },
   "documents": [
     {
@@ -43,12 +43,12 @@
       "toc": []
     },
     {
-      "title": "PŘEBYTKY NĚHY — O_vodě",
+      "title": "PŘEBYTKY NĚHY — O vodě",
       "file": "kobold_005.html",
-      "words": 4,
+      "words": 5,
       "chars": 22,
       "ideas": 1,
-      "role": "chapter",
+      "role": "break",
       "order": 1,
       "prev": "promo.html",
       "next": "kobold_006.html",
@@ -56,7 +56,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PŘEBYTKY NĚHY — O_vodě",
+          "name": "PŘEBYTKY NĚHY — O vodě",
           "id": null,
           "children": []
         }
@@ -85,9 +85,9 @@
     {
       "title": "Kobold",
       "file": "kobold_007.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 16,
+      "chars": 131,
+      "ideas": 1,
       "role": "chapter",
       "order": 3,
       "prev": "kobold_006.html",
@@ -168,7 +168,7 @@
       "words": 5,
       "chars": 22,
       "ideas": 1,
-      "role": "chapter",
+      "role": "break",
       "order": 7,
       "prev": "kobold_010.html",
       "next": "kobold_012.html",
@@ -205,9 +205,9 @@
     {
       "title": "Kobold",
       "file": "kobold_013.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 16,
+      "chars": 131,
+      "ideas": 1,
       "role": "chapter",
       "order": 9,
       "prev": "kobold_012.html",
@@ -285,13 +285,13 @@
   ],
   "totals": {
     "all": {
-      "words": 79491,
-      "chars": 491317,
-      "ideas": 3409
+      "words": 79524,
+      "chars": 491579,
+      "ideas": 3411
     },
     "chapters": {
-      "words": 79369,
-      "chars": 490535,
+      "words": 79392,
+      "chars": 490753,
       "ideas": 3388
     }
   }
