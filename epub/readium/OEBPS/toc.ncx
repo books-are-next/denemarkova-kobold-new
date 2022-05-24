@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kobold</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>PŘEBYTKY NĚHY O vodě</text>
+      </navLabel>
+      <content src="Text/kobold_005.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)</text>
+        </navLabel>
+        <content src="Text/kobold_010.xhtml#toc_marker-1-1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>PŘEBYTKY LIDÍ O ohni</text>
+      </navLabel>
+      <content src="Text/kobold_011.xhtml#toc_marker-2"/>
+    </navPoint>
+  </navMap>
+</ncx>
