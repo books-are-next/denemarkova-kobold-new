@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-add8520",
-  "revision": "add8520",
+  "identifier": "denemarkova-kobold-2f8d317",
+  "revision": "2f8d317",
   "readingOrder": [
     "promo.html",
     "kobold_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 19 2022 14:00:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652968837224
+    "date": "Tue May 24 2022 19:02:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653418932593
   },
   "documents": [
     {
@@ -43,11 +43,11 @@
       "toc": []
     },
     {
-      "title": "PŘEBYTKY NĚHY          O vodě",
+      "title": "PŘEBYTKY NĚHY — O vodě",
       "file": "kobold_005.html",
-      "words": 4,
-      "chars": 29,
-      "ideas": 1,
+      "words": 12,
+      "chars": 71,
+      "ideas": 3,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -56,9 +56,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PŘEBYTKY NĚHY          O vodě",
+          "name": "PŘEBYTKY NĚHY — O vodě",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: “PŘEBYTKY NĚHY — O_vodě”\ncontentType: prose",
+              "id": "contenttype-prose",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -145,9 +153,9 @@
     {
       "title": "Kobold",
       "file": "kobold_010.html",
-      "words": 2043,
-      "chars": 12138,
-      "ideas": 44,
+      "words": 2037,
+      "chars": 12095,
+      "ideas": 43,
       "role": "chapter",
       "order": 6,
       "prev": "kobold_009.html",
@@ -158,24 +166,16 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Text Helly Koboldové, nalezený po vydražení",
-              "id": "text-helly-koboldové-nalezený-ponbspvydražení",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "PŘEBYTKY LIDÍ          O ohni",
+      "title": "PŘEBYTKY LIDÍ — O ohni",
       "file": "kobold_011.html",
-      "words": 4,
-      "chars": 29,
-      "ideas": 1,
+      "words": 13,
+      "chars": 69,
+      "ideas": 3,
       "role": "chapter",
       "order": 7,
       "prev": "kobold_010.html",
@@ -184,9 +184,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PŘEBYTKY LIDÍ          O ohni",
+          "name": "PŘEBYTKY LIDÍ — O ohni",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: PŘEBYTKY LIDÍ — O ohni\ncontentType: prose",
+              "id": "contenttype-prose",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -293,14 +301,14 @@
   ],
   "totals": {
     "all": {
-      "words": 79488,
-      "chars": 491326,
-      "ideas": 3410
+      "words": 79499,
+      "chars": 491365,
+      "ideas": 3413
     },
     "chapters": {
-      "words": 79366,
-      "chars": 490544,
-      "ideas": 3389
+      "words": 79377,
+      "chars": 490583,
+      "ideas": 3392
     }
   }
 }
