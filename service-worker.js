@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-faf67e5';
+const CACHE = 'cache-bdb2d62';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./kobold_005.html","./kobold_006.html","./kobold_007.html","./kobold_008.html","./kobold_009.html","./kobold_011.html","./kobold_010.html","./kobold_012.html","./kobold_015.html","./kobold_014.html","./kobold_013.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./style/style.min.css","./template-images/circles.png","./resources/image002_fmt.png","./resources/obalka_kobold_fmt.png","./resources/upoutavka_eknihy_fmt.png","./resources/image001_fmt.png","./scripts/bundle.js"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./kobold_005.html","./kobold_006.html","./kobold_007.html","./kobold_008.html","./kobold_009.html","./kobold_010.html","./kobold_011.html","./kobold_012.html","./kobold_013.html","./kobold_014.html","./kobold_015.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_kobold_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
