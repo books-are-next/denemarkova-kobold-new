@@ -119,8 +119,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Kobold"
               },
               {
                 "filename": "kobold_008.md",
@@ -131,8 +132,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Na začátku mého uvěznění ..."
               },
               {
                 "filename": "kobold_009.md",
@@ -143,8 +145,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Vymknout se není snadné ..."
               },
               {
                 "filename": "kobold_010.md",
@@ -195,8 +198,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Kobold"
               },
               {
                 "filename": "kobold_014.md",
@@ -207,8 +211,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Nadejde den, kdy lidé ..."
               },
               {
                 "filename": "kobold_015.md",
@@ -219,8 +224,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Otázka dne zněla jednoduše ..."
               }
             ]
           },
@@ -425,6 +431,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1652968756503
+    "generatedAt": 1655470295515
   }
 }

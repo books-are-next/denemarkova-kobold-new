@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-dd5da8b",
-  "revision": "dd5da8b",
+  "identifier": "denemarkova-kobold-a538317",
+  "revision": "a538317",
   "readingOrder": [
     "promo.html",
     "kobold_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:49:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272191872
+    "date": "Fri Jun 17 2022 12:52:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655470378508
   },
   "documents": [
     {
@@ -43,12 +43,12 @@
       "toc": []
     },
     {
-      "title": "PŘEBYTKY NĚHY — O vodě",
+      "title": "PŘEBYTKY NĚHY          O vodě",
       "file": "kobold_005.html",
-      "words": 5,
-      "chars": 22,
+      "words": 4,
+      "chars": 29,
       "ideas": 1,
-      "role": "break",
+      "role": "chapter",
       "order": 1,
       "prev": "promo.html",
       "next": "kobold_006.html",
@@ -56,7 +56,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PŘEBYTKY NĚHY — O vodě",
+          "name": "PŘEBYTKY NĚHY          O vodě",
           "id": null,
           "children": []
         }
@@ -105,8 +105,8 @@
     {
       "title": "Kobold",
       "file": "kobold_008.html",
-      "words": 58,
-      "chars": 366,
+      "words": 57,
+      "chars": 364,
       "ideas": 7,
       "role": "chapter",
       "order": 4,
@@ -143,11 +143,11 @@
       ]
     },
     {
-      "title": "Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)",
+      "title": "Kobold",
       "file": "kobold_010.html",
       "words": 2043,
-      "chars": 12139,
-      "ideas": 43,
+      "chars": 12138,
+      "ideas": 44,
       "role": "chapter",
       "order": 6,
       "prev": "kobold_009.html",
@@ -156,19 +156,27 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Text Helly Koboldové, nalezený po vydražení",
+              "id": "text-helly-koboldové-nalezený-ponbspvydražení",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "PŘEBYTKY LIDÍ — O ohni",
+      "title": "PŘEBYTKY LIDÍ          O ohni",
       "file": "kobold_011.html",
-      "words": 5,
-      "chars": 22,
+      "words": 4,
+      "chars": 29,
       "ideas": 1,
-      "role": "break",
+      "role": "chapter",
       "order": 7,
       "prev": "kobold_010.html",
       "next": "kobold_012.html",
@@ -176,7 +184,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PŘEBYTKY LIDÍ — O ohni",
+          "name": "PŘEBYTKY LIDÍ          O ohni",
           "id": null,
           "children": []
         }
@@ -225,8 +233,8 @@
     {
       "title": "Kobold",
       "file": "kobold_014.html",
-      "words": 92,
-      "chars": 548,
+      "words": 91,
+      "chars": 546,
       "ideas": 6,
       "role": "chapter",
       "order": 10,
@@ -265,8 +273,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 117,
-      "chars": 748,
+      "words": 131,
+      "chars": 855,
       "ideas": 17,
       "role": "colophon",
       "order": null,
@@ -285,14 +293,14 @@
   ],
   "totals": {
     "all": {
-      "words": 79524,
-      "chars": 491579,
-      "ideas": 3411
+      "words": 79534,
+      "chars": 491695,
+      "ideas": 3412
     },
     "chapters": {
-      "words": 79392,
-      "chars": 490753,
-      "ideas": 3388
+      "words": 79398,
+      "chars": 490806,
+      "ideas": 3391
     }
   }
 }

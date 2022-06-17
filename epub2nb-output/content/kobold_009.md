@@ -1,15 +1,10 @@
 ---
 title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
-  
-
-  
-
-  
-
-  
+<section>
 
 Vymknout se není snadné. Takové sevření. Děti nedosáhnou na zámek, který matka s otcem umístí na kuchyňské dveře vysoko.
 
@@ -17,13 +12,17 @@ Vymknout se není snadné. Takové sevření. Děti nedosáhnou na zámek, kter�
 
 Člověk miluje vězení, ze kterého byl propuštěn.
 
-  
+</section>
+
+<section>
 
 Do světa ji vyslal Kobold.
 
 Nejen ona miluje Kobolda.
 
-  
+</section>
+
+<section>
 
 Nejsem jako jiní lidé, řekla. Nejsem vůbec jako jiní lidé. Nelze změřit velikost bolesti nebo lásky. Moje nemoc se jmenuje Kobold. Ta nemoc je nevyléčitelná.
 
@@ -31,7 +30,9 @@ Den jako malovaný. Život jako malovaný.
 
 Voda utopená v písku.
 
-  
+</section>
+
+<section>
 
 Uhrančivý Michael má vstup na Kamenný most úředně zakázaný.
 
@@ -45,17 +46,23 @@ Svlékne propocenou košili. Položí ji na nemocné umyvadlo. Běloba popukala,
 
 Chrání věci, které má rád. Aby mu nestárly, nerozpadaly se. V dětství to dělával potají. Dokud nepřišli živí. Kteří s roztrpčeným brebentěním počkali, až se podivínský Michael oblékne. A přestane vyvádět.
 
-  
+</section>
+
+<section>
 
 Michael má vstup na most úředně zakázaný. Na koncích robustního přemostění, uprostřed zdiva vstupních bran, visí Michaelovy portréty. Rozostřené, zrnité zvětšeniny z novin. Déšť se sněhem je rozmáčí. Březnový ledový vítr rve cáry z kamene. _Upozorňujeme, že tento muž má vstup na Kamenný most zakázaný; je mostu i lidem nebezpečný; za jakoukoliv informaci o výskytu tohoto muže v okolí soch vysoká finanční odměna. Vlasy havraní, barva očí modrá, výška dva metry; zvláštní znamení…_ Pod portrétem se množí nedbale přilepené obdélníky: petice, nesrozumitelné výkřiky, ušmudlané reakce bigotních věřících; požadují Michaelovu smrt utopením. Oko za oko, zub za zub, tělo za tělo. Ve jménu lásky k bližnímu. Vítr oderve výstřižek článku liberálního Prager Tagblattu, racek plachtí nad řekou: _Je vůbec možné na úsvitu dvacátého století takto pokořiti živého člověka kvůli soše z kamene? Je to vůbec možné?_ Racek zakrouží, usedne na osiřelé místo. Svatý racek.
 
-  
+</section>
+
+<section>
 
 V noci se proplíží k Mostecké věži těkavý stín. Tělo obalené a přepásané teplými šálami. Ten velký, rozmazaný portrét Michaelova matka strhne, usuší nad kamny mezi křížalami, odstřihne roztřepené okraje, vyhladí, nechá zasklít a zarámovat do masivního dřeva. Pověsí těžký rám s vyřezávanými dubovými lístky na čestné místo. Michael. Její syn. Hrdina. Uzavírá přehlídku mučedníků, kteří lemují kamennou lávku. Michaelova matka nepřipustí, že syn může být i gauner. To matky nedělají.
 
 „Takovej hodnej kluk,“ řekne. „Takovej hodnej kluk.“
 
-  
+</section>
+
+<section>
 
 Na Štědrý den po poledni se hodný kluk Michael vydá na cestu podél řeky. Na zádech nese modře pruhované povlečení, kůže stažená z prachové peřiny. Vycpaná, v konci přidušená špagátem. Projde po mostě dvakrát, tam a zpět odkrokuje půlkilometrovou vzdálenost. Každé z třiceti soch se poctivě zadívá do obličeje, sejde i k jednatřicáté, v duchu opakuje dětské rozpočitadlo. Když mu rýmy dojdou, zarazí se. Rozváže objemný balík, kouzelník tahá z klobouku rekvizity svého představení: kusy barevného oblečení nadměrných velikostí vyrovná před sebe.
 
@@ -73,7 +80,9 @@ Letí vzduchem, rotují v tísnivém objetí. Tíživě, pomalu.
 
 Přesto rychleji než sněhové vločky.
 
-  
+</section>
+
+<section>
 
 Když se prudký gejzír vody vyražený zpod tenké vrstvy rosolovité námrazy pleskavě usadí zpátky a rozkymácí krustu, stane se zázrak. Kámen ke dnu neklesne. Vyhoupnou se nad hladinu. Oba. Jako by je cosi nadzvedávalo. Nepotopí se lidské tělo a nepotopí se mučedníkova kamenná kopie. Což odporuje pozemským zákonitostem. Jan se na hladině udrží. Jen tělo je už bez kříže.
 
@@ -85,27 +94,37 @@ Vyplují.
 
 Tentokrát se Jan překotí obličejem do hlubin, propátrává místo, kde spočine. Cvičený delfín se pokouší shodit cvičitele. Michael se vyhoupne, klečí na zádech unaveného kamene. Pádluje rukama ke břehu. Zabírá mocně. Řeka už si pohrála a zalaškovala, pozornost přesouvá jinam. Neúprosně vetřelce spolyká. Michael nohama zaklesne kolem pasu pevnou obruč. Jako poslední mizí pod hladinou Michaelova rozevřená ústa, hluboký nádech. Mrazivá vrstva se uzavře. Čerstvá bílá poleva znehybní neklidnou vodní plochu. Zůstane sotva viditelná stopa. Klikatá, vlásčitá trhlina.
 
-  
+</section>
+
+<section>
 
 Michael pod krustou sochu podplave, zdvihne paže. Vší silou nadnáší kolos. Vzpěrač se odráží v průzračné beztíži, trhavě kope nohama v protisměru, proud bublinek uniká, kyslíkový bublifuk přivábí vše živé, šlape vodu, tváře splaskávají. V té nazelenalé mlze socha neodvolatelně klesá. Ryby s jiskřivýma očima ji znaveně obeplouvají, lhostejně prohlížejí a ochutnávají masitými rty. Ryby, které se nikdy nepolíbí. U dna je očekává plochá ryba s oblým tělem a velkou vystrčenou hlavou, pohybuje se díky ploutvím, které připomínají končetiny. Ráda žije v temnotě u dna, ale u mořského dna, v hloubkách několika stovek metrů. Chřestivec, který patří do řádu ďasové. Potravu láká pomocí látky vypouštěné k tomu uzpůsobenou hřbetní ploutví. Plní pod mostem své poslání. Vystrčená hlava se dotkne Michaelova čela. A vypustí z hřbetní ploutve látku.
 
-  
+</section>
+
+<section>
 
 Na bezvládné Michaelovo tělo narážejí zuřivě, vypoulené oči přibližují k jeho zatemnělým. Socha a Michael se rozpojí. Rozpojí se i husté hejno ryb.
 
 Každá z družin doprovází svého pána.
 
-  
+</section>
+
+<section>
 
 Povykující lidé tělo vyloví do sítě. Tlustou rybu. A vdechnou ústy _svůj_ život. Od té chvíle je Michael jiný. Svatého Jana Nepomuckého nikdo nikdy nenajde. Musel ho odnést proud. Do moře, tvrdilo se. Do oceánu, tvrdila Hella. Michael za statečný pokus o záchranu vzácné sochy dostane od města vyznamenání. Když se celá věc vyjasní, skončí za smrt sochy pro výstrahu ve vězení.
 
-  
+</section>
+
+<section>
 
 Otcův rozmazaný portrét visel na zdi, mezi okny, orlí zobák mezi dvěma průzory. Čichám, čichám člověčinu. Drolím se. Vlastnosti ze mě opadávají. Rozpadávám se. Po desetiletích, kdy jsem zpevňovala hradby, stala se socha ze mě. Socha čeká na důvěrníka, před kterým bude moci dýchat a beztrestně roztáhnout prsty. Obklopena ďáblíky, před kterými je třeba s kamennou tváří pravdu schovávat. Prsty sevřené v pěst. Opouštím pokoj.
 
 Hotelový.
 
-  
+</section>
+
+<section>
 
 Hella. Vrací se z hodiny u doktora Broda. Táhlé, svíravé vrznutí. Vyskočí z těžkých vrat na prostopášnou ulici. Mocné bouchnutí za jejími zády. Špičkou vyleštěné šněrovací botky vryje do tenké vrstvy sněhu na dláždění velký otazník. Připojí zrcadlově obrácený. Srdce. Uvnitř druhé, třetí. A ještě dvě drobná. Helle je sedmnáct. Cukruje ji sníh, od růžových úst se vlní mlžná krajina. Neslyšně artikuluje, páru formuje do obrazců, vzhůru vzlétnou písmena, nejčastěji protáhlé „o“. Ví, že ji doktor Brod pozoruje; stojí a zrychleně dýchá za krajkovou záclonou v druhém patře. Ví, kdo koho má v hrsti. Nedívá se jí do očí, nikdy. Zpocenýma, rybíma rukama, které si otírá do kalhot, svírá rozevřenou knihu. Její chyby neopravuje, ačkoliv si ona schválně vymýšlí a z úst vypouští nehoráznosti. Hlas se mu roztřese, musí si z hloubi slabin odkašlat pokaždé, když Hella nakloní kudrnatou hlavu a ukazováčkem si namotává pramen černých vlasů. Jehož konec předtím dlouze olízne a ocucává. Než vysloví další provokativně nejapnou otázku.
 
@@ -115,13 +134,17 @@ Doktor Brod čeká. Měsíce čeká za naškrobenou krajkovou záclonou, čeká,
 
 V odpadkovém koši se každou noc hromadí zmuchlané koule papíru pokapaného inkoustem. Pečlivě ho doktor Brod posází větami, jimiž se z citů, ze své posedlosti vyzná. Vyzná se z touhy po okamžiku, kdy si pannu odvede do druhého patra a připoutá mezi regály knih, mezi labyrinty regálů, kde právo první a poslední noci mívají minotaurové. Doktor Brod píše dopis zrcadlovým písmem. Doktor Brod spí se všemi svými žačkami. Dotýká se jejich pohlaví dlouhými a vymydlenými prsty, ke kterým pak rád přičichává, cvičí umění citlivých bodů, loví perly. Věří v opakování, opakování je matka moudrosti, i dokonalost spočívá v procvičování. Věří, že bude mistrovsky připraven. Než rozevře Hellinu lasturu v očekávání.
 
-  
+</section>
+
+<section>
 
 Hella špičkou šněrovací botky do panenského sněhu vyhloubí kolem srdcí kotec. Napojí čtverec a další a další, čerstvá poleva je pošpiněná rigoly. Stoupne si na jednu nohu, roztáhne ruce, aby udržela rovnováhu. Čáp odskáče v blátivé břečce panáka. Je šťastná. A domů se jí nechce. Do vánočního neklidu a hašteření služek, které se budou obviňovat, proč to či ono není dokonalé a vánočka je spletená nakřivo a _bude milostpaní kapr_ _na modro nebo_ _jak_ a mandle leží neoloupané a budou přivírat oči, sekat tím pohledem, ve kterém čte, že ona nic nemusí, ona se narodila k hotovému, a budou ji nenávidět ještě víc, když se jim bude snažit pomáhat. Rodiče nejsou svému okolí nápadní. Podvolili se většině, rybímu oku. Slaví svátky Vánoc. Jen je nikdy nenapíšou velkým písmenem.
 
 Přeběhne po kočičích hlavách. K protější výkladní skříni s klobouky. Vyplázne jazyk, vzkaz doktoru Brodovi ulpí na odrazu _jejího_ obličeje. Domů nepůjde. Zamíří k mostu. Její oblíbené divadlo. Bude pozorovat všechny ty divné lidi. A tajně plivne do vody. Slinu odnese proud.
 
-  
+</section>
+
+<section>
 
 Míří k mostu. Marně pohybuju rty. Neslyšně válím slova na jazyku. Rozhodne o mém životě. Otevře ďáblovi brány města. A kdyby k mostu nezamířila. Nikdy jsem neviděla svou matku šílenou.
 
@@ -131,7 +154,9 @@ Dopsaná.
 
 Voda utopená v písku.
 
-  
+</section>
+
+<section>
 
 Na počátku přemostění, pod věží, si Hella koupí do kornoutu hrst horkých kaštanů. Prodavač před ní uctivě smekne čepici.
 
@@ -143,11 +168,15 @@ Provlékne se mezi těly v zatuchlých kabátech k okraji, háčkované rukavi
 
 Cosi ji ostře bodne do tváře. Krk se smrští, otočí se. Otylý muž jí dýchá na zátylek, v ruce smrček, se kterým původně spěchal domů. Zelené jehličí je ostré, bodá do spánku, chrání si oči, zelené jehličí doráží na bílé bělmo. Z druhé strany pán v klobouku, ve věku jejího otce, nedívá se dolů, dívá se upřeně na ni, proč se nepodívá dolů. Dav za ní roste, natlačuje se, hysterie stoupá, nikdo neustoupí, každý chce urvat svědeckou chvíli, řady uprostřed se k okraji hrnou netrpělivě, nic nevidí a mají přece právo vidět, uhněte, z obou konců se mačkají nové postavy a presují vnitřek. Most je zašpuntovaný z obou stran. Hella se zadívá dolů. Do jedné z lodiček složitě vhazují obrovský mokrý pytel, lapený do rybářské sítě, lodička lokne vody, dav se tím směrem zavlní a vyjekne. Mužíčci v uniformách pytel rozvazují a svazují a rozvazují a svazují. Buší do něj. Z pytle vytryskne curúček vody, fontánka.
 
-  
+</section>
+
+<section>
 
 Z toho sevření se Helle dělá mdlo. Kaštany vsype do řeky, jako by se tím gestem prostor mohl uvolnit. Rozprskne se sprška hnědého kamení, po kterém ve vodě chňapají podivně odulé rty a mezi nimi se zablyští ostří. Pokusí se otočit. Nemůže, tlak sílí, přimáčkne ji, drtí a lisuje hruď a břicho a kyčle, voňavé jehličí bodá, bodá do pravé tváře, začne kňučet _pusťte mě, prosím, pusťte mě, prosím, pusťte_. Nejprve špitavě, pára slova odtrhne od rtů, rozpráší je nad řeku. Vpravo a vlevo vidí tytéž zoufalé obličeje. Zaťaté obličeje dospělých mužů a žen tohoto města, kteří mají sílu, rukama zapřeni o most, který se drolí. Odtáhne poškrábanou tvář, zdvihne bradu, nad sebou šedě zkalené nebe, někdo si vymáchal špinavé štětce a zakalenou vodu rozlil. Od šedi se odrážejí sošně strnulé hlavy, naklánějí se ztěžka a nemotorně, loutky držené z nebe na drátkách, sklánějí se, koutky kamenných rtů se pohnou, mrknou na Hellu prázdnými důlky, vysmívají se, je to záblesk.
 
-  
+</section>
+
+<section>
 
 Hella polekaně uhne pohledem. Hlavu už nezakloní, oči pátrají úkosem. Sochy jsou vypjaté, na svých místech, nehybné, nebem se rozlila další kaluž, tentokrát svěží špína vyšplíchlá z kýble po umytých schodech.
 
@@ -157,7 +186,9 @@ Vtáhne břicho. Vysouká se a vydrápe na okraj podobný kamenné zídce, had 
 
 Je první, kdo skočí.
 
-  
+</section>
+
+<section>
 
 Zadrží dech. Decentně zmáčkne nosní dírky. Vyškubne se hadovi, který ji stahuje za sukni zpátky. A odlétne. Řeku si musí každý zasloužit, náraz bolí.
 
@@ -165,7 +196,9 @@ Podél mostu padají z obou stran postavy, déšť lidských těl, rovné sirky
 
 Poprvé vidí přerostlého skřítka Michaela Kobolda.
 
-  
+</section>
+
+<section>
 
 Rány sekyrou na dně lodky. Větev ze Střeleckého ostrova zaražená do ruky po kost. Nezažila jsem nic z válečného násilí. A zažila jsem násilí. Chlad, který táhne na podzim od řeky. Neměla sílu na svět svých dětí. Její děti neměly z ničeho radost, protože je nenaučila mít z něčeho radost. Plně ji zaměstnával Kobold. Přitahoval ji bolestí, kterou způsoboval její duši, jejímu tělu.
 
@@ -183,7 +216,9 @@ Do zóny se zkříženými hnáty. Vesluju do míst, kam se nikdo neodváží, v
 
 Čí duše to vlastně klesla ke dnu.
 
-  
+</section>
+
+<section>
 
 Z Michaelova těla vypumpují vodu. Prochladlý Michael na dně loďky procitne, zvedá se. Kucká. Ještěr na loktech, šátrá ve vodě očima. Ruce po ramena ponoří do řeky, zoufale vodou míchá. Po hladině plave klobouk. Zdvihne ho. Hlava pod kloboukem chybí. Klobouk si nasadí. Zachytí ruce nešikovné plavkyně, povytáhne ji nad hladinu a odhodí zklamaně zpátky.
 
@@ -193,7 +228,9 @@ Hledá jen svou sochu. Zmodralé ruce poseté fialovými cákanci z řeky vytá
 
 Začne být posedlý nutkavou představou. Zázračnou lázeň by měly podstoupit všechny sochy z mostu. To tehdy začne vyhledávat a schraňovat středověké zápisy o tom, jak podvodné pekaře a platnéře a ševče a hostinské, kteří nedodrželi míru a pančovali víno, spouštěli za trest z mostu dolů v koších a namáčeli v ledové vodě. Nikdo mu nevymluví, že to nebylo za trest; moc dobře věděli, že nikoho z lidí řeka nepolepší. Ale má tu moc proměňovat těla v ladné křivky.
 
-  
+</section>
+
+<section>
 
 Michaelovy oči jsou uhrančivé, jsou modré. Ze své panny je nespustí. Dlaní si setře z čela a víček clonu mrznoucích vloček. Opře se zády o vratkou loďku, do níž se muži s vesly snaží vtáhnout obrovitého muže za jednu ruku. Druhou uvolnit umanutě odmítá; svírá v ní polámaný smrček. Zkřehlými prsty Michael drkotavě rozepíná knoflíčky. Hella zírá. Ještěr vysvlékne košili, vyždímá ji do klína, podá s úklonou černovlásce. Ona stydlivě přehodí přes mokrá ramena zplihlý cár. Bojí se zvířete naproti, něco podobného nikdy neviděla.
 
@@ -203,7 +240,9 @@ Loďka se mocně zhoupne, lokne tekutiny; otylý muž přepadne horní polovinou
 
 Břeh se blíží.
 
-  
+</section>
+
+<section>
 
 Hello milostiplná, zaprosím, ještě je čas. Příběh začíná dávno předtím, než se člověk narodí.
 
@@ -217,7 +256,9 @@ Už sto let pracuju na jednom sousoší.
 
 Jsem frajerka, řeknu řece. Na jednom sousoší.
 
-  
+</section>
+
+<section>
 
 Onoho Štědrého dne si řeka vybere dar. Spolyká mnoho těl. Odsouvá si je z města, nafukuje si balonky na hraní. Balonky zmodrají.
 
@@ -225,7 +266,9 @@ Na konci dne, kdy řeka umlčela, omočila, poplivala a pocákala tolik chodců
 
 Hellu si automobilem vyzvednou zděšení rodiče. Zabalí rozhicované tělo do dvojitého anglického plédu, řidič přerostlé mimino v zavinovačce vynese z Nemocnice Na Františku, kam vykoupané a ojíněné přivážejí četnickými auty. Opatrně kuklu položí na zadní sedadlo; hlava měkce dosedne do matčina klína. Ruka odhrne z čela slepenec černých kudrlin. Jsou tak vyděšení, že neprotestují, když Hella před znehybněním v měkkém plédu panovačně ukáže přes nemocniční sklo na dobráckého hromotluka, s nímž nemocniční zřízenec vyplňuje formulář (a opepří ho komentářem, že pro _takovýhle_ obojživelníky místo nemají). No ano, jistě, blekotá poníženě primář, někdejší asistent Hellina otce. Křehkou Hellu mu četníci skutečně předali i s tímto… ano… s tímto… sošným mužem.
 
-  
+</section>
+
+<section>
 
 Kobold si sedne do auta vedle řidiče. Je do půl těla nahý. Krytý chlupatým porostem. V ruce nese luk. Košili, která zmrzla.
 
@@ -233,7 +276,9 @@ Matka si k tělu přitáhne liščí kožich a stáhne prosklenou přepážku 
 
 Řidiči v bílých rukavicích se třesou ruce. Kobold se na něho podívá modrýma očima plnýma soch. Motor dvakrát chcípne, než se konečně rozjedou po nábřeží.
 
-  
+</section>
+
+<section>
 
 Uloží Kobolda do hostinského pokoje. Nejmladší služka k sálajícím kamnům dovleče putýnku uhlí. Bojí se na cizince podívat zpříma, úkosem pokukuje, když vhazuje rachotící zdroj tepla. Schraňuje informace, v kuchyni se vyptávají, zvědavou nervozitou kuchařka zapomene na vánoční punč.
 
@@ -243,7 +288,9 @@ Služtička rozevře dveře. Rodinný lékař s brašnou. Nakoukne do krku, pos
 
 Hella leží ve svém pokoji na dvojitém polštáři. Spíš sedí, než leží. Lékař si poslechne srdce, pohladí hebká záda, promasíruje růžové prstíky a pak přes ně přetáhne čisté rukavičky. A pohladí po vlasech černých jako uhlí, které i tady macatá služka s rachotem láduje do kamen, _léčba si vyžádá nejméně tři týdny moje, moje sladká holčičko, takový den, takový den, přitom o té řece já už ani nevím, chodím kolem ní denně a nevnímám ji, co to je vlastně za řeku, máš štěstí, moje, moje sladká holčičko, pitevny budou plné, ty máš štěstí._
 
-  
+</section>
+
+<section>
 
 Služka si rýžákem vydrhne ruce po zápěstí jako chirurg před operací, přebíhá na unavených nohou mezi oběma prokřehlými, v rychlosti poreferuje zvědavé, panovačné kuchařce i služebně nadřízené hubaté hospodyni a dávkuje horké thé s medem a hovězí bujon a hlt svařeného vína, co voní skořicí – když už chybí horký domácí punč – a linecké cukroví a plátky vánočky s ořechy a rozinkami a přikládá obklady na čelo a sádlem potírá hruď; slečninu bílou jemně a důkladně proklepe bříšky prstů pod dohledem paní matinky. Koboldovy široké se bojí dotknout, bázlivě čaruje ve vzduchu, kudy by se také proklestila čertovským porostem ke kůži. Kobold chvíli pobaveně pozoruje magické pohyby, pak nečekaně chňapne a stiskne zápěstí.
 
@@ -251,7 +298,9 @@ Olízne postupně všechny špalíčky omaštěné v sádle, saje struky. Přit
 
 Vypláče se ve sklepě. U hromady uhlí. Než ji hlas shůry znovu přivolá.
 
-  
+</section>
+
+<section>
 
 Rodiče pošpitají s lékařem, zklidní se. Vklouznou do starých známých rolí, obehrávaných poctivě každým dnem, zpátky v rezignovaném šeru.
 
@@ -259,11 +308,15 @@ Ale začínají být nesví z něčeho jiného; mají být vděčni neznámému
 
 Do hostinského pokoje s přáním šťastných a veselých svátků vstrčí vyděšenou služtičku s vodnatýma očima. Než vstoupí, zoufale se nadechne a zadrží dech.
 
-  
+</section>
+
+<section>
 
 Kobold se rozhlíží. V kamnech teple hučí. Lampička sklopenou hlavou stydlivě nasvěcuje bíle naškrobenou peřinu v damaškovém povlečení. Na které leží chlupatá ruka. Zahýbe prsty. Okousané nehty sevře v pěst. Na stěnách, v těžkých rámech, obrazy. Výjevy z honů a květinová zátiší a šedomodré stíny, tak realistické, že musí odhrnout pokrývku a vstát; fotografie jachtařské přehlídky s davem přihlížejících. Šeptem přeškobrtá nesrozumitelný popisek: _Bei Begegnungen dieser Giganten strömen die Neugierigen herbei, wie hier bei der Cowes Week im Jahre 1880_. Vedle, orámována týmž materiálem, visí fotografie dvojice. Rodiče jeho sladkovodní panny. Ne, nejsou to oni. Zaostří kovovou modř: _Prinz Alexander von Battenberg an der Seite seiner Mutter Beatrice von England an Bord der Erin im Jahre 1908_. Kobolda pokoří, že nerozumí. Slovo gigant si uskladní v mysli. Obě věty přečte zlostně několikrát, vsouká je do paměti, kde výsměšně pálí. Ohmatá dřevěnou postel. Shýbne se. Nakoukne pod ni. Osahá každý předmět včetně bílého nočníku, který má nemocnému ušetřit dlouhou noční cestu chodbou. Nadzdvihne víko prázdné, starodávné truhly. Přepočítá hřbety v kůži vázaných knih na masivních policích. Stoupne si k oknu. Vodní drak spí.
 
-  
+</section>
+
+<section>
 
 Pokoj opustí onu první, svatou, tichou noc. Odloží bílou, na prsou promaštěnou noční košili. Přehodí ji přes porcelánové umyvadlo a džbán, jediné předměty hodny jeho respektu. Umyvadlo obkrouží jazykem, k džbánu přitiskne čelo. Obě věci pohladí. Na nahé tělo si natáhne kalhoty. Ukrutné prázdno v srdci, toť vše. Vnitřek vyvrhl pod hladinou řeky. Draka je nutné nakrmit. Polonahý našlapuje po prostorné chodbě. Podobá se hotelovým; nabízí ráj dveří. Princezna skrytá za každými z nich. Kobold jde najisto. Kobold jde po čuchu.
 
@@ -277,7 +330,9 @@ V zrcadle utopené oči ztracené sochy.
 
 Po týdnu projde branou, pečlivě ji zvlhčí vodou ze svých úst. Nikdy nezavírá modré oči, svou kořist po celou dobu sleduje. Kobold, samec s velkým pyjem. Na kterém začne být Hella závislá. Koneckonců nemá srovnání. A pramen mocně vytryskne.
 
-  
+</section>
+
+<section>
 
 Moje první slovo bylo Kobold.
 
@@ -289,7 +344,9 @@ Sráží se kapky na kameni, pod mostním obloukem. Odkapává tu studený čas.
 
 Kobold své děti každou neděli odpoledne naložil do loďky. Dovesloval pod místo, kde chyběl _jeho_ svatý, dávno nahrazený kopií. Kopie namísto kopie. Dovesloval pod toto místo. Vesla zavěsil jako kachní nohy. Loďka se pohupovala pod těly svátečních chodců. Pod mostem. Vždycky jen pod mostem: nahoru mě s bratry dlouho nevzal. Přezkoušel nás z vědomostí v místě, kde se ozvěnovitě rozeznělo každé slovo. Z vědomostí, které nám předával on. A které byly, podle něho, pro život naprosto nezbytné.
 
-  
+</section>
+
+<section>
 
 „Kdy mrzne voda?“
 
@@ -333,19 +390,25 @@ Pramínek potu mi stéká po zádech, šimrá podél páteře, ztuhne v rampouc
 
 Jeden zemře na moři. Nezbude z něho nic. Druhého utopí ve vězení. V kbelíku s vodou. Což je ještě ta lepší varianta.
 
-  
+</section>
+
+<section>
 
 Voda nezamrzá ode dna. Ne proto, že by pomrzli živočichové a sladkovodní rostliny.
 
 Protože by zamrzly sladkovodní panny a sochy pod mostem.
 
-  
+</section>
+
+<section>
 
 I poušť je širost. I moře je širost. Písek všechno přeskupuje a vzdaluje a vrací. Voda všechno přeskupuje a vzdaluje a vrací. Není snadné vyluštit, co se má stát právě jí.
 
 Tak zbytečně pomalý, táhlý rozklad. Stáří je velké překvapení. Nutím se spát, nutím se jíst. Zpomaluju, nepilním, pohybuju se rozvážně, pohyby vláčné, v tekutém vzduchu prorážejí odpor. Malátná, ztěžklá, nacucaný černý hadr, mokrý kabát, který mi svěšuje ramena a koutky úst směrem dolů, do hlubin.
 
-  
+</section>
+
+<section>
 
 _Die raffinierte Eleganz und der Wohlstand der britischen Aristokratie dominierten den Yachtsport Ende des 19. und Anfang des 20. Jh._ Příliš toho o fotografii, kterou si Kobold otiskl do mozku, nezjistím. Jachta Erin.
 
@@ -371,7 +434,9 @@ Fotografii jachty Erin nechá viset na původním místě. Před ní bude Hella 
 
 > _jez slabák_
 
-  
+</section>
+
+<section>
 
 Helliným rodičům nevadí, že Kobold je sirotek. Vadí jim, že mluví česky. Pouze česky. Doktor Brod německy mluví. Mluví anglicky, mluví francouzsky, čte rusky, španělsky, italsky, hebrejsky. Když Kobolda, který dny prospí, po dusném týdnu z bytu vypoklonkují i s vánoční výslužkou, doprovází ho ke dveřím jen znejistělá služtička. Přisaje se jí bolavě na ústa, přes vyděšené rameno zaburácí do chodby.
 
@@ -381,7 +446,9 @@ Seběhne s dupotem po schodech. Klečící domovnici převrhne kbelík, v něm
 
 Písmeno H. Žebřík. Nemíří vzhůru, je položený. Koleje, které nikam nevedou, uvězněné v lipovém listu. List pohřbívají milosrdné vločky. Snášejí se a vyplňují jizvy vyhloubené patou do netknutého, bílého poprašku. Odstraňují vyzývavý vzkaz matce, holčička, za kterou by dýchala, se odpoutává, pupeční šňůra se napíná, napružená praská, moc nad její holčičkou bude mít nečitelný cizinec, holčička se poddává, matka bezmocně přihlíží a ohryzává lítostí hřbet vlastní ruky až na kost, _vypadni už konečně, zmiz_, intuice vysílá varovné výstřely do spánků. Srdce, nebo vězení. Písmeno, nebo polámaný žebřík. Záleží na tom, co kdo vidí. Přitom se obě ženy dívají na totéž.
 
-  
+</section>
+
+<section>
 
 Matka si ováže ruku a Hellu odveze z města. Na zotavenou. V lednu. Do Švýcarských Alp. Během jízdy ve vlaku a v saních, pod kožešinami, kdy za přitakání rolniček vzhlížejí k zasněženým vrcholkům, ochranitelsky rozhodne, že po návratu zdvojnásobí počet hodin soukromého vyučování. Aby se Helle nekalé myšlenky z hlavy vyplavily, aby byly vytěsněny větami moudrých. Bojí se, aby dceřina mysl nebyla nakažená. Už nakažená je. Krev není voda.
 
@@ -391,7 +458,9 @@ Z prosluněné terasy schází do hotelové jídelny zatěžkané nábytkem. Je
 
 Ožije jedinkrát. U vedlejšího stolu poloprázdné jídelny vidí mladou chůvu. Vyděšenému chlapci rychle a jemně vytahuje sotva viditelnou třísku z bříška ukazováčku. Jehlou. Chlapec se vrtí, ucukává. Přetahují se. O zem se roztříští křehká porcelánová konvička s horkou, sladkou kávou. Perský koberec polyká, nehlučně saje. Jehla se lekne, zavrtá hlouběji do masa. Krůpěj krve podobná pevnému vaku se plní a zvětšuje. Chlapec zavřeští. Hlavy v místnosti se otočí. Prázdné oči, plná ústa. Nikdo se nezvedne. Úporný křik přivolá rodiče, rozespalé, s pomuchlanými obličeji. Žena za běhu spěšně zasouvá jehlici do drdolu. Jekot zesílí, vyrazí okny, skály se o něj poperou. S otevřenými ústy a zasychajícími slzami a s nudlí u nosu chlapeček zaskočeně sleduje výjev. Rodiče plísní skloněnou chůvinu hlavu, ne jeho; pochopil, že za všechno může obvinit druhé. Tak to objevil. Přestal být panic.
 
-  
+</section>
+
+<section>
 
 U protějšího stolu vysokohorské jídelny černovlasá laň, odloží sluneční brýle. A místo léčivého podmáslí rozradostněně objedná pozdní, velmi pozdní francouzskou snídani. Cosi ji polechtá na tváři, přejede obličej dlaní. Do čaje sklouzne zrnko písku.
 
@@ -403,7 +472,9 @@ U protějšího stolu vysokohorské jídelny černovlasá laň, odloží slune�
 
 > _arm in arm_
 
-  
+</section>
+
+<section>
 
 I matka se rozjasní. Po návratu vydechne úplně. Zaduní kámen spadlý ze srdce. Dcera se nečekaně zabaví sama; rozhodnuta naučit se stehovat, šít, sešívat, párat.
 
@@ -417,7 +488,9 @@ Je rozladěný. Nechce švadlenu pod střechou. Nikdy nechtěl žádnou švadlen
 
 Otec si nasadí klobouk. Popadne švihácky hůl. Zabouchne dveře. A vztekle vyrazí směrem k mostu.
 
-  
+</section>
+
+<section>
 
 Včera jsem osahávala podobný samet. V posledním patře nákupního centra. Rozlehlé oddělení látek. Barevné špulky nití. Sady jehel. Špendlíky s kovovými i modrými hlavičkami. Tady se lidé, co se potkávají, nezdraví. Osahávají pyramidy látkových komínů. Zanechávají na nich otisky prstů. Prodavačka těžké komíny odhazuje na pult. Některé se přes okraj ohnou jak zplihlá cigareta. Prodavačka rozhodí materiál, rozdá karty, květ barev rozkvete. Míček je na hřišti zákazníků.
 
@@ -457,7 +530,9 @@ Neobjeví se muž. Zpoza závěsu vyjde padesátiletá žena, obočí vytržené
 
 „Tam já to dobře znám.“
 
-  
+</section>
+
+<section>
 
 Jdeme mlčky, proti proudícímu davu, vyhýbají se nám.
 
@@ -515,7 +590,9 @@ Kdyby se proměnila.
 
 > _unken_
 
-  
+</section>
+
+<section>
 
 Kobold osahává sochu. Škrábe nehty do kamene, celou vahou naléhá. Počátkem března, za úsvitu. Přes most se potácí opilý flašinetář. Nebe se barví rudě, v odlesku vody je sytost rozmělněná, do růžova. Ožrala zavrávorá. Kecne na zadek. Přimhouří oko, zamžourá. „Dvouhlavá socha, do prdele.“
 
@@ -531,7 +608,9 @@ Preclíkář s nůší na zádech, blíží se na kole, šlápne do pedálů.
 
 Praští flašinetáře čepicí. Flašinetář mumlá, bradou naznačuje směr. Čtyřruká bohyně. Preclíkář se zmást nedá. Flašinetáři do úst, ze kterých táhne kořalka, vrazí teplý slaný preclík. V tichu se zataví pohyb. Magie zázraku mizí, rozplývá se, rozsednuta všedním dnem.
 
-  
+</section>
+
+<section>
 
 K preclíkáři seskočí oživlý stín. Mohutné mužské tělo. Vysvětluje, že nastal čas pro další zázračnou proměnu, chvalte pána, radujte se, těšte se na měkoučkou sladkovodní panenku, na každého se dostane. Handrkují se. Flašinetář zpívá, co chvíli rozkašlán preclíkem. Prská slané drobky a rozemílá melodii napadrť. Hlas se nese nad hladinou. Chodci osiřelí v zneklidňujícím rozbřesku natahují krky. Žirafy zrychlí krok. V nevelkém srocení kdosi připomene loňské štědrodenní pozdvižení. Tragédii utonulých.
 
@@ -541,7 +620,9 @@ K preclíkáři seskočí oživlý stín. Mohutné mužské tělo. Vysvětluje,
 
 > _má paní zavolá_
 
-  
+</section>
+
+<section>
 
 Preclíkář zavelí. Kolem Kobolda se stahuje neprodyšný půlkruh. Smyčka. Krok vzad, Kobold se vyhoupne k soše. Kymácí mlčenlivou v plášti. Buší do ní, pěsti zkrvavené, jako by chtěl vyrazit z kamene duši. Vytáhne ze záňadří pilku, poklekne. Pokouší se podetnout sochu, ztuhlý kmen stromu. Zuby pilky drkotají, lámou se. Kov vrže, drolí se prach. Socha zakolísá. Kobold zrychlí pohyb, napíná svaly. Socha svatého Kryštofa, svatého Kristova pomocníka. Kolísá, nepovolí. Jen hůl se zlomí. Skočit do řeky Koboldovi preclíkář nedovolí. Chytne Kobolda za kotníky. Podrazí mu nohy. Kobold sebou praští, žebra zapraskají.
 
@@ -553,7 +634,9 @@ Koboldovi zbude jediná panna. Hella.
 
 Jinou sochu už nepromění.
 
-  
+</section>
+
+<section>
 
 Posadím se zprudka. Záda studí. Loďka to chápe jako povel. Opouští líně mostní oblouk. Když chceš psát o této řece, musíš ji pozorovat celý život. Pak o ní můžeš psát. Seshora se naklánějí turisté, ukazují si na mě, ukazováčky vytrčené. Šípy míří do kolosea, halasí, fotí. Takhle tam kdysi stála. Mladinká Hella. Nakláněla se, v rukou kornout s horkými kaštany. Takhle tu kdysi pod jejíma očima ležel mladinký Michael Kobold. Muži oživovali promrzlé tělo a zakalenou mysl. Duše zůstala pod loďkou. Na dně řeky. Kde si hvězdnou korunu upravovala osvobozená socha.
 
@@ -575,7 +658,9 @@ Otec budoucností.
 
 Matce do hlavy bolavou skutečností přitékaly širší a širší kalné proudy. Z Koboldovy hlavy odtékal slabší a slabší pramínek. Rozpínalo se prázdno, převalovala se poušť. Ze které občas vítr odvál k Helle několik zrníček. Přibývalo jich.
 
-  
+</section>
+
+<section>
 
 „Co udělali Angličané s tou drzou holkou, Johankou z Arku?“
 
@@ -607,7 +692,9 @@ Nepípla, protože vidím jezdce na břehu. Vidím, jak seskakují z koní, z 
 
 Je uctívána. A bude uctívána. V každé kapce té své řeky. Jako Hella.
 
-  
+</section>
+
+<section>
 
 Vyslýchán je i Kobold. U nedělního stolu, v rámci oslav Helliných osmnáctin. Pozve ho Hella, tajně. A rodiče pozvou doktora Broda. Celý týden se střídají v bytě na nábřeží gratulanti. Příbuzní a kolegové a studenti pana profesora, zahraniční přátelé paní profesorové. Toto je rodinná večeře, intimní. Hella vklíněná mezi rodiči.
 
@@ -625,7 +712,9 @@ Služčino vyděšené _jéminkote šmarjápano tss ssssss_. Opaří Koboldovi k
 
 Mužská ruka se zvedá k jejím ústům, ona – hypnotizovaná – poslušně skloní k chlupatému hadovi zrudlé tváře. Vysaje a slízne mastnou, kořeněnou skvrnu, v koutku úst přilepený černý vlas. Matčiny rty, stažené do smuteční podkovy. Otcovy jemné ruce, sevřené v pěst, položené při okrajích talíře místo příboru. Před očima rozmazané řádky potupných článků o Koboldovi, slova rozsypaná do omáčky, vklíněná mezi maso a knedlíky. Každým skousnutím se do patra zabodne párátko vzteku.
 
-  
+</section>
+
+<section>
 
 Vyřčené věty v této místnosti se táhnou a lepí k patru, těsto na štrúdl. Doktor Brod mlčí s kamenným a posmutnělým obličejem, měl to být jeho plodný den, poněkud se vymkl. Léty vypilovaný a procítěný dopis Helle předal. Doktor Brod náročný výcvik sebe sama dokončil. Umění citlivých bodů dovedl k dokonalosti. Připraven na mistrovský koncert. K němuž potřebuje vyzrálý nástroj.
 
@@ -637,7 +726,9 @@ Sedí kolem blyštivé nehybnosti, had zvedá hlavičku, zasyčí. Hella slavnos
 
 Kobold svůj nevratný zásnubní dar obalil Helliným tělem.
 
-  
+</section>
+
+<section>
 
 Pomohla jsem Koboldovi vítězit.
 
@@ -645,7 +736,9 @@ V té chvíli jsem vypadala jako malý pulec.
 
 Možná rybička.
 
-  
+</section>
+
+<section>
 
 Sedí si kolem kulatého stolu. Mohla bych se proplazit mezi jejich nohama, had leze z díry, vystrkuje kníry, Hella se ho lekla, na kolena klekla, Hello už se nelekej, na kolena neklekej. Proklouznout po čtyřech. Nebo obtančit jednoho po druhém, proklepat bříšky prstů obrysy těl, horce zašeptat, je pozdě, už je rozhodnuto, koryto vymleto, jak se z něho chcete vydrápat.
 
@@ -653,7 +746,9 @@ Nejdéle postojím u šťastně rozechvělé Helliny postavy.
 
 Nepotřebuje vnější svět. Má svůj.
 
-  
+</section>
+
+<section>
 
 Zabírám vesly, pozoruju řeku. Nevěrnou a tutéž, omývá mysl.
 
@@ -679,13 +774,17 @@ Svět změnil kontury. Zatřásl se. Možná ta krize patří k věku. Posunut�
 
 Nemá smysl nic načínat. Život v šeru. Přidruží se strach. A ten je zhoubný.
 
-  
+</section>
+
+<section>
 
 Emoce odsunout stranou. Sny, veteš. Jednoduchý popis. _Nezvládla_ _jsem to._ Napsala nám. A my jsme to jako děti zvládat měly. Nejvíc jí dělalo starost, aby po ní nezůstaly nějaké odpadky. A všechno své oblečení pečlivě přeprala a vyžehlila.
 
 Když Kobold spal, skřípal zuby. Skřípal zuby silně. Všechny odrolil na zubní moučku, na dva protilehlé bílé řady. Srostlé pařezy zbroušených zubů.
 
-  
+</section>
+
+<section>
 
 „Mám strach být sama se sebou. Že to nezvládnu.“
 
@@ -723,7 +822,9 @@ Večeři jsme nedostali.
 
 V neděli nikdy.
 
-  
+</section>
+
+<section>
 
 Dnes tu stojím sama. Čelem k vaně. Hladina, čiré zrcadlo. Zhoupne se a zvlní. Špunt se hýbe. Nadzdvihne se. Nadskočí. A kvapně dosedne. Nadskakuje, rozkomíhá vodu. Vzpěrač namáhavě nadzvedává průsvitnou masu. Vysílen ztěžka povolí a vydýchne. V pravidelném rytmu. Někdo vyráží těžký poklop, špunt vytlačuje.
 
@@ -741,13 +842,17 @@ Po několika měsících vstoupím do dveří drahé realitní kanceláře. Ať 
 
 A s výhledem na Kamenný most.
 
-  
+</section>
+
+<section>
 
 Stoleté dítě. Stále ještě dítě. Konečně dítě. Muže bych vedle sebe nesnesla. Jsem dítě, které odmítá být zneužíváno.
 
 Na přechodu pro chodce. Směrem k nábřeží. Před divadlem. Stačilo by vykročit včas. Na červenou.
 
-  
+</section>
+
+<section>
 
 Jsou jisté hranice, které překročit nesmíš.
 
@@ -759,7 +864,9 @@ Hlava napěchovaná příběhy, kry na sebe narážejí, z minula do budoucna a
 
 Hella, učí se od tchyně vařit. Nesmí kupovat knihy, na které je zvyklá. Touží po určitých slovech a myšlenkách, překotně po nich touží a nemůže si je dopřát. Roky hladovění. Chuť nepoužívaných slov zapomíná. Polyká naprázdno, jazykem rejdí mezi zuby. Hledá zapomenutou chuť. Začne psát. Nejprve na pytlíky od mouky. Slovo. Slovo slovo. Slovo slovo slovo. Fragmenty próz a verše v hraničním prostoru dvou jazyků publikuje. Publikuje ve vídeňských a berlínských literárních časopisech. Moje máma píše. A Kobold za ní nemůže. Nebo jen do určité míry. Kobolda přivádí k zuřivosti, že jí nerozumí. Kobolda přivádí k zuřivosti její chytrost. Kobolda přivádí k zuřivosti všechno, co nemá pod kontrolou.
 
-  
+</section>
+
+<section>
 
 Šetřím si mince do prasátka.
 
@@ -771,7 +878,9 @@ Peníze shrábne dlaní, zatěžká si kapsu u kabátu.
 
 „Dobře,“ řekne a odejde.
 
-  
+</section>
+
+<section>
 
 Hektolitry příběhů natěsnat do hlavy, litry slov vylévat ze škopíku, hektolitry nepřetržitě vlévané trychtýřem.
 
@@ -787,7 +896,9 @@ Moje první vzpomínka na babičku, Koboldovu matku. Kobold Helliným rodičům 
 
 Kobold nebyl sirotek.
 
-  
+</section>
+
+<section>
 
 Mlynářova holka je svěží, pěkně rostlá, se silnými stehny. Generál a sprostý dlaždič v jednom těle. Odsekává uštvanému otci. Vdovec kromě mlýna vlastní i velký grunt. A dcerka mu ujíždí na kole, které si půjčuje. S kamarádkami navěšenými na řídítkách, sedle, rámu drkotají po cestě, až dohrkají k návsi. Sprostě pokřikují a smějí se. Smějí se mlčenlivému chlápkovi na pile, kde se vantroky prohání voda z řeky. Tady pramení. Dětská a útlá.
 
@@ -797,19 +908,25 @@ Těsně před ním se rozcákne placatý balvan.
 
 Slétl z nebe. S výsměšnou silou ošplíchne zasněného kuřáka. V okně nad ním se rozhihňají dívčí hlasy. Skřeti. Muž se lekne toho skřehotání. Prudce se otočí, zvedne mokrou hlavu. Obličej si otře čepicí. V půdním okně se zablýskne nahá zadnice. Jalový smích zesílí. Muž vrátí obličej k vodě. Mlčí. Mokrou cigaretu otáčí v prstech. Rozmáčkne ji v dlani. A hodí po proudu.
 
-  
+</section>
+
+<section>
 
 Za rozbřesku se vyškrábe po žebříku na půdu. Rukou prohrábne jediný luxus, tabák. Jako pokaždé v tuto hodinu. Ruka se zarazí. Tabák je vlhký. Muž se zakloní. Hledá otvor, kterým sem protéká. Pak přičichne. Tabák mezi sedřenými prsty rozemne. Přičichne znovu. Vztekle tabák odhodí. Napřímí se. A vykročí do tmy.
 
 Už nikdy si cigaretu nezapálí.
 
-  
+</section>
+
+<section>
 
 Sedět na kameni. Kulka v těle řeky. Voda je hustá, mokvá. Jsem její součást. Proměnlivá jako voda, voda nemůže být nehybná. Kam s přebytky lidí. Namočím slisované příběhy, ve vrstvách, smočím plátky stříbrného staniolu.
 
 Ať vylisovanou vodu vantroky odnesou a semelou.
 
-  
+</section>
+
+<section>
 
 Muž čeká. Mlčí. Kromě pily, kam plavební kanál připlaví každý den dlouhé kmeny, začne vypomáhat ve mlýně. Sám se nabídne. Tahá těžké pytle. Soumar poponáší náklad. Trpělivě čeká. Dá se na něm dříví štípat. Jeho pokorná lhostejnost provokuje. Na urážky a smích nereaguje, nereaguje na vysypanou mouku, za kterou je peskován. Zatímco dívčí drzé čelo se krčí za trámem a hihňá do dlaní. Počká si na úplněk.
 
@@ -823,7 +940,9 @@ Sprška nadávek, před kterou není úkrytu, ho provází zbytek života. Až n
 
 Pod vodou je ticho.
 
-  
+</section>
+
+<section>
 
 Po matce zdědí Kobold modré oči. Po otci dráždivou nevyzpytatelnost.
 
@@ -831,7 +950,9 @@ Nemýlím-li se.
 
 Jeho sladkovodní panna i moje dětská panenka skončily stejně. Možná Kobold nemohl jinak. Možná opakoval model, který se zadrhl v podvědomí. Možná nemohl překročit svůj stín. Jalová, jalová, jalová možná.
 
-  
+</section>
+
+<section>
 
 Krev se i v třeskutém mrazu rozproudí. Obrysy okovaných vojenských bot v kameni. Prošlapují Koboldovi cestu. Staré zákazy, staré zákony přestávají platit. Nové Kobolda nezajímají.
 
@@ -885,7 +1006,9 @@ _Schöne Schattenzeiten_, bude vzpomínat Kobold na dobu, kdy mu najednou němč
 
 Socha Jana Nepomuckého přikývne.
 
-  
+</section>
+
+<section>
 
 Řeka se nedá. Řeka Hellu nedá. Olízne město. Povodeň je náporem vody a ledových ker.
 
@@ -901,7 +1024,9 @@ Nic jiného mi nezbývá.
 
 Nastupovala jsem do letadla. Čekalo mě velkoměsto obalující přemostěnou řeku. Poslední zastávka na tomto světě.
 
-  
+</section>
+
+<section>
 
 Kobold se učí německy, trakař drkotá. Hella opravuje hrkavou výslovnost. Za to, co Kobold vysloví nepřesně, dostane ona vynadáno. Hella nevychází z domu. Do kavárny nesmí, do parku nesmí, k řece nesmí. A Kobold má rád pořádek. Má rád lidi, co mají rádi pořádek. Začíná obdivovat německé umění. Zvrhlé. Ne dekadentní. Zvrhlé. Vystřihne si obrázky dětí s ofačovanými hlavami, zavírací špendlíky mají přišpendleny do masa ve tváři. Obrázky dětí s blonďatými vlásky a bílými podkolenkami si zarámuje a pověsí vedle kuchyňských hodin; odkapávají Hellin čas, který rezignoval. Hella se upřeně dívá na žluté hrany hodin. Aby nemusela očima sklouznout na pravou nebo levou stranu.
 
@@ -911,13 +1036,17 @@ Ten harant jsem já.
 
 Hella se na ně usmívá. Prádlo mne mezi prsty a škrobí krajky. Do noci žehlí a ze židle opatrně sundává Koboldovu košili. Aby si návštěva měla kam sednout. Tchyně si podle vlastních slov medí, protože kšeft se hýbe. Není u necek s valchou sama. Dny s pohyby jako ve zrychleném filmu. Kobold zavěsí obrázky dětí s ofačovanými hlavami a Helle přijde nesrozumitelné předvolání a zdobí se hvězdou podobnou té, co má nad hlavou socha Jana Nepomuckého. On jich má pět, Hella jen jednu. Kobold si zamyšleně prohlíží její profil a ve slovnících pátrá po významu slova Dutzenteich.
 
-  
+</section>
+
+<section>
 
 Všichni byli nakaženi. Nakaženi dobou, kdy po mostě chodily vyleštěné holínky.
 
 Kobold se nakazil. Nákazu šířil po válce.
 
-  
+</section>
+
+<section>
 
 „Jsi prašivá,“ řekl Helle Kobold.
 
@@ -943,7 +1072,9 @@ Vlaju za ní jako cár papíru, nohy ve vzduchu. Hella uštvaně dobíhá. K do
 
 > _kampf contre l’oublie_
 
-  
+</section>
+
+<section>
 
 Jenomže od Kobolda, kterému nikdy neřekne Michael, se odtrhnout nemůže. Srdce má zjizvené, ale co všechna ta pouta a neviditelná vlákna. V srdci nosí palčivé kopí. V tom bodnutí je tolik bolesti, a jaké bolesti, já to nevím, já to sdílet nemůžu, a ona čeká, že někdo přijde a kopí vytrhne. Kdykoliv se zadívá na řeku, kdykoliv omývá svoje tělo a voda stéká z černých dlouhých vlasů, kdykoliv nabere vodu do hrnku a přiloží okraj k ústům, kdykoliv smočí hadr v kbelíku, stojí tu. Stojí tu jeho vzrostlý stín. Jako socha. Jako duch vody, ze šosu mu kape. Doktor Brod procitá ze zimního spánku. Dobrodinec. Dočkal se. Voda se prospala jako ledovec. Nervně plánuje. Hellu spěšně odklidí. I on je vděčný naleštěným holínkám. Za tuto příležitost. Rozprodává vzácné obrazy a staré tisky. Koupí černé auto, luxusně vybavené. Obchází vlivné známé, podplácí, sklání hřbet i poroučí, vyjednává. Aby Hellu vyreklamovali a nemusela na nástupiště, do dobytčího vagonu, ačkoliv se tam Hella tak strašně těší. Chce od Kobolda pryč. Kamkoliv. Sama to nedokáže. Musí být od něho odstrčena.
 
@@ -979,7 +1110,9 @@ Doktor Brod je políbí.
 
 „Ach, ty. Máš mě?“
 
-  
+</section>
+
+<section>
 
 Dostanu od doktora Broda panenku. První a poslední panenku v životě. Doktor Brod je dobrý. Jeho mysl je za ta léta zaplavená literárními světy a frázemi z nich, které s realitou Hellina života nemají příliš společného. Doktor Brod má dny rozčleněny na minuty. Na dveřích plandá přišpendlený rozpis hodin. S červenými políčky, kdy pracuje, a žlutými průduchy, kdy může být rušen. Nevšimne si, jak Hella postává zamyšlená, uprostřed práce i hovoru, propadlá do vychrtlých myšlenek. Jak horkou vodu spěšně zabarví čajem nebo ji nervně vchrstne na hromádku melty. Aby akva zčernala, zabarvila se. A nebyla vodou.
 
@@ -987,7 +1120,9 @@ Nevšimne si, jak se Helle zalijí oči slzami, kdykoliv se vodou naplní umyvad
 
 „Musíme spoléhat na slova.“
 
-  
+</section>
+
+<section>
 
 Omývá se sama, tráví za zamčenými dveřmi dlouhý čas. Sedím u stolu, pod zadečkem dva polštáře s třásněmi a listuju knihami. Doktor Brod mi je položí na stůl. Trhnu sebou. Domovní zvonek burácí. Z ulice proniká tatínkův hlas. Koboldův hlas.
 
@@ -1005,7 +1140,9 @@ Ukážu na vozidlo s vysokou střechou a přívěsem. Rozjíždí se. Před ko
 
 Doktor Brod zajde do kuchyně, vaří vodu na čaj. Sešplhám ze židle a z Helliny tašky ukradnu křehkou stříbrnou lžičku, kterou dostala od doktora Broda, když jsem se narodila. Schovám ji do kapsy. Vyšvihnu se na židli a dál čtu tajnou zprávu.
 
-  
+</section>
+
+<section>
 
 Doprostřed stolu doktor Brod nachystá čínský čajový servis a sametovou krabičku s perlovým náhrdelníkem. Dárek pro Hellu. Čekáme na ni oba. Propojeni vzájemnou nenávistí a spojeni i poznamenáni láskou k Helle. Vychází víla, z koupelny se vyvalí pára. Vychází se zarudlýma očima a husí kůží na pažích a stehnech. To všechno doktor Brod nevidí. Možná vidí. Ale podceňuje. Věří, že jinde, mimo dosah řeky, bude líp.
 
@@ -1029,7 +1166,9 @@ Doktor Brod odstraní překážku. Haranta. Doktor Brod vidí Mariinu ruku, jak 
 
 > _bitte sauberhalten_
 
-  
+</section>
+
+<section>
 
 Kobolda je nutno milovat.
 
@@ -1043,7 +1182,9 @@ Naseká mi, já se strachy počůrám. Do rytmu ran babička, Koboldova matka, s
 
 „To se teda pěkně chováš k svýmu tátovi.“
 
-  
+</section>
+
+<section>
 
 Nad městem hučí, v útrobách města prskají draci, plivou oheň. Kobold má strach. O své sochy. Aby je v posledních dnech války nerozstříleli.
 
@@ -1067,7 +1208,9 @@ Kobold hodinky zasune do kapsy. Kobold zvedne samopal.
 
 Zbytek dne sedí u okna holandské trojice. Vybral si tento byt. Potřeboval tento byt. Vyhlídku. Sochy pod ním jsou párátka zabodnutá do mazlavé hlíny. Jakýkoliv stín Kobold zastřelí. Nečeká na to, až promluví. Most zůstane prázdný. Kobold most střeží. Sochy otočí hlavu a pokloní se svému pánovi.
 
-  
+</section>
+
+<section>
 
 A co.
 
@@ -1075,11 +1218,15 @@ My jsme mluvili taky jiným jazykem.
 
 Nikdo se nás nezastal.
 
-  
+</section>
+
+<section>
 
 Obrázky dětí s ofačovanými hlavami, špendlíky mají přišpendleny do masa ve tváři. Ty obrázky Koboldova matka rychle strhne ze zdi a spálí. Viset zůstanou kuchyňské hodiny. Odpočítávají tekoucí, nehybný čas. Průtok hodin maloměsta velkoměsta.
 
-  
+</section>
+
+<section>
 
 Hella tvrdila, že každý má právo na svůj příběh. Každému z nás ho darovala před usnutím. Když nás v neděli uspávala. Hladové.
 
@@ -1093,7 +1240,9 @@ Hella se stala na Koboldovi patologicky závislou.
 
 Na Koboldovi, který ji ničil chladem tůně. Kam naházené napadá, propadne se, voda se zavře. Hella léta, celá desetiletí nechápala, že buší do zavřených vrat. Paže obroušené po lokty. Chytala denně vodu do dlaní. Vysilovala se a zraňovala. Kobold soucítil se svými sochami. To už měl zase vstup na most úředně zakázaný. Hella se divila, kde se vzalo tolik udavačů za okupace. Na Koboldy přitom nemyslela.
 
-  
+</section>
+
+<section>
 
 Kobold. Scelená, pevná, tvrdá socha. Koboldova matka byla zazděná ve svém vidění světa, škvír ve zdech bylo pomálu. Hella se v druhých rozpustila.
 
@@ -1103,7 +1252,9 @@ Nepozoruj vodu.
 
 Voda pozoruje tebe.
 
-  
+</section>
+
+<section>
 
 Je červen. Autobusy ráno vyplivují školní třídy. Učitelky kráčejí v čele dětí seřazených do dvojic. Nad hlavami vztyčují barevné deštníky s dlouhými držadly, na přechodech staví auta a husí pochod brebentí. Školní výlety z celé země míří k mostu. Nad mostem vyrůstají barevné houby. Nad Hradem visí vlajka. Pod sochami leží zvadlé šeříky, bílé a fialové. Hnědnou.
 
@@ -1129,7 +1280,9 @@ Muži v rádiovkách se rozhlížejí. Plní rozkaz. Nepřítel nikdy nespí.
 
 > _die tür třikrát ab_
 
-  
+</section>
+
+<section>
 
 Nepřítel nikdy nespí, spí tedy jenom přítel, přemýšlím, když zívám. Plížíme se v noci. Kobold je uražený. A rozhodnutý ve své výuce pokračovat. Vytáhne nás z postýlek. Přes pyžamka přehodíme kabátky. Kluci mžourají a kňučí. Popadne je do náruče.
 
@@ -1165,11 +1318,15 @@ Nebo roztlouct kladivem.
 
 Sakra, Hello. Někdy je čas metat kamení.
 
-  
+</section>
+
+<section>
 
 Živé maso. Brnkám o ně zavíracím špendlíkem.
 
-  
+</section>
+
+<section>
 
 „Kdo nepracuje, ať nejí.“ Opakoval Kobold, co slyšel vyřvávat z tlam­pačů. Říkal to Helle, které pracovat zakázal.
 
@@ -1177,7 +1334,9 @@ Hlad.
 
 Soutok všech bývalých zranění. Chuť zbavit se bolesti. Vzít nůž a zajet do masa na stehnech, rukách a dloubat, dloubat.
 
-  
+</section>
+
+<section>
 
 Hella se od Kobolda nedokáže odpoutat. On ji miluje a chrání. Přesvědčil ji o tom. Setkání s lidmi ji oslabuje, křehké já si uchrání jen o samotě, cítí v zátylku cizí dech a bodavé píchání smrkového jehličí na tváři. Předstírá, že je napojená na myšlení a svět ostatních. Není. Nechce slyšet hlasy jiných. Chce slyšet svůj hlas. Který v davu slábne, zaniká. Křehká rovnováha. Po celou dobu závislá na dalších dvou lidech, to mi přihrálo dětství.
 
@@ -1187,7 +1346,9 @@ Hella se od Kobolda nedokáže odpoutat. On ji miluje a chrání. Přesvědčil
 
 „Takových možností. A moje popadaly do trychtýře.“
 
-  
+</section>
+
+<section>
 
 Když všichni usnou, z pytlíků od mouky a cukru přepisuje svá slova. Zoufale usiluje o nevyslovitelné. Psaním se zorientuje v tom, o čem nedokáže mluvit ani mlčet. Sází je ostrým hrotem pečlivě ořezané tužky. Kolibřím písmem. Na titěrné lístečky. Volání o pomoc smotá do ruliček, vsune do lahve od vodky, zašpuntuje. V lahvi se lístky velikosti poštovních známek rozevřou. Bílé kvítky rozkvetou, černě žíhané.
 
@@ -1223,7 +1384,9 @@ Každý líc má svůj rub.
 
 _Bitte Zimmer aufräumen._
 
-  
+</section>
+
+<section>
 
 Kvůli mně. Já jsem ten důvod. Já. Kobold se svou matkou mě drží pod zámkem. Rukojmí nevydají. Hella stojí na prahu. S kabátem přes ruku. S prázdnou taškou, její žaludek zasytí mými věcmi.
 
@@ -1239,7 +1402,9 @@ Odjede. Na hranici si to rozmyslí. Vykouří cigaretu, auto otočí. Vrací se 
 
 > _jeong_
 
-  
+</section>
+
+<section>
 
 Kolik promočených měsíců Hella prostojí nad mýdlovou vodou. Těší se na svou druhou holčičku.
 
@@ -1255,13 +1420,17 @@ Bydlíme v bytě nad řekou, s fotografií plachetnice na zdi. Hella před fot
 
 Řekne mi Kobold. Nevšímám si jí. Jeho matka pozve kněze. Místnosti vykouří a pokropí svěcenou vodou.
 
-  
+</section>
+
+<section>
 
 Hella kyne požehnaně. Břicho odložit nemůže.
 
 „Všechno v rychtyku, maminko, všechno je, jak má být.“ Zklidňuje lékař. Hella před sebou tlačí nafouklý balon. Přikládám k němu ucho. Kdybych se nebála, zabubnovala bych na buben vařečkou _tluče bubeníček, tluče na buben a svolává holky, holky, pojďte ven._
 
-  
+</section>
+
+<section>
 
 „Jak ses nám takhle vokotila, pěkně do kulata, bude to zas holka, to je jasný, to já vyprdla kluka hned napoprvý.“
 
@@ -1297,7 +1466,9 @@ A moje. Řeknu si v duchu. Už nebudu sama.
 
 Nikdy.
 
-  
+</section>
+
+<section>
 
 Při prvních kontrakcích dopere krajkové vyšívané ubrusy. Naškrobí je. Vypne a vyžehlí. Svíjí se u topení, prosí, stěžuje si. Bolest nevydrží.
 
@@ -1323,7 +1494,9 @@ Uraženě si kecnu na schody v prvním patře. Pro žádného doktora já teda 
 
 Vyždíme hadr. Zaplácne rozdováděnou louži.
 
-  
+</section>
+
+<section>
 
 Dýchavičný lékař, který mě nechával sklonit ucho k poslechu, někdejší kolega Hellina otce, přiběhne s černou kabelou. Se mnou v patách.
 
@@ -1365,7 +1538,9 @@ Já jsem podvedená. Moje sestra se neobjevila.
 
 Nikdo ho neposlouchá.
 
-  
+</section>
+
+<section>
 
 V noci se proplížím. K mocné řece. Mrmlá a hučí, čarodějka, tisíciletá paní. Modlím se k ní, z kapsy vytáhnu dar. Stříbrnou lžičku. Nejprve ji ohmatá měsíc, odlesk potopím. Řeka se pokochá leskem. Ocucá chlad kovu. Pak si stoupnu a rozmáchnu se. Vší silou hodím, doprostřed proudu, div nepřepadnu. Válí se chvíli na hladině. Nabírá vodu. Než ji odulé rty spolknou. Stříbrný kov zchladí rozpálené vnitřnosti. Oblak v podobě polibku zakryje měsíc v úplňku. Obejmout úplněk jako bílou hlavu a zavěsit se na ni. Zavěsit se na tvarohové kolo, které se pod rukama rozpadne.
 
@@ -1377,7 +1552,9 @@ Doma se přikradu k Hellině posteli. Odkryju pokrývku, přitulím se k boku.
 
 > _schutzengel und knecht_
 
-  
+</section>
+
+<section>
 
 Větrem rozvibrované bílé plachty. Trojúhelníkové tanečnice se prohánějí po jezeře. Pradědečkova jachta na jezeře Wannsee nemá bidet. Bidet obdivoval na jachtě Erin. Dědečkova jachta má na dveřích židovskou modlitbu pro štěstí.
 
@@ -1413,7 +1590,9 @@ Dědečkovi nervy rupnou. Když si po nedělním obědě hoví a opa­luje se n
 
 > _schiff ahoi_
 
-  
+</section>
+
+<section>
 
 Hellina matka v mládí nelpí na ničem. Je jí jedno, kde bydlí, kterým z jazyků mluví, z jaké rodiny pochází. Přechází ze země do země, z jazyka do jazyka. Do vztahu ke skutečnosti je uvedena mnoha jazyky, přitom je odkázána na zkušenost jezera. Lpí na lidech, nelpí na věcech.
 
@@ -1431,7 +1610,9 @@ Dcera matce oponuje, že je to rakouský Čech.
 
 Loď pluje.
 
-  
+</section>
+
+<section>
 
 Dalekohled vrátí, dceru urychleně odklidí. Odveze ji do města Le Dourduff, svědka velkolepých manželových úspěchů. Ráno je budí křik racků. Dcera pozdě vstává, večer brzy usíná. Matka s dcerou zatřese. Zatřese i svou hlavou, kde se uhnizďuje starost. Chce ji setřást, sklepat. Nutí dceru zírat na azurové nekonečno. Zhluboka dýchat slaný vzduch. V kabince navlékat plavecký komplet.
 
@@ -1447,7 +1628,9 @@ Pozdě. Dcera tajně studuje jazyk země, která nemá moře.
 
 > _krk hab’ ich unter kontrolle_
 
-  
+</section>
+
+<section>
 
 Vila s turbanem. Patří spolku, jenž poskytuje útočiště těm, kteří se zbavují tlaku v hlavě, upouštějí slova, vyrovnávají hladinku, aby se přehrada neprotrhla, aby hlava nepraskla. Spisovatelé v tichu naslouchají větám, zažíhají slova, která se vznášejí nad vodou a převalují v ranní mlze. Helliny sestry a Hellini bratři, zapadnou za nimi dveře pokojů. Odpojí se. Věty vycítí, kdy nastane jejich čas, kdy nemusí soupeřit o pozornost s ničím a s nikým.
 
@@ -1481,7 +1664,9 @@ Kopu do listí mezi procovskými vilami. Žena v mysliveckém kloboučku, s p�
 
 > _bosa nova_
 
-  
+</section>
+
+<section>
 
 Kolem jezera smetou žluté listí. Nakupí do hromádek. Odsoudí ke spálení. Vyrovnané kupky rozkopu. Plné náruče naházím do vody. Hejno se drobí, žlutý plášť se rozprostře, bezbranné pohupování. Krášlím jezero. Nahrne si listy k sobě, tvoří obrazce. Můžu z nich hádat jak z kávové sedliny.
 
@@ -1495,7 +1680,9 @@ V prolukách rostou rodinné domy, skleněné. Lidé v akváriu, všem na oč�
 
 Snídám v zimní zahradě. Za okny oranžové a žluté listí. Listopadová ztuhlost má tady barvu cihlovou.
 
-  
+</section>
+
+<section>
 
 V této chvíli jsem si nemyslela, že budeme možná zítra šťastni. Nebo také ne. Jen jedinkrát se setkáme a jen jedinkrát si řekneme, že to všechno bylo proto, aby… že to všechno bylo nutné jen proto, aby…
 
@@ -1503,7 +1690,9 @@ Distanz.
 
 Distanz rovná se Sicherheit. Opakovala Hella. Opakovala Hella. Hella ozvěna.
 
-  
+</section>
+
+<section>
 
 Plavala jsem dřív, než jsem viděla.
 
@@ -1511,7 +1700,9 @@ Plavala jsem dřív, než jsem chodila.
 
 Plavala jsem dřív, než jsem mluvila.
 
-  
+</section>
+
+<section>
 
 V skomírajícím teple indiánského léta vezou mě Hella s Koboldem do míst, kde se řeka zrodila, kde země vyplivla tenounkou slinu. Nedaleko náhonu zrušeného mlýna. U něhož se kdysi propojili Koboldovi rodiče.
 
@@ -1539,7 +1730,9 @@ Ještě si mě ponechat nechce. Vyplavu.
 
 Co jiného mi taky zbývá.
 
-  
+</section>
+
+<section>
 
 Jsem strašně šťastná, že jsem to přežila. Jsem tak šťastná, že jsem svůj život přežila.
 
@@ -1551,13 +1744,17 @@ Z křesílka na prosklené terase zírá mladá žena v kostýmku. Chvíli vá
 
 Potopa se blíží, mírné čeření, šustot sotva viditelných vlnek. V hlubinách moří se neustále něco děje, i tehdy, když je jejich povrch hladký a nehybný.
 
-  
+</section>
+
+<section>
 
 Labuť se uprostřed řeky snaží vzlétnout. Ztěžkle. Zamává křídly nízko nad vodou. Ovívá hladinu. Klesne zpět. Řeka ji nepustí. Přidrží si její tělo. Labuť marnou snahu vzdá. Plave k ostrovu. Jako by se čelem dotkla pevniny. Hlavu schová pod křídlo. Tady je ostrov, a co chceš.
 
 Otočí se. Plave s hlavou vztyčenou. Šíji do oblouku. Do stejného oblouku, jaký má řeka v tomto městě. Přítulnost komplikovaných příběhů, které voda odplaví.
 
-  
+</section>
+
+<section>
 
 V taxíku si slečna rozbalí desky s logem nadnárodní realitní kanceláře. Vyťukne tečku značkovým perem. Na něž si nechala vyrýt své jméno a pod ně _Master of Masters_. Otáčím se na ni z předního sedadla ledabyle. Co chvíli neposlouchám. Vystoupíme na nábřeží. Dům nemá výtah. Tak jinam, prosím. Pokračujeme k secesnímu průčelí. Výtah přilepen na dvorku, dodatečně přistavěn v zadním traktu. Nový pokus o prolomení bariéry. Přeladí na osobní tón.
 
@@ -1619,7 +1816,9 @@ V třetím patře odemkne. Vejdeme do sluje tmavých, vlhce vonících místnos
 
 > _kobohell_
 
-  
+</section>
+
+<section>
 
 Z té doby, co jsi žil.
 
@@ -1627,7 +1826,9 @@ Stačí popsat, co se prohání v hlavě. Nebezpečné obrazy. Nikdo by jim ner
 
 A já to zastavím.
 
-  
+</section>
+
+<section>
 
 Helle se mezi nohama rozpustil Kobold.
 
@@ -1635,7 +1836,9 @@ Rozpadal se jí v mysli.
 
 Ten žár nejde uhasit.
 
-  
+</section>
+
+<section>
 
 Kobold řekne, aby mu Hella uvařila kávu. Hella ji uvaří. Kobold řekne, lžičku cukru. Hella ji přinese. Ještě jednu, a plnou, nešetři. Hella přinese ještě jednu lžičku cukru a nešetří. Kobold kávu soustředěně míchá, usrkne. Odstrčí hrnek, je přeslazená, uvař mi jinou. Hella uvaří novou kávu.
 
@@ -1673,7 +1876,9 @@ Kobold Hellu políbí, pusu plnou střepů. Jeho matka má pravdu. Hella se nem�
 
 Hella se neměla vdávat, aby neztratila samu sebe.
 
-  
+</section>
+
+<section>
 
 Starší je o kapitoly napřed. Jako první leze. Jako první chodí. Jako první mluví. Mladší zatíná zuby a pěsti. V křeči, přísný sám na sebe, kopíruje vzor. Zaostává, klopýtá. Přimknuti podobou sedávají v koutě. Stejně velcí, stejně oblečení, k nerozeznání. Dokud ne­otevřou pusu.
 
@@ -1693,7 +1898,9 @@ Dotýká se ho co nejméně. Spát ho nechá na prostěradle v koupelně. Bez d
 
 Nic než slova nevidí.
 
-  
+</section>
+
+<section>
 
 To jsou ony citronové dny, kdy mám strach, kdo mě ochrání.
 
@@ -1705,7 +1912,9 @@ Přesto sebou tělo zacuká.
 
 Trhá sebou.
 
-  
+</section>
+
+<section>
 
 Vytvoří si svůj jazyk.
 
@@ -1713,7 +1922,9 @@ Vytvoří si svůj jazyk.
 
 Krajíčkem chleba.
 
-  
+</section>
+
+<section>
 
 Na černém šicím stroji značky Singer stojí vánoční stromeček. Babička tam postaví Mladšího. Navěšuje na něho vánoční ozdoby. Kovové háčky zachytí za oka pleteného svetru.
 
@@ -1735,13 +1946,17 @@ Hella si prozpěvuje.
 
 > _1, 2, 3, 4, 5, 6, 7, 8, 9, 10_
 
-  
+</section>
+
+<section>
 
 Všechno prožité odfouknout. Sfouknout prach z kamene. Oblázek potěžkat v dlani.
 
 Důvěřivé a přátelské můžou být jenom děti?
 
-  
+</section>
+
+<section>
 
 Kobold nás tentokrát nevede ke své oprýskané loďce. Ta se choulí pod jeho zimním kabátem.
 
@@ -1785,7 +2000,9 @@ Je daleko před námi. My čtyři popobíháme za ním. Kluci unaveně kňučí,
 
 Kluky vezme s sebou.
 
-  
+</section>
+
+<section>
 
 Nic nechápající Hella si přes hlavu natáhne zástěru. Postaví se k plotně. Bříšky prstů si jemně přejede horní a dolní ret. Místa, kudy jí Kobold před několika hodinami sunul šťavnaté jablko. Té radosti nesmí být mnoho. Jinak se podvyživená duše pomine.
 
@@ -1801,7 +2018,9 @@ Vběhnu se sklenicí sádla. Které jsem měla donést ze sklepa. Z velkého ka
 
 > _für ewigkeit_
 
-  
+</section>
+
+<section>
 
 Mladší stojí u stolu a dívá se, jak Kobold jí.
 
@@ -1811,7 +2030,9 @@ Rýži může. Rýže je květina vod.
 
 Rybí růže.
 
-  
+</section>
+
+<section>
 
 Brouci zalézají. Slézají se večer. Proplížím se po čtyřech. Ladná lvice, kladu packy na parkety, nezavržou. Vypelichaný lev zemřel, to já vládnu říši zvířat. Mám měkké packy. Jsme v celém bytě samy dvě. Hella za mnou nepřichází. Po čtyřech se tiše připlížím. Stopuju kořist. Had se odplazil, šňůřa od vysavače se zakmitne v komoře. Obhlížím kuchyni, kde Hella o samotě hekticky drobí svá písmena. Je posedlá, roztěkaná. Krade minuty, krade je… krade… komu… proč… Hlavou jemně drcnu do dveří. Rozevřou se na skulinku. Nakouknu dovnitř.
 
@@ -1819,13 +2040,17 @@ Brouci zalézají. Slézají se večer. Proplížím se po čtyřech. Ladná lvi
 
 Mě zaplaví vlna chlemtavého pocitu, kterého se leknu. Udržím šelmu na uzdě. Jsem lvice. Hella je tak snadná kořist.
 
-  
+</section>
+
+<section>
 
 „Zůstaň mi,“ říká on.
 
 „Nech si mě,“ říká ona.
 
-  
+</section>
+
+<section>
 
 Kobold se v den, kdy Mladšího zatknou, vztyčí. Vyhoupne se na okraj balkonu. Z rohu vykukuje květináč s uschlým oleandrem. Hella Kobolda tahá za nohavici, prosí. Kobold se dívá na řeku. Vyměřuje délku skoku. Dívá se strnule před sebe, křičí na mě.
 
@@ -1835,7 +2060,9 @@ Zavřu oči. Zacpu si uši.
 
 Odkopne Hellu. Odrazí se a vzlétne. Skok daleký, třepotá se ve větru, přelétne silnici. Ve směru znavené řeky se šourá jediné černé auto. Letí po hlavě přes chodník, silnici a zdymadlo. Míří šipkou do vody. Těsně u kameny zpevněného břehu tělo zanoří. Zařízne se do měkkého.
 
-  
+</section>
+
+<section>
 
 Hladina se nepohne, voda nevystříkne, žádné kruhy na vodě. Řeka ho s rozkoší vcucne, nenápadně, beze stop si vezme to, co jí patří. Hella skok nevidí. Sedí na studené dlažbě balkonu, onípává suché listy oleandru. Ramena se třesou, rukama obejme kostnatá kolena, zády k vodě, na tváři otisk Koboldovy boty. Zvedne se, uhladí sukni. Mezi prsty na prach rozdrtí list.
 
@@ -1865,13 +2092,17 @@ Starší se vyloupne do síly. Nebojí se vzepřít. Vytrhne Koboldovi žehličk
 
 > _wasserspeicher_
 
-  
+</section>
+
+<section>
 
 Na balvanech mezi proudy někdo stojí. Řeka je mělká. Proud sílí.
 
 Mně síly odtékají.
 
-  
+</section>
+
+<section>
 
 K Staršímu se přismýká Mladší. Hella zvedá hlavu, vykukuje za synovými rameny. Kobold to cítí. Pudově. Stojím mimo, pozorovatelka. Narozena proto, abych svědčila, když nikdo o svědky nestojí. Narozena proto, aby se ve mně slily příběhy. Které nikdo slyšet nechce. Atmosféra bytu se zakalí. Starší obnažuje prostor. Trhá otěže držené v Koboldových rukách. Seškrabuje Koboldův nános. Tvrz je vratká, podemele ji slabý pramínek. Kámen je dobyt trpělivou prací kapky.
 
@@ -1897,7 +2128,9 @@ Podívá se na mě.
 
 „Vlastně dva.“
 
-  
+</section>
+
+<section>
 
 Hella se odpojí. Ještě naznačuje, prosí o pomoc, letmými dotyky žadoní. Zastavuje neznámé na ulici. Lidé se na sebe podívají, zaťukají na čelo a pak si za jejími zády říkají, bůhví jak to je, bůhví co mezi těma dvěma je, nebudeme se do toho míchat, každý má dost svých starostí. Společenský a úspěšný Kobold přijde do bytu, zavře za sebou dveře a probudí se monstrum. Nikdo se nás nezastane, nikdo. Kobold je chladnokrevný. Má na Hellu hypnotický vliv. Bere její hlavu do dlaní.
 
@@ -1913,7 +2146,9 @@ Uhýbá před modrou hlubinou.
 
 Hella se mu podívá do očí. A cítí, jak nad svým chováním ztrácí kontrolu. I k tomu, aby spáchal člověk sebevraždu, si potřebuje vážit sám sebe.
 
-  
+</section>
+
+<section>
 
 Hella pak sedí a pohybuje unavenými rty.
 
@@ -1925,7 +2160,9 @@ V žádné zemi není nikdo na straně oběti. Poučila bych dnes Hellu. Proč 
 
 Ve válce a v lásce je dovoleno vše.
 
-  
+</section>
+
+<section>
 
 Mladší si povídá se Starším. Mluví sám se sebou. Já rozkládám se svým druhým já jménem Julie, nedefinovatelné si povídá s nedefinovatelným… Julie, ty jsi tak dokonalá… Julie, nemůžeš za to… co jsi vlastně udělala špatně, Julie…
 
@@ -1935,7 +2172,9 @@ Mladší si povídá se Starším. Mluví sám se sebou. Já rozkládám se svý
 
 > _červ a panna_
 
-  
+</section>
+
+<section>
 
 Na stole stojí dvě sklenice s mlékem. Jsou pro chlapce. Nesmím se jich dotknout. Kobold sedí. Těší ho sledovat, jak mi jeho příkaz zalézá do morku kostí.
 
@@ -1949,7 +2188,9 @@ Kobold se pomalu zvedá. Julii vysvlékne a odtáhne do koupelny. Posadí ji do
 
 Judita všechno jen pozoruje.
 
-  
+</section>
+
+<section>
 
 Vazba na toho, kdo mi ubližuje, je silná.
 
@@ -1959,7 +2200,9 @@ Vazba na Kobolda, který Helle ubližuje, je silná.
 
 Člověk čeká na vysvětlení.
 
-  
+</section>
+
+<section>
 
 Slečna z realitní kanceláře spěchá na víkend. Firemní víkend. Teambuilding, budou utužovat… co… co vlastně… Čas, který by mohly prosvětlit pro rodinu, pro potěr, sdílet čas, sdílet prožitky. Budoucnost přestala všechny zajímat. Minulost přestala všechny zajímat. Rodina se rozdrobí, obětována, hrůzné a tragické uskupení. Zůstaňte se sebou sama, o samotě, moje milá, no tak, schválně, no. Nebo si najděte někoho, s kým můžete být beztrestně svá. Chce se mi té milé slečně, která rozpráví o víkendovém paintballu a špičkovém golfu v lesích, zašpitat do voňavého ouška. To je přece ta pravá zkouška, holčičko. Jestli vydržíte sama se sebou.
 
@@ -1967,7 +2210,9 @@ A s hlasy.
 
 Které vycítí svůj prostor.
 
-  
+</section>
+
+<section>
 
 „Jsme rodina jako každá jiná,“ řekne Kobold Helle blízko levého ucha. „Jsme šťastná rodina jako každá jiná. Já jsem hlava té rodiny. Tak se mi věnuj. A jim taky.“
 
@@ -2027,7 +2272,9 @@ Kobold se rozchechtá. Bublá kýchavě. Jsem šťastná. Kobold mě chválí. V
 
 Jsem šťastná. Bože, děkuju.
 
-  
+</section>
+
+<section>
 
 Budu jako ona.
 
@@ -2059,7 +2306,9 @@ V životě si nemůžeme být jisti ničím.
 
 > _bum_
 
-  
+</section>
+
+<section>
 
 Kobold zazvoní. Vyslovuje mé jméno v řeči, která není moje. Mluví v řeči, která není moje. Mlčky mě předá paní Rosenkranzové. Zestárlá herečka prvorepublikových filmů udělá na Kobolda pukrle. Další z bývalých, zasvěcených žaček doktora Broda. Paní Rosenkranzovou za zavřenými dveřmi oslovuju madam nebo milostivá. Mimo dům soudružko Růžičková. Sedím na sametu, rudě vybledlém, s otevřenou pusou. Napudruje si šedou pleť. Podmaluje zelenkavé oči. Přes ramena přehodí modrý žinylkový šál nebo fialové, vypelichané boa. Ona to s muži umí, ona ano.
 
@@ -2073,7 +2322,9 @@ Stěna pokoje je oblepena zrcadly. Jako baletní sál. Stoupá si před ně. Pod
 
 Kobold je daruje cikánečce, která ho vezme něžně kolem krku.
 
-  
+</section>
+
+<section>
 
 Učím se zpaměti úmorné jazykolamy. V nedýchatelném pokoji, kterému milostivá říká budoár. Pokoj zažloutlých fotografií, usušených růží, poletujícího prachu a holubích pírek. Holubi z kuchyně dorážejí na prosklené dveře, ťukají zobáčky. Připomínám, že se nejmenuju Julie, ale Judita. Julie se živí mou krví a za odměnu mě chrání, bydlí uvnitř, prohání se v mém těle, fouká na bolest uvnitř, obšlapuje kolem duše, kde sídlí ticho, obšlapuje a každou řeznou ránu v mé duši pofouká a vyhojí. Milostpaní mluví o jiné Julii, tu neznám.
 
@@ -2083,11 +2334,15 @@ Vrká umanutě. Lámu si jazyk, zaokrouhluju písmeno „o“. Milostpaní našp
 
 „Až budete, Julie, křičet o pomóóóc, musí to znít. A cvičit, děvenko, cvičit. Vzdělání je sladký plod kořene hořkého.“
 
-  
+</section>
+
+<section>
 
 Lvice leze po čtyřech. V bytě nad řekou. Poctivě vykružuje zřetelná pomóóóóóc.
 
-  
+</section>
+
+<section>
 
 Slečna se mi snaží vlichotit, vetřít krém do kůže. Přeříká svůj životopis. Podtrhne, že ona je ochotna se stěhovat za prací kdykoliv a kamkoliv, ne jako ti místní. Ona to zná z Ameriky, kde rok studovala, ve třinácti letech. Tam sbalí děti, vyklidí dům a stovky kilometrů se přesouvají za prací. Ale tady ti omezení, tupí peciválové.
 
@@ -2121,7 +2376,9 @@ Rozhodila jsem ji. Několikrát přetřené rty si znovu přetře růžovou rtě
 
 > _gar nicht_
 
-  
+</section>
+
+<section>
 
 Mám jí vykládat, že skutečné a jediné poznání se zrodí v hloubi duše. Dívám se na řeku zklidněle. Obě jsme zmoudřely. Řeka to ví. Nemám vchod zatarasený, už ne, voda mění hustotu, řídne.
 
@@ -2131,7 +2388,9 @@ A zbytek života se s dětstvím vyrovnává.
 
 Neměla čas starat se o své děti. Nechala je v tom.
 
-  
+</section>
+
+<section>
 
 Lvice houpavým krokem přechází po bytě. Rok za rokem krájí slabiky slova pomóóóc. Poctivě zaoblí zavalité válečníky Koboldova jména.
 
@@ -2145,7 +2404,9 @@ Opřený čelem o chladivé sklo sleduje řeku. Řeku barvy indigo, vpíjí se 
 
 Dýchne na okenní tabulku. Za kterou sněží. Ukazovákem do zamženého okna kreslí geometrické tvary, sněhové vločky. Vykružuje obrazce a číslice a písmena slova _utur_. Stejné obrazce vykrouží ponořeným ukazovákem do ledové hladiny. Sedává nad Koboldovou mapou. Ukazovákem pronásleduje řeku od pramene k soutoku. K moři, kam řeka doputuje pod jiným jménem, vdaná. Vdané přejímají jméno, odevzdávají část identity. Plochu moře překryje prsty obou rukou. Na prsty klesne čelo.
 
-  
+</section>
+
+<section>
 
 Mladší navštěvuje sešlého doktora Broda. Opravují a leští vůz, jezdí podél řeky vypucovanou černí. Dalekohledem pozorují mizející přívozy a vznikající mosty a přehrady.
 
@@ -2175,11 +2436,15 @@ _Drahý kdykoliv se mě dotkneš, projede mnou šíp, milostná rána z milosti
 
 Psala Koboldovi Hella, tělo v předpotopním oblečení.
 
-  
+</section>
+
+<section>
 
 Usazují se vrstvy. Usazují se ve mně. Cosi odpočívá na dně. Zvedne se po staletích, když se voda zakalí. Voda zvrací. Kal stoupá vzhůru. Pachuť zteplalé vody v jícnu a na jazyku. Pachuť vody plné nazelenalých sinic.
 
-  
+</section>
+
+<section>
 
 O Mladším Kobold rozhodne bez váhání: stane se sochařem. „Já nechci být sochařem.“
 
@@ -2207,7 +2472,9 @@ Mladší je do ateliéru přijat. Jeho bratr ještě pluje na správném, přát
 
 „Nemusíš.“
 
-  
+</section>
+
+<section>
 
 Starší se naparuje. My kloktáme sladkou vodu. On se může do sytosti zakuckat slanou. Koboldův rozkaz poslechne do poslední kapky. Zmizí. Emigruje. Ano, když člověk zažije nespravedlnost, buď se rozhoří bojem, nebo žebrá o milost.
 
@@ -2221,7 +2488,9 @@ _Námořník o svůj chleba nikdy nepřijde, jsi zajištěný, jaký výtlak a�
 
 Píše Staršímu Kobold. Domáhá se odpovědí. Aniž sám nějakou poskytne.
 
-  
+</section>
+
+<section>
 
 Dvojčata si píšou šifrované dopisy. Do jednoho z nich vylisuje Starší květ limonky obecné, květ rostliny, která přežije všechno, snáší slané prostředí, dokáže žít podél pobřeží Severního moře, _eine kinderfreundliche Nordsee_, říká Starší. Počasí je zasmušilé, chladné.
 
@@ -2237,7 +2506,9 @@ Mladšímu chodí obálky rozlepené. Některé věty přečmárané černí tak
 
 Hella.
 
-  
+</section>
+
+<section>
 
 Hella sedí u stolu. Se zavřenýma očima. Prsty pravé ruky přejíždí slepá místa, z bažin vytahuje slova a věty. Čte bříšky udřených prstů, pokorně luští. Levou rukou drží zkřehlé, zženštilé prsty Mladšího.
 
@@ -2251,11 +2522,15 @@ Hella sedí u stolu. Se zavřenýma očima. Prsty pravé ruky přejíždí slep
 
 > _ave_
 
-  
+</section>
+
+<section>
 
 Měsíce tu ruku v ruce prosedí, než se písmena slijí a pošlou si je po řece.
 
-  
+</section>
+
+<section>
 
 „Co je to za dobu, která porcuje řeku jako rybu?! Řeka není ryba, na řeku se mám položit a mám se nechat nýst až k ústí, do moře, do oceánu. Voda nepatří nikomu, jak může někomu patřit řeka, řeku nevoplotíš, neprodáš.“
 
@@ -2263,7 +2538,9 @@ Kobold křičí na Hellu. Na kousíčky roztrhá dopis, který tu nechal Mladš�
 
 Něčí vina to být musí.
 
-  
+</section>
+
+<section>
 
 Hella dělá dobré papání. Jak říkává babička, Koboldova matka. Zadělává těsto na knedlíky, Schweinebraten mit Semmelknödeln und Sauerkraut, papání, které Hella nenávidí, které vyzvrací.
 
@@ -2277,7 +2554,9 @@ Dopis byl adresovaný Koboldovi.
 
 Kobolda zbaví kapitánské funkce v čističce vod. Tehdy Kobold vyjde na balkon. A skočí.
 
-  
+</section>
+
+<section>
 
 A tak se ptám, jestli se Judita musela do vody házet.
 
@@ -2291,7 +2570,9 @@ Potok.
 
 Přejít suchou nohou po hladině.
 
-  
+</section>
+
+<section>
 
 Mladší se nechá zaletovat pod zadní sedadlo černého, napomádovaného veteránu. Který _ukradl_ doktoru Brodovi. Ono slovo zazní před soudem; doktor Brod ale Mladšímu auto nechával, půjčoval mu ho, sám měl špatné oči.
 
@@ -2319,7 +2600,9 @@ Odcházející samopal, sběratel starých vozů, si uvědomí, že tu něco neh
 
 Pokus o nedovolené překročení hranic. Je zatčen, odsouzen.
 
-  
+</section>
+
+<section>
 
 Mladší sedí u stolku. Před sebou má mříž. Rybářskou síť spletenou z geometrických ok. Houpe se mu před očima. Hella přisedne naproti. Židle je vysoká, zalitá do podlahy. Vyhoupne se na ni jako na barovou sesli. Drží se statečně. Barman očima počítá čtverce.
 
@@ -2341,7 +2624,9 @@ Slavní nepřátelé státu.
 
 > _ava kom_
 
-  
+</section>
+
+<section>
 
 Hella miluje Kobolda.
 
@@ -2357,19 +2642,25 @@ Miluje ho tak, že mu napospas nechá svoje děti. Měla se bránit. Vedle Kobol
 
 > _meer_
 
-  
+</section>
+
+<section>
 
 Bylo mi třináct, když mě k doktoru Brodovi Hella dovedla poprvé.
 
 > _stein vom herzen_
 
-  
+</section>
+
+<section>
 
 K čemu návraty. Drásám se, rozcitlivuju. Nejvíc ohrožuju svoji duši. Myšlenky nasáklé pocity, náladami. Vyházet vzpomínky. Vymést prach. Hřebíkem z mozku vyšťourat všechnu zažranou nečistotu. Odpad bolavých emocí. Čekám na břehu, kterým směrem budu odplavena já.
 
 V sebelítosti jsem se neutápěla nikdy, schopna rychlé regenerace. Moje emoce se denně nakazily emocemi ostatních. Ryby o nich nemluví… dlouho… dlouho… než…
 
-  
+</section>
+
+<section>
 
 Když se odpojila, říkala věty, kterým jsem nerozuměla a za něž jsem jí pohrdala. Už nezkoumala slova, jazyk zkoumal ji.
 
@@ -2381,7 +2672,9 @@ Když se odpojila, říkala věty, kterým jsem nerozuměla a za něž jsem jí
 
 A já se s tím vším vyrovnat mám.
 
-  
+</section>
+
+<section>
 
 Přestala jsem být imunní vůči jejich neurózám. Moje myšlení přestalo být imunní.
 
@@ -2389,7 +2682,9 @@ Ne úplně.
 
 Kdo by potom dovyprávěl Hellin příběh.
 
-  
+</section>
+
+<section>
 
 „Jak vysoký jsou útesy Beachy Head?“
 
@@ -2425,7 +2720,9 @@ Věděla jsem to. Věděla jsem, že jsou proslulé krásou dotírajících vod.
 
 A oblíbeným místem sebevrahů.
 
-  
+</section>
+
+<section>
 
 Ztratili oba syny.
 
@@ -2447,7 +2744,9 @@ Večer složíme hlavy na polštář. Ona vypráví. Vypráví pro sebe. Já tam
 
 > _bar sonder_
 
-  
+</section>
+
+<section>
 
 A bylo to tak? Opravdu? Nezabila je ona? Nezabila je? Mé bratry? Mě?
 
@@ -2461,7 +2760,9 @@ Normální rodina.
 
 > _e_
 
-  
+</section>
+
+<section>
 
 Postel v pokoji černovlasých bratrů zůstane netknutá. Vor u břehu. Mladší ji před odchodem ustlal, povlečení uhladil. Kobold přes postel přehodí svou košili a kabát a kalhoty. Látkový panák. Koboldova matka protáhne rukávy a na místo hlavy položí zarámovanou fotografii.
 
@@ -2501,7 +2802,9 @@ Kobold jí neodporuje.
 
 > _ava si_
 
-  
+</section>
+
+<section>
 
 Mladší se z vězení vrátí křehčí a průsvitnější. Zachumlený v kapce vody. Přetáčí čas proti směru hodinových ručiček. Do minut, kdy byla dvojčata spolu. Přestává jíst, aby cítil chuť hladu.
 
@@ -2511,7 +2814,9 @@ Vpisuje mu Hella tužkou do dlaně. Zvuky k němu nedoléhají. Ta písmena roz
 
 Olízne je s velkou chutí.
 
-  
+</section>
+
+<section>
 
 Hella se na něho bojí promluvit. Vpisuje mu do dlaní. Hledá čáru života. Mladší hladoví a mlčí odevzdaně, dlaně nastavené. Koboldovy otázky ignoruje. Kobold není zvyklý na neposlušnost. Kobold musí mít věci pod kontrolou. S mlčenlivým, lhostejným stínem soupeřit nelze.
 
@@ -2529,19 +2834,25 @@ Muž si klekne na kolena v obdélníku hrobu. Jazyk se vyvlékne ze sluje a v�
 
 „Můžeme?“
 
-  
+</section>
+
+<section>
 
 Nezvyklou zahrádkářskou kolonii udá vdova důchodkyně, která se chodí na hřbitov procházet. Mladší pak od října zametá ulice. Čistí plochy na nábřeží. Občas odloží káru i s košťaty. Sáhne po síťce, podomácku vyrobené z mých starých rukaviček. Síťkou z řeky loví nedopalky a listí a odhozené lahve.
 
 Než lahve odhodí do odpadkového koše, každou pečlivě prohlédne proti slunci.
 
-  
+</section>
+
+<section>
 
 O víkendu Kobold syna vodí k loďce. Spolu ji natírají, ošetřují. Kobold se zadívá do dálky. Při pohledu na sochy se rozlítí, odloží štětec, až převrhne plechovku s barvou.
 
 „Musíme se kát. Musíme na to jinak a s kamennou tváří. Musíme bejt mazaný jak bazilišek. Štít rodiny se vomyje, za minulostí se zavře voda. A dědek Brod nám pomůže.“
 
-  
+</section>
+
+<section>
 
 Co si myslela? Co si vlastně myslela? Že když uklidní situaci a zbytečně nerozbouří vlny, loď ztroskotat nemůže? Slova měla psát na hladinu řeky. Nikdy by nezmizela. Měla svá slova nasypat do pytlíků od mouky a cukru, vytřepat do řeky, zadělat těsto.
 
@@ -2549,7 +2860,9 @@ Slova rozhodují o tom, kým a čím se staneme.
 
 Voda necenzuruje, nehodnotí. Poponáší. Ví, že za první zákrutou může být všechno jinak. Nebránit se pohybu.
 
-  
+</section>
+
+<section>
 
 Kobold prostuduje noviny. Zatne zuby. Přepadne doktora Broda nad jeho záhadným rukopisem. Průvan rozfouká listy, vyfoukne je ke stropu. Bílé stránky se houpavě snášejí. Zasněží sedícího doktora Broda i stojícího Kobolda.
 
@@ -2579,7 +2892,9 @@ Než Rubikon přejde, před radou mocných se veřejně zřekne Staršího. Kaje
 
 Na Hellu se nikdo neptá.
 
-  
+</section>
+
+<section>
 
 Dlouhé měsíce Kobolda prověřují a zkoumají. Odvezou ho se zavázanýma očima uprostřed noci k hranicím lemovaným dvojitou krajkou z ostnatého drátu. Kobold vyfasuje skafandr, potápí se ve skafandru i bez něj. V jezeru hraničního prostoru, v jezeru utopeném v moři tmavých, hustých lesů a kopcovitých vln. Úkol státního a nanejvýš tajného významu. Akce vypadá jako fraška, ale Koboldovi vrací právo dívat se jezeru pod kabát i řece pod sukni. Ráz krajiny určují kopce, moře hor a vlnivá zeleň lesů. Voda jezera je hustě černá. Kobold prochází mezi kopci. Ohmatává je. V křivkách skal vidí zakleté boky svých svatých. Křídou si je označí, do březové kůry vyryje monogram.
 
@@ -2601,7 +2916,9 @@ Potápí se a snaží se nahmatat dno. Je tvořené skálou. Ruka se zaboří p
 
 „Tak mě nech vytesat, co chci já. Neřesti. O ctnostech nevím nic.“
 
-  
+</section>
+
+<section>
 
 Ochutnávám vodu, rozvzpomínám se, ta chuť, ta chuť, co to jen bylo za chuť. Nepolknu. Dlouze ji v ústech ochutnávám, zahřívám, utápím v ní jazyk, přelévám.
 
@@ -2609,7 +2926,9 @@ Dávím.
 
 Vyplivnu.
 
-  
+</section>
+
+<section>
 
 Kobold bez odezvy vypráví, jak proplouvá v spleti kořenů stromů, podeplouvá loď a leká nadřízené. Kteří na palubě s horkými termoskami v ruce a se strachem v očích čekají, co za dokumenty černá hlubina vyvrhne.
 
@@ -2623,7 +2942,9 @@ Vnořit se do toku, nechat se trpělivě nést do moře. Kde bude vyloven Starš
 
 > _kobohell_
 
-  
+</section>
+
+<section>
 
 Starší nepíše o emigrantských snech, které ho tíží a ve kterých ho pronásledují tajní, odvlečou a vyslýchají v kobkách bez dveří, bez oken.
 
@@ -2631,7 +2952,9 @@ Je posedlý myšlenkou na Mladšího v zapouzdřené zemi. Sám je jako pes na 
 
 Amputovaní bratři se snaží propojit. Rozpůlená porcelánová figurka s pošramoceným hracím strojkem.
 
-  
+</section>
+
+<section>
 
 Dívat se na protější lesklé střechy, po dešti, se slizkým matem, tašky červených střech pečlivě seskládané, rudé šupinky. Vystoupat na střechu. Vyplašit holuby, balancovat na okraji a skočit. Odrazit se a šipkou dolů.
 
@@ -2649,7 +2972,9 @@ Zvědavá sama na sebe. To bude smysl mého života. Ano. Byla jsem na sebe zvě
 
 Netlač na řeku, teče sama.
 
-  
+</section>
+
+<section>
 
 Přiženou se jako velká voda.
 
@@ -2665,7 +2990,9 @@ Starší v téže chvíli a na téže řece, u kormidla vlečné lodi Rembran
 
 Jednou se namočí. Neuschne. Závora se zvedne.
 
-  
+</section>
+
+<section>
 
 „Pusť mě, pusť mě,“ buší do něho Hella. „Posloucháš mě, posloucháš mě vůbec?“
 
@@ -2675,13 +3002,17 @@ A přibouchne jí dveře koupelny před nosem.
 
 Koboldova matka otočí klíčem.
 
-  
+</section>
+
+<section>
 
 „Prošla jsi její branou,“ řekl mi doktor Brod.
 
 „Ty jsi prošla její branou, vyvolená.“ Hladil mě. Mojí brány se nedotkl.
 
-  
+</section>
+
+<section>
 
 Utrápil ji. A ona se nechala.
 
@@ -2715,7 +3046,9 @@ Rozjasní se. Tvář s dokonalým mejkapem, dnes je odstín vlasů nazrzlý, m�
 
 „Zaplatím částku rovnající se… řekněme tříměsíčnímu pronájmu?… Tak čtyřměsíčnímu! A v pondělí chci vidět další byt v pořadí. Podél vody.“
 
-  
+</section>
+
+<section>
 
 Po vyřčené částce nehne brvou, prošla kvalitním školením. Rychle si propočte, kolik zaplatím za každou minutu, ve které tu vydýchám vzduch. I kdybych ji požádala, aby mi v rámci transakce vyřízla kus masa, za tučný příplatek udělá to. Udělá. Byznys. Jasné myšlení. Dvě cesty, tato vede k zisku, tato nikoliv, tou první jdeme. Žádné pochyb­nosti a znejišťování. Barbar Conan koná. Nepřemýšlí. Nezávislý logický střelec, který odhaduje možnosti. Miluje peníze, miluje moc. Nemá morální kodex. Vždycky bude chtít uklidnit situaci. Studený balvan. Kdo žije ze štěstí věcí, nemůže být pravdivý. Hella byla z jiných genů.
 
@@ -2727,7 +3060,9 @@ Nevtipkuju. A neuteče mi. Zopakuju otázku německy. Anglicky. Francouzsky. Na
 
 Kobold by jí ponořil hlavu do řeky. Nebo do kýble se studenou vodou. Přežily by její drahé vodotěsné hodinky.
 
-  
+</section>
+
+<section>
 
 Mladší bloumá přístavem. Usuší se v hospodě u horkého čaje a eintopfu. S blízkostí moře, které vidí poprvé, vtéká energie do žil. Roztáhne prsty nad kamny, která hučí v přístavní putyce. Slečně v krátké sukýnce a vysokých červených kozačkách zaplatí šnaps. Nechápe, co ona chce po něm. Okouzleně sleduje plachty a buclaté boky bárek. Na přídi zaoceánské lodi zahlédne povědomé jméno. Jméno zakleté v dopisech, příslib ráje. Loď s kajutami. V jedné z nich má domov Starší.
 
@@ -2745,7 +3080,9 @@ Loď vytáhne kotvy, rozřízne první vlnu. Proti silnému větru. Mladší zí
 
 Loď se potopí.
 
-  
+</section>
+
+<section>
 
 Kobold, odborník na pouště, poklad nenajde.
 
@@ -2757,7 +3094,9 @@ Kobold, odborník na pouště, poklad nenajde.
 
 Nikdo neodpověděl.
 
-  
+</section>
+
+<section>
 
 „Tak kolik procent?“
 
@@ -2783,7 +3122,9 @@ Hella zatarasí dveře: „Proč není rovnoprávnost, proč není mnohomužstv�
 
 Měl pocit, že to pravé je jinde. Netušil, že to pravé zrovna ztrácí.
 
-  
+</section>
+
+<section>
 
 Kobold stárnout odmítá.
 
@@ -2811,7 +3152,9 @@ Věděli jsme, že trest přijde. Nebála jsem se. Vydržela jsem nejdéle. Výd
 
 > _dej_
 
-  
+</section>
+
+<section>
 
 I Kobold vypráví. O ctižádosti, dravosti a houževnatosti člověka, který se spojí s vodou. O síle muže. Který záměr stát se prvním mužem v Římě a pánem impéria zpočátku tajil. Tísníme se v malém bytě babičky, Koboldovy matky. Plavat umím. Mluvit začínám. Začínám rozumět vlnění vět, když si mě posadí na klín. Zatímco Koboldova matka učí Hellu vařit. Stojí u rozžhaveného sporáku.
 
@@ -2849,7 +3192,9 @@ O vytesaném zákonu v Caesarově příběhu se už víckrát nikdo nikdy nezm
 
 > _totensee_
 
-  
+</section>
+
+<section>
 
 „Tvoje mysl je narušená,“ křičí na ni Kobold.
 
@@ -2879,7 +3224,9 @@ Moje mysl je narušená. Strašidelné věty se mi rozpouštějí, slova rozpada
 
 > _ave_
 
-  
+</section>
+
+<section>
 
 Tisknu si je k tělu jako lahev zteplalé koly. Držím si je u těla. Všechny mrtvé. Lepí se na patro.
 
@@ -2921,7 +3268,9 @@ Hlad přece není to nejhorší.
 
 Existuje žízeň.
 
-  
+</section>
+
+<section>
 
 Řeka je volavka. Povozit se na jejím hřbetě láká.
 
@@ -2965,7 +3314,9 @@ Já se rozhodla, že se nezahubím. Budu poušť zasypávat oázami. Při rýžo
 
 > _kobohell_
 
-  
+</section>
+
+<section>
 
 Copak já vím. Válka pohlaví skončila. Nikdy nebyla, jen v hlavě. Co já vlastně vím, voda je jednolitá, svobodná, a přece neúprosný koloběh. Vzhůru se vznese, navrací se v podobě dešťových kapek. Prosakuje do vrstev.
 
@@ -2977,7 +3328,9 @@ Hella chodí po světě, v hlavě se jí točí víry, visí uprostřed úzkost
 
 „Vrtulníky a záchranné čluny pátrají po posádce. Podle vedoucího záchranné operace Bindera Knutssona byly nalezeny záchranné vesty, čluny a trosky. Loď ani posádku ale záchranáři nezahlédli. Na lodi byli muži z Německa a Švédska a Dánska, s nákladem plavidlo vážilo 2500 tun. Za nehodou je pravděpodobně silný vítr, loď se před ním chtěla ukrýt v Kosterově fjordu. V jeho blízkosti se zřejmě plavidlo potopilo. Pátrání znesnadňuje záhadný jev, mimořádně zvýšený výskyt chřestivců, kteří patří do řádu ďasové a potravu lákají pomocí látky vypouštěné k tomu uzpůsobenou hřbetní ploutví.“
 
-  
+</section>
+
+<section>
 
 Než ji odvezou do domu s mnoha okny podruhé, prchá z bytu na nábřeží. Potuluje se po putykách v čtvrtích daleko od řeky. V jedné ji najde Kobold. Hella ho zahlédne ve špinavém mléčném skle. Hospodskému poklidně řekne: „Zavolejte polici.“
 
@@ -3027,7 +3380,9 @@ Kobold druhou rukou vypne hostinskému pípu. Bublání ustane.
 
 Kobold s Hellou na vodítku odchází. Mizí do noci směrem k řece. Z putyky se ozve pobavený potlesk.
 
-  
+</section>
+
+<section>
 
 Když tlak nemůže vydržet, sedá ke svým papírům. Chlad vanoucí zvenčí a chlad vanoucí zevnitř navléká do písmen. Růže z Jericha se zakuklí jako ošklivý pavouk. Nic jiného jí nezbývá, aby přežila. Háčkuje dlouhé řetízky slov. Vypouští do světa kostky ledu. Roztají, vyprázdní se, rozlijí se na papír. Hodí sebe samu na papír, vyzvrací se. Už to nejsou lichotivá slova a hříčky, jako když jsme spolu tlačívaly po nábřeží bíle bužírkový kočárek s dvojčaty. A potom…
 
@@ -3035,7 +3390,9 @@ Když tlak nemůže vydržet, sedá ke svým papírům. Chlad vanoucí zvenčí 
 
 Nikde to nekončí.
 
-  
+</section>
+
+<section>
 
 Vlhkou skvrnu na stěně stopuju celou noc. Vytlačená rýha zvýrazní obrysy. Obrysy těla. Miluji tě, Kobolde, miluji tě. To nebyla nenávist vůči mužům, to nebyla nenávist vůči ženám. Miluji tě, Kobolde. Řeka v matčině rodném jazyce je rodu mužského. Zvoní budík. Proč někdo vstává tak brzy? Do práce? Učit se před zkouškou? Vzít prášek? Ujistit se, že žije?
 
@@ -3059,13 +3416,17 @@ Palce, ukazováčky, všechny výběžky na dlaních a chodidlech vznikají z 
 
 Někdy se příroda rozhodne jinak.
 
-  
+</section>
+
+<section>
 
 „Jen ten, kdo vyroste na břehu moře nebo oceánu, je svobodnej, je sebevědomej,“ říkával Kobold, když jsme nastupovali do vratké loďky na nedělní výukovou projížďku pod mostem. Neodpustí Helle nikdy, že ona v mládí u moře byla, a často. Neodpustí Helle, kde všude ochutnávala vodu. S rodiči na břehu Jaderského moře, s prarodiči u jezera Wannsee, na dědečkově jachtě. Hella, jako každý dobrý člověk, je slabá. Kdyby se to naučila, zesílila by. Ale pak by byla zlým člověkem, a to ona nechtěla.
 
 „V týhle zemi moře není, ale kdysi tu bylo. Budu vás vychovávat tak, jako kdyby nikdy nezmizelo. Představíme si, že tu je. V jeho hlubinách se pořád něco děje, i tehdy, když je jeho povrch hladkej a nehybnej.“
 
-  
+</section>
+
+<section>
 
 Lístky posílám po vodě. Slisovaly se v mysli. Opatrně rozevřu škebli. V ní perla nebo prázdno. Další lístek posílám po proudu, ať ho proud odnese. Strach nemizí, strach, že se zachytí u jezu nebo napíchne na větev u břehu. Že se přilípne na mastné labutí křídlo. A vrátí se mi. Jsem malátná. Voda se už v těle nezachytí, voda chce mizet z mého těla.
 
@@ -3089,7 +3450,9 @@ Ale ještě pořád mám na výběr.
 
 > _wasserfeuer_
 
-  
+</section>
+
+<section>
 
 Hellin otec, tak usilovně studuje, vypomáhá v jachtařském klubu u jezera Wannsee, v létě. Nikdo o něm nic neví. V zimě se prochází mezi vilami u jezera. Za jejich solidní zdi by rád pronikl. Jezero ve sněhovém rámu zamrzá a Berlíňané bruslí. Desítky barevných teček, slečny vykrouží do ledu spanilé jizvy, hřejí si dlaně ve štuclíkách. Představa hluboké vody pod nohama vzrušuje, zrychluje dech.
 
@@ -3097,7 +3460,9 @@ Když voda zamrzá, kluci házejí psům klacky ze břehu. Vyhublí a vyhladov�
 
 Sněhové závěje. Otvory vysekané v ledu. Otvory velikosti zavařovacích víček. Nad nimi pánové v klobouku a v dlouhém plášti, s malými udičkami tahají naději obezděnou ledem. Mladý muž si dýchá do dlaní a sleduje dívku, která se rozmáchne na bruslích, odhodí kožešinovou čapku. Černé husté vlasy jí ostrý vítr čechrá do očí, směje se a sviští, svobodná, sebevědomá. To sebevědomí provokuje, takové dívky nezná. Když se dívka vrací, aby si lokla horkého čaje, má tváře zrudlé. Odhrne si ojíněné pramínky z čela. Jeden z nich namotá na prst v rukavičce a koneček olízne. Na ten koneček mladý muž myslí; černý pramínek, který okamžitě ztuhne. Do podoby útlého rampouchu.
 
-  
+</section>
+
+<section>
 
 Já, stoletá, zamrzlé Wannsee přešla po svých. Voda se na slunci rozvaluje, prohřívá, zdobí se třpytem paprsků. V zimě se balí do tlusté krusty, obleče se do ledu. Schová se pod nedobytný krunýř a podřimuje. Svět vody není světem lidí. Lidé bez vody být nemohou. Voda bez lidí být může.
 
@@ -3111,11 +3476,15 @@ Chrastí staré kosti, pod svraštělou kůží bílého slona. Za mnou kachní 
 
 Voda mě odmítá. Nejsem jezerní, jsem říční panna. Pod nohama ucítím pevnou zem. Hudba jezera taje.
 
-  
+</section>
+
+<section>
 
 Je to vaše věc, je to úplně vaše věc, mě už se to netýká.
 
-  
+</section>
+
+<section>
 
 Hellin otec, tak nadaný, studuje chemii a medicínu, publikuje odborné články, do Berlína odešel z Vídně. Jeho otec je krejčí. Český krejčí, který se německy nikdy nenaučí. Řeči, kterou je obklopený, nerozumí. Zasekl se ve věčném zimním spánku. Prostředek sloužící k přežití mu je odepřen. Tlumočí mu žena a syn. Ženě, která je původem také Češka, se průlom podařil. Málo chodí mezi lidi. Když ale slaví narozeniny nebo výročí svatby nebo posvícení a jsou dobře naladěni, zpívají písničku na Straussovu melodii. Slova pro ně ztratila jakoukoliv ironii. Obejmou se a v parádním pokoji zatančí valčík.
 
@@ -3135,7 +3504,9 @@ Hellin otec, tak nadaný, studuje chemii a medicínu, publikuje odborné člán
 
 > _vždy volá Wien Wien Wien._
 
-  
+</section>
+
+<section>
 
 Krejčím se vyučil na Moravě. V rodném městečku se zasnoubí s málomluvnou dívkou. Mate ho u ní jediná podivnost: dívka ráda čte. Než si krejčí otevře vlastní živnost, odejde do světa na zkušenou. Aby měl u zákazníků větší vážnost a vydělal si do začátku. Po návratu je naplánovaná svatba. Dívka mlčky souhlasí, knihu veršů na klíně.
 
@@ -3171,13 +3542,17 @@ Kluci za ním pokřikují. Kamkoliv se hne, házejí kamení. Naznačují ukazov
 
 > _kopne tě nohama._
 
-  
+</section>
+
+<section>
 
 Krejčí zvažuje situaci. Klidně a zdlouhavě. Rozhodne se. Musí smysluplně přečkat čas, než voda skandální historku odnese. A klepny se unaví. Zjistí si, kde se v okolí chystá svatba či jiná sláva. Do městečka či vesnice rychle přispěchá. Ubytuje se v místním hostinci a nabídne své služby. Na zádech si nosí štos látek, zakoupených levně. Pod paží dřevěnou pannu. Kvůli které za ním dál drze pokřikují bosí kluci. Vybalí si nůžky a křídu a jehly a nitě a špendlíky. Šicí stroj si v místě zapůjčí. Vždycky se najde statek, kde panímáma šicí stroj vlastní. Sám je vyšňořený jako elegán. Vlastní práce, nejlepší reklama. Oblékne postupně celou ves. Intuitivně zabrnká na strunu lidské malosti. Závist a ješitnost mu jdou na ruku. Když má na nové kalhoty soused, budu na ně mít i já.
 
 Pak putuje dál. Za sebou šik vesničanů v uniformách, chór, který si pod vousy poťouchle zvesela brumlá „tak je to, mládenci, se všema kozama, když ji chceš podojit, kopne tě nohama…“ Většině ony kalhoty a saka a košile a sukně vydrží do konce života.
 
-  
+</section>
+
+<section>
 
 Rozhodnuto.
 
@@ -3195,7 +3570,9 @@ Hella měla větší představivost než on. Ani netušil jak.
 
 > _blutwäsche zítra_
 
-  
+</section>
+
+<section>
 
 Krejčí po nocích objímá svou dřevěnou pannu. Vydělává, šetří, bohatne. Není mu to nic platné. Skvrna skandálu se vleče za ním. Zažrala se do paměti kraje, všechny dívky jsou opatrné, co kdyby. A na každém šprochu pravdy trochu. Když jim bere míry na jupku nebo svatební šaty, stojí kolem houf mužských ostřížích zraků, otcové, bratři, snoubenci. Aby se nedotkl holé dívčí kůže.
 
@@ -3211,7 +3588,9 @@ K vilce z červených cihel a kopulí.
 
 K bráně s cedulí _Kein Zugang zum Wasser._
 
-  
+</section>
+
+<section>
 
 Hlavu si nechám umýt u kadeřnice. Zakloním. Obnažený krk čeká na břitvu. Teplá voda omývá spánky. Vyžádám si horkou.
 
@@ -3239,7 +3618,9 @@ Aby dokázal, že ten talíř horký není.
 
 > _utur_
 
-  
+</section>
+
+<section>
 
 Piju campari. Rozhlížím se po okolních stolech. Talíře plné jídla. Sklenky plné pití. Tolik jídla. Tolik pití. A není na závoru. Slečna Conan přiběhne do baru, potěžká v očích moji sklenku.
 
@@ -3281,7 +3662,9 @@ Přikývne. Mýlila jsem se v ní. Není single, asi zlatokopka.
 
 Rozumím mu. Stárne. A potkal někoho, kdo ho vrací do života, oživl a přisál se ke kyslíkové masce. Ona je jeho kyslíková maska a ještě neví, jak marně se ho jednou bude snažit odtrhnout. Možná jsem se v ní zase zmýlila, možná to není zlatokopka. Možná se jí jen stýská po střídavé péči. Nikde nikdy nezakotví. Dítě bez břehů.
 
-  
+</section>
+
+<section>
 
 Starší na vlečné lodi proplul mezi Skyllou a Charybdou. V prvním městě za hranicemi zakotví. Vystoupí na pevninu. Podupává. Ze strachu, aby mu pevnina neujela pod nohama. Vejde do putyky. Je večer. V zakouřené a hlučné místnosti se dělníci v montérkách prolévají půllitry s pivem.
 
@@ -3295,7 +3678,9 @@ Starší naráz vypije hořkou tekutinu. Chce vstát. Číšník proběhne kolem
 
 Starší se vyděsí. Čelo orosené stejně jako masivní sklo. Lístek sevře v pěst. Od vedlejšího stolu si ho prohlížejí dva muži. Jeden vstane, jde ke dveřím. Starší přemýšlí. Zvedne se od stolu. Směrem k záchodům. Zamkne, provlékne se okýnkem. Až na lodi mu dojde, že muži v bíle špinavém saku, který roznáší nebojácně své varovné vzkazy, nezaplatil.
 
-  
+</section>
+
+<section>
 
 Zatknou ho za úsvitu. Hustě prší. Emigrace je cela smrti. Ne, tohle jim neřekne.
 
@@ -3309,13 +3694,17 @@ Předjede černé auto. Odveze ho do města s rodným mostem. Dovolává se pr�
 
 > _gemeinsam in bewegung_
 
-  
+</section>
+
+<section>
 
 Ochutnávám příběhy, chuť nasládlé hrušky. Lepkavá, slastná. Jeho hruď ve vlnách, jeho hruď, která se vlní.
 
 Můj zip, který se rozepíná.
 
-  
+</section>
+
+<section>
 
 V hale se hejno mravenců paprskovitě rozuteče. Vbíhají do dveří a vybíhají, míjejí se a zdraví. Čekám, že nadzdvihnou klobouk, _až po vás, soudruhu_. Vyházejí věci ze šuplíků, komod a skříní. Vzduchem létá pestrá směs motýlů. Rozpářou peřiny. Karneval vrcholí. Odnesou Koboldovu rozpitou lahev vodky a fotografii s nebezpečně nesrozumitelným popiskem _Bei Begegnungen dieser Giganten strömen die Neugierigen herbei, wie hier bei der Cowes Week im Jahre 1880_. Odnesou desítky pečlivě slisovaných pytlíků od mouky a cukru, na jejichž okraje Hella vecpala svá slova. Odnesou staré německé časopisy, s Hellinými verši.
 
@@ -3331,7 +3720,9 @@ Kobold se zadívá na Hellu s vytaženým obočím.
 
 Ona couvá ke dveřím koupelny.
 
-  
+</section>
+
+<section>
 
 „Mladé ženy jsou pro staré muže totéž jako plastika pro ženy.“
 
@@ -3383,7 +3774,9 @@ Slečna Conan udržuje štiplavě konverzaci. Ostří konce vět. Co jí mám vy
 
 Slunce odhrne mraky, vysvitne a rozsvítí řeku. Voda je zrnitá. Zrnitá jako skelná výplň dveří jejich ložnice. Jako husí kůže na těle mé matky.
 
-  
+</section>
+
+<section>
 
 Hella leží. Nespí. Kobold spí tak hluboce, že k němu žádný sen nedolehne. Hella leží každou noc s očima otevřenýma. Špetky prachu poletují vzduchem a usedají na nahá těla. Poletují v neviditelném řádu jako planety ve vesmíru. Kolem čtvrté hodiny ráno se pod polštář stočí do klubka had. Hella se rozhodne, vstane. Zdvihne polštář. Pod ním je had jako kluzká ulita. Hella jde do koupelny.
 
@@ -3407,13 +3800,17 @@ Kobold Hellu ostříhá. Vlasy jsou síla. Ostříhá ji. Ne dohola, jak by si p
 
 > _zahnhaar_
 
-  
+</section>
+
+<section>
 
 „Běda mužům, kterým žena vládne,“ řekne mi Kobold.
 
 „Proč jim vládnout nesmí,“ řekne mi Hella.
 
-  
+</section>
+
+<section>
 
 Mohla jsem se vrátit dřív. Kdykoliv během posledních jednadvaceti let jsem se mohla vrátit. Kobold, směšné dědictví jeho myšlenek. Pocit neštěstí a pocit křivdy by mě činil nespravedlivou. Musela jsem počkat. Až řečiště vyschne. Odpustit křivdu chce čas, sílu. Odpustit křivdu. Nejtěžší druh odpuštění.
 
@@ -3429,7 +3826,9 @@ A já mezi nimi.
 
 Nejhorší z nejhorších variant: dítě bez přítomnosti.
 
-  
+</section>
+
+<section>
 
 Vydrží samotku. Vydrží mučení nedostatkem spánku. Vydrží zimu. Vydrží bití. Nevydrží týrání žízní. Je v tom sám.
 
@@ -3457,7 +3856,9 @@ Hella sedí s nožem v ruce, žíly napjaté jako struny, zabrnkat na ně chce
 
 > _messerkollektion_
 
-  
+</section>
+
+<section>
 
 Jako bych našlapovala po pomerančové kůře. Oranžová.
 
@@ -3483,7 +3884,9 @@ Byli jsme ostrovy, co pluly v moři. Ostrovy.
 
 Žádné souostroví.
 
-  
+</section>
+
+<section>
 
 „Z čeho se skládá lidské tělo?“
 
@@ -3511,7 +3914,9 @@ Do vody nikdo nepřepadne. Sedím tu s Koboldem sama: dospělí lidé v neděl
 
 Nikdy ji nevyslovím.
 
-  
+</section>
+
+<section>
 
 Mladší stojí zpocený nad přístroji, jejichž čísla a střelky a barvy mu jsou vzdálenější než fata morgana nad pouštním obzorem.
 
@@ -3519,7 +3924,9 @@ Loď se potopí.
 
 Je to šťastná náhoda. Mladší pod vodu chce. Tělo cítí, že Starší dodýchal, pod hladinou, paměť těla je neúprosná. Cítí, jak se mu krev smršťuje, klesá, srdce namáhavě pumpuje, krev nevypumpuje. Mladší dobrovolně odevzdává dech. Dvakrát do stejné řeky nevstoupí, život je jinde a to jinde neplatí pro každého. Musí pod hladinu, musí domů, k sobě, musí ukonejšit úzkostného chlapce uvnitř. Jákob dosáhl svého lstí, to přece nesvědčí o morálních kvalitách, a Jákob spěchá za Ezauem. Spěchá za všemi utonulými Jákoby a Ezauy, aby dokonané opláchl. Cítí ty vibrace.
 
-  
+</section>
+
+<section>
 
 Na pravém i levém boku lodi se pohupují stíny. Stíny ryb podivných tvarů. A stíny utonulých soch lidských staletí. Stíny, které mu pomohou zdolat tenhle kolos, rozežerou a roztlučou ho zespodu. I jeho stáhne podivný tvor, doprovázený delfínem.
 
@@ -3527,7 +3934,9 @@ Nezvěstní utonulí. Dostrkala je sladká voda řek všech kontinentů, evakuov
 
 Slaná voda je nabalzamuje, stávají se z nich pod vodou mumie, stávají se z nich sochy. Podvodní svět, bájné říše soch z někdejších lidí na dnech oceánů. Škeble, v nichž se nenajdou perly, v nichž se zadřelo zrnko písku. Zrnko písku v koutku oka, pálí a zadírá se, mrkání zkresluje pohled na život, který už nikdy nebude jako u lidí s nebolavým, nezkaleným pohledem. Zrnko písku, vtlačené v bělmo, které připomene úzkostnou vzpomínku na nežitý život. Život lidí, kteří byli vyvoleni, řeky je spolkly a v útrobách dopravily do cíle dřív, než byli vyloveni suchozemci. Jen tady lze ještě slyšet původní zvuky a slova světa, které stvořil vesmír, ne ty, které vyprodukoval člověk.
 
-  
+</section>
+
+<section>
 
 Mladší přestává slyšet. Hukot vod se valí do vědomí. Vnímá rybí ústa, která se němě pohybují, ústa lidí s vypoulenýma očima, pobíhají a dorážejí, spouštějí čluny, zoufale skáčou do vln. Někteří si navléknou záchranné kruhy a vesty. Skočí po hlavě. Strachem voda opovrhuje. Vesty, které je měly zachránit, je zradí a podrží pod vodou nohama vzhůru. Utopí se v nafukovací pasti, nohy do výšky. Tykadla se chvíli komíhají. Než jsou cizí silou protažena kruhem do hlubin.
 
@@ -3535,7 +3944,9 @@ Vousatý muž s náušnicí v uchu se vrhne na strnulého Mladšího, od blika
 
 Tentokrát směr neopustil Mladší.
 
-  
+</section>
+
+<section>
 
 Jsem unavená.
 
@@ -3545,7 +3956,9 @@ Už několik desetiletí.
 
 Neovládnout se před nimi, nezadržet strach a vztek a pláč znamenalo nepřežít.
 
-  
+</section>
+
+<section>
 
 Pít z řeky už se nedalo. Smíchána se splašky. Ani bruslit v zimě se nedalo. Odmítala odpočívat pod pleťovou maskou, odmítala se nechat zazdít pod ledem a zbrzdit pod mostem, kde se dřív tak rozkošnicky a líně převalovala. Spěchala z Prahy pryč, zdrogovaná splašky a chemikáliemi, spěchala za hranice obtažené ostnatým drátem. Bylo jí to jedno, bylo mi to jedno. Regulovaná řeka, regulovaná láska. Vír okolních dějů nabíral na síle. Když slábl, začal se vytvářet jiný. Zaslepena vírem, ve kterém jsem se točila, jsem řešení nikdy vidět nemohla. Nemohla jsem se vyznat. Až po letech, kdy zaslepení ustoupilo, jsem procitla. S vědomím, že každá krize je dar. Možnost začít psát novou abecedu.
 
@@ -3557,7 +3970,9 @@ Pít z řeky už se nedalo. Smíchána se splašky. Ani bruslit v zimě se ned
 
 > _kobohölle_
 
-  
+</section>
+
+<section>
 
 Sada jemných rukavic. Peru je sama, nevěřím čistírnám, nevěřím pradlenkám.
 
@@ -3567,7 +3982,9 @@ Nejtěžší bývaly večery, kdy byla duchem jinde. Automaticky mě uložila, c
 
 Já jsem sama být nechtěla. V hlavě vyvrtanou díru tím věčným divením a mlčením.
 
-  
+</section>
+
+<section>
 
 Už sto let pracuju na jedné soše. Posvítíš si na ni a ona se ti vysměje.
 
@@ -3579,7 +3996,9 @@ Už sto let pracuju na jedné soše. Posvítíš si na ni a ona se ti vysměje.
 
 > _heliebe ist ici_
 
-  
+</section>
+
+<section>
 
 Vykoupaná, kosti prohřáté. Na balkoně, s pohledem na soumrak, kterým se líná řeka přikrývá, se rozhodnu. Zamknu tmavý, snobský byt. Zamknu obtažené kontury zazděných vlhkých bytostí. Zamknu zaklapnutou knihu se špinavým znamením. V koupelně postojím nad masou vychladlé vody. Špunt tentokrát vytáhnu. Prudce trhnu. Kovový řetízek se urve. Spodní dunění vychutnává špagety, které vzápětí z jícnu vydáví. Vír vcucává moje vlasy, co plavou na špinavé hladině.
 
@@ -3589,7 +4008,9 @@ Jako Judita jsem neexistovala dávno.
 
 Hella čárala řešení na své sáčky. Věděla, že těch se Kobold nedotkne. Naučila se háčkovat. Nikdy nebyla na ruční práce, háček se vzpíral. Do noci vysedávala omotaná upoceným několikametrovým řetízkem. Za který Kobold se smíchem tahal. Naučila se kvůli mně háčkovat dokonale. Háčkováním nás nakrmila, zásobovala paničky nového věku, zásobovala je rukavičkami a límečky a vánočními ozdobami. Tehdy hladu odzvonilo, když jsme ani na příděl nedosáhli. Babička se vztekala. Trestala Hellu za útěky k doktoru Brodovi.
 
-  
+</section>
+
+<section>
 
 Hella válela knedlíky, dotknout se jich nesměla. Jídlo babička, Koboldova matka, odpírala Helle a Mladšímu. Nedosáhli jsme na zámek, který Kobold s babičkou umístili na kuchyňské dveře vysoko. Lednička i spíž byly plné jídla. Hella a Mladší nejedli, jen kaši a suchý chléb na zemi, holýma rukama. Některé dny nesměli pít. Hella téměř nejedla, a pokud se k jídlu dostala, dávala ho Mladšímu. Byla silně podvyživená. Vážila 39 kilogramů. Kobold řekl, že je to pro její dobro. My se Starším jsme se ládovali. Já s pocitem radosti, že patřím mezi vyvolené, mezi nadřazené. Koboldovi nadlidé.
 
@@ -3605,7 +4026,9 @@ Sjedu výtahem. Zahučí melodii, ženský hlas nesmyslně ohlásí _stanice nul
 
 Nůž zařízlý do hladiny vodu nezraní.
 
-  
+</section>
+
+<section>
 
 Řeka na mě hází prasátka.
 
@@ -3617,7 +4040,9 @@ Díval se na odraz stromů, budov a lodí na vodě. Odraz pohyblivý, rozteklý
 
 V loďce obeplouvám osiřelý ostrůvek. Muž na břehu zakloní hlavu, v ruce baňatou lahev. Popíjí portské. A hází cosi do vody, plnými hrstmi. Kachny se kolem té spršky shromažďují. Dav roste, natlačuje se, hysterie stoupá, nikdo neustoupí, každý chce urvat svědeckou chvíli, připlouvají další, ty uprostřed se k okraji hrnou netrpělivě, nic nevidí a mají přece právo vidět, uhněte. Zpomalím. Přestanu veslovat. Předstírám, že si prohlížím panorama města. Řeka mi na vlnkách přinese důkaz. Hnědé lentilky. Muž hází do vody… čočku.
 
-  
+</section>
+
+<section>
 
 Jeho synové zemřeli proto, že nic nepochopili. Jednoho zabil nedostatek vody. Druhého její přemíra. Každý má v podvědomí heslo, kterým se řídí, aniž to ví. Všechny nás někdo nese na tácu, jednu sklenici vedle druhé. Když jedna spadne, ostatní se mírně zhoupnou. Nebo zakymácí a rovnováhu vybalancují. Nebo se rozbijí. Zakymácel se, můj život. Mnohokrát. Jen zakymácel. Já chtěla pozorovat. Ale ne ty u kormidla, co drží jen svůj směr.
 
@@ -3651,7 +4076,9 @@ Musím se otočit levým uchem, na pravé špatně slyším.
 
 Ach, Hello, vždyť ty bys byla nešťastná v každé době.
 
-  
+</section>
+
+<section>
 
 Řeka je ucpaná velkoměstská dálnice. Městem proplouvají zašmodr­chané prameny vlasů. Kdosi je táhne za sebou, obtočené kolem zápěstí.
 
@@ -3671,7 +4098,9 @@ Kdo by to Helle věřil. Zmanipuloval okolí, aby mu šlo na ruku. Mistr věroho
 
 > _ava ava_
 
-  
+</section>
+
+<section>
 
 „Ahoj, tak za kolik mega? Míň už nejdi, vykomunikuj to na úterý, to je deadline. Na revanš ti dohodím tu secesní vilu.“
 
@@ -3765,7 +4194,9 @@ Nejcennější je nejen čas… i děti. Dočasná vzácná návštěva. Která
 
 Co to bylo za život. Kdo byl oním plynoucím já.
 
-  
+</section>
+
+<section>
 
 Když chtěla ode všeho utéct, chodila s nákupním košíkem mezi regály. Bezmyšlenkovitě naskládala chleba, mrkve, pytlíkové mléko, cibuli. Ve stejném pořadí vše vrátila zpátky. Prodavačky si ťukaly na čelo, hihňaly se, hlídaly ji.
 
@@ -3775,7 +4206,9 @@ Nejraději by seděla u řeky a poslouchala déšť.
 
 Jsem řeka.
 
-  
+</section>
+
+<section>
 
 Nejkrásnější neděle. V pláštěnkách sedíme v loďce.
 
@@ -3785,7 +4218,9 @@ Kobold otázky vynechal. Jsme schovaní pod mostem. Déšť ševelí, nepolevuje
 
 Bylo to hezké a mělo to konce.
 
-  
+</section>
+
+<section>
 
 „Posloucháš mě?“
 
@@ -3795,13 +4230,17 @@ Hella zopakuje otázku. Upřený, zatvrzelý Koboldův pohled. Do udivených, sm
 
 Upřený Koboldův pohled do udivených Helliných očí. A jeho tiché, ostré, ponižující „ne“.
 
-  
+</section>
+
+<section>
 
 Zbude ze mne obal. Ten jeho život. Tváří se jako hra, a přitom je to zlé a nebezpečné uštknutí. Uměla jsem baletní kroky, uměla jsem nosit hlavu vzhůru, uměla jsem labutí mávnutí, uměla jsem zřetelně vyslovovat _jeho_ jméno, zaokrouhlovat všechna _jeho_ o, zabalená ve jménu Kobold. Jinak nic. Hello, co ty jsi mě naučila, bylo k nepotřebě. Hlavu nezvedlas, chomout byl ze slov. No tak, co takovou skutečností říkáte, paní.
 
 Všechno, co mi pomohlo přežít, mě naučil Kobold.
 
-  
+</section>
+
+<section>
 
 Nějak jsem se živit musela, když mě nenechal studovat, když mě nenechal vyučit. V hotelu jsem nastoupila jako uklízečka a pokojská. Nechávali mě čistit záchody, drhnout vany, umyvadla. Rovnat měkoučké žluté ručníky, smotané na toaletách v proutěném košíku. K utření rukou. Na jedno použití.
 
@@ -3823,7 +4262,9 @@ Nikdo si jich nevšimne.
 
 Horkou kávu, černou, vychrstnout z porcelánového šálku, bílého, na dveře barvy banánu. V hotelu tohoto města.
 
-  
+</section>
+
+<section>
 
 „Jde ti jenom o peníze.“
 
@@ -3841,13 +4282,17 @@ Kobold překročil Rubikon.
 
 Možná už nemohl být dobrý. Zdokonaloval se v umění být zlým.
 
-  
+</section>
+
+<section>
 
 Přicházela jsem za ní, mami, ty jsi zase smutná, podívej se na mě, já nejsem smutná, mami, tak mami.
 
 Strávila celý život hledáním jediného slova.
 
-  
+</section>
+
+<section>
 
 „Dneska už si raději našetřím na pořádnou dovolenou. Jezdím jednou za tři roky na Havajské ostrovy. Nebudu se někde mačkat s ostatními. A je tam ten nejjemnější písek na světě.“ Řekne slečna Conan.
 
@@ -3871,7 +4316,9 @@ Jak hluboká je řeka pod mostem, vím jenom já.
 
 Řeka je jako Kobold. Chladná, autoritativní. Se sladkou polevou.
 
-  
+</section>
+
+<section>
 
 Po letech jsem pochopila. Před rodinou není záchrany.
 
@@ -3887,7 +4334,9 @@ Byt odmítnu.
 
 Mně stačí hlasy, které slyším ve své hlavě.
 
-  
+</section>
+
+<section>
 
 Trojúhelníky vpálené do Helliny kůže.
 
@@ -3937,7 +4386,9 @@ Je jedno, jaká je doba a je jedno, kdo vládne. Protože náš čas určuje Ko
 
 Beru vodu do dlaní a voda bere do dlaní mě.
 
-  
+</section>
+
+<section>
 
 Doktor Brod nabídl odvodněné Helle, že ji ochrání. Šourá se, přidržuje se holí a opěradel křesel, vyschlý. Nabídne Helle, že dokončí, co před lety načali. Hella už není Hellou.
 
@@ -3969,7 +4420,9 @@ Pokaždé, když se pokusí uniknout, zahraje Kobold na strunu, která ji dostan
 
 Slepá skvrna.
 
-  
+</section>
+
+<section>
 
 Doktor Brod nebydlí u řeky. Tvrdošíjně odmítá bydlet u vody, a to kdysi jezdíval v létě k moři, na sever, na Fríské ostrovy, Sylt, Amrum, Föhr. Na úplný sever tehdy jezdil málokdo, lepší pražské rodiny jezdily nejdál na Rujánu. Tady si mladý doktor Brod v klidu čte, studuje, překládá a pije podmáslí, laškuje s vesničankami. A chodí na dlouhé procházky podél Severního moře. Tady zažije ničivé rozmary vody. Mohutný příliv zaplaví tři čtvrtiny ostrova, masivně. Ve vsi voda dosahuje až do výše osmdesáti centimetrů. Téměř všechen dobytek se utopí. Úroda poničená slanou vodou, domy s doškovými střechami pobořené. Z pracovního stolu voda odšplouchne rukopisy překladů, na kterých usilovně pracuje. Knihy, které stihne vylovit, uschnou. Některá písmena i slova sůl rozežere. Slaný drak je slízne, odnese si je na vlnivém hřbetu, spravedlivý, nic není nízké a nic není vysoké, nic není posvátné, kráva, kůň, vzácný tisk.
 
@@ -3999,7 +4452,9 @@ Doktor Brod sedí, čeká. S pohledem na sukně mladičkých ostrovanek začne 
 
 > _festwasser hochland_
 
-  
+</section>
+
+<section>
 
 Dívám se na slečnu Conan. Řeku nevnímá. Ale řeka vnímá ji.  
 Nastřádalo se to ve mně.
@@ -4008,7 +4463,9 @@ A já to zastavím.
 
 Chci zpátky svůj život.
 
-  
+</section>
+
+<section>
 
 Koboldova šachovnice. Vyptával se pod mostem, já šachovnici propátrala, všechna místa, která on vyslovil, jsem navštívila. Všechna místa světa, o kterých tvrdil, že je jeho řeka navštíví. Kamkoliv se ve světě hnu, je Kobold se mnou.
 
@@ -4036,7 +4493,9 @@ Cítila jsem Kobolda. Rozezvučel horu. Metoda cukru a biče.
 
 > _kobohell_
 
-  
+</section>
+
+<section>
 
 „Popojedeme kousek dál. Tentokrát mám pro vás něco klasického, téměř konzervativního, řekla bych.“
 
@@ -4054,7 +4513,9 @@ Slečna z realitní kanceláře strne, zatne zuby. Lícní sval se vzteky zavln
 
 Tučná ryta taky.
 
-  
+</section>
+
+<section>
 
 Byt na nábřeží.
 
@@ -4084,13 +4545,17 @@ Přežiju i přestávky, chleba a mandarinky nebo banány rozdám, tak si nasb
 
 U večeře sedím u stolu s maminčinou pečovatelkou. Po večeři se jdu učit. A pak si čtu pod peřinou. Zalezu pod peřinu, vydýchávám vzduch. Teplo je záhadné. Usnu. 720 májových minut, v nichž jsem nečekanému unikla. 720 minut ze dne, kdy v noci moje maminka zemřela.“
 
-  
+</section>
+
+<section>
 
 Vteřiny. Kapky vody.
 
 Když se vypaří, vyjeví, s jakou silou dopadaly.
 
-  
+</section>
+
+<section>
 
 Kobold se odmítá vrtat v minulostech. Hella se v nich topí.
 
@@ -4098,7 +4563,9 @@ Kobold se obklopuje žabkami. Tentokrát vyváží na loďce je. Jim klade otáz
 
 Jde jen o úhel pohledu. Pokládá je na dno loďky. Která se pohupuje a roztáčí, zatímco na dně vystříká Kobold svůj pramen mezi bílá stehna nebo chytá do dlaní a daruje řece. Hella vysychá. Uvnitř ztvrdne na kámen. Slov na sáčcích ubývá. Sáčků od mouky a cukru ubývá. Hella nemá, pro koho by pekla. Její chlapci jsou mrtví.
 
-  
+</section>
+
+<section>
 
 Kobold se upne na rtuťovitou cikánečku. Zamilovaný si ji vodí k řece. Cikánečka mluví jako babička, Koboldova matka. Kobold si ji přivede ke stolu. Hella je musí obsluhovat. Baví se o ní, jako by byla neviditelná. Je to poprvé, kdy vidím, že má někdo nad Koboldem moc.
 
@@ -4116,13 +4583,17 @@ Kobold cikánečku popadne. Ona ho odstrčí. Kobold se směje. Kdyby totéž ud
 
 Hella láme věty jako suchý rohlík. Dosud skládala slova do vět. Řeka písmen se hrnula. Jak se její věty mají číst? Vodní slalom mezi řádky. Teď věty trhá. Písmena drolí pod stůl. Drobky píchají. Rozdrceny podrážkami Koboldových bot.
 
-  
+</section>
+
+<section>
 
 Já psala vzkazy, nechávala je v hotelových pokojích. Vytištěné pruhy papíru „Wir haben die Toillete für Sie desinfiziert“ jsem navlékala na dveře toalety. Na druhou stranu jsem razítkovala rukou „Ich. Ich habe die Toillete für Sie desinfiziert“. Pod zrcadla v koupelně jsem zasunovala titěrné vzkazy. Na jejichž konci stála adresa a mapka bytu na nábřeží. Psát jsem uměla. Psát jsem uměla, jen mě nenavštěvovala slova jako Hellu.
 
 A k čemu jí vlastně byla.
 
-  
+</section>
+
+<section>
 
 „Bude na tebe hodný. To je nejdůležitější.“
 
@@ -4132,7 +4603,9 @@ To, co chtěla, aby říkali lidé jí, říkala Hella druhým.
 
 Du. Du hast die Toillete für mich desinfiziert. Jdi do hajzlu, Hello.
 
-  
+</section>
+
+<section>
 
 Nikdy to neskončilo. Copak to mohlo někdy skončit. Jakmile tohle jednou člověk zažije, tak se života účastnit nemůže. Jsou rány, které se neuzavřou. Nevyčistí. Rány, které nelze propláchnout borovou vodou. Rány, které se musí vyříznout. Rány, které rozpustí jenom rodná, plodová voda.
 
@@ -4146,7 +4619,9 @@ Kde a u koho ho mám reklamovat.
 
 Jaký je rozdíl mezi skutečným zklamáním a pomyslným.
 
-  
+</section>
+
+<section>
 
 Kobold mě vytáhne z hotelu. Roztrpčený, že postele stelu cizím, movitým mužům. Přivede mě do čističky vod, kde kromě očistného dobrodružství na dně jezera vládne celý život. Kde i já mám pracovat celý život.
 
@@ -4158,7 +4633,9 @@ Je to nepřátelská voda. Hučí, zmazaná tím vším. Vyčištěná a uprave
 
 Kobold se mýlil. Nanočástice se dostanou všude. Zbytky antibiotik a léků nelze přefiltrovat ani v čističkách. Člověk je konečnou stanicí pro toxické látky. I když se brání sebevíc.
 
-  
+</section>
+
+<section>
 
 Měsíční pobolívání v podbřišku neucítí, už neucítí teplý závan předjaří a touhy.
 
@@ -4178,7 +4655,9 @@ Plácnutí do vody. Kobold vzdor smete ze stolu. Jako poslední talíř z porce
 
 > _marschwesen_
 
-  
+</section>
+
+<section>
 
 Svět vítězů, kteří lžou, a nejvíc sami sobě, je přehledný a jasný a silný. Svět Koboldův. Dneska to vím. Nikdy by soud děti nenechal Helle. Nikdy. Přiřkli by je Koboldovi, byl okouzlující, byl vůdce, byl čitelný, byl úspěšný, věděl, co chtějí druzí slyšet. Měl jedinou slabost. Sochy nad vodou.
 
@@ -4196,7 +4675,9 @@ Nevzepřu se. Jako Hella. Nevzepřela se Koboldovi. Nevzepřela se tchyni. Kter�
 
 > _kobohellkuss_
 
-  
+</section>
+
+<section>
 
 Vrátila jsem se až poté, co se mi to podařilo. Voda se vzedmula. K sochám nedosáhla. Ač jsem se snažila sebevíc. Kobold, vůdcovský typ, bál se komukoliv otevřít. Bál se říct, o čem přemýšlí, kdo doopravdy je.
 
@@ -4208,7 +4689,9 @@ Koryto se plnilo nenápadně. Voda nezapomíná. Předává zprávy napříč st
 
 Člověk se chytí, voda polkne.
 
-  
+</section>
+
+<section>
 
 Plavu v široké řece. V mastném oleji. V hlubině se mi někdo věší na nohy, odkopávám závaží, snažím se uplavat. Nemusel ji bít, stačilo v ní probudit pocity viny. Rozrážím vodu, kopu. Doplout ke břehu, stoupnout si na pevnou zem, nic jiného. Kobold mě stahuje. Probudím se. Vstanu. Jsou tři hodiny ráno. Jdu k oceánu.
 
@@ -4224,7 +4707,9 @@ Příliš dlouho jsem tu chodila se džbánem pro vodu. Povodeň, která v tomt
 
 Já věděla, že jinak se vrátím do stoky.
 
-  
+</section>
+
+<section>
 
 Ne.
 
@@ -4238,21 +4723,29 @@ Staršího by Kobold nikdy nevyhodil.
 
 Starší odešel proto, že ho drsně vyhodil bratr. Starší uhodil Hellu. Uhodil ji přes tvář, až upadla. Uhodil ji jenom proto, že si totéž léta nechávala líbit od Kobolda.
 
-  
+</section>
+
+<section>
 
 Nepamatuju se na žádné jiné tváře. Přitom jsem jich potkala tolik. Pamatuju se jen na dvě tváře. Neustále přítomné. Přitom jsem měla učitele, spolužáky, sousedy. Pořád kolem mě jako stráž byli přítomni oni dva.
 
-  
+</section>
+
+<section>
 
 Očista.
 
 A můj účet s tímto městem je vyrovnán.
 
-  
+</section>
+
+<section>
 
 Řeka a lidé kolem ní. Lidé se chovají, jako kdyby totalita neskončila, jako kdyby komunismus trval. Mají totalitu pod kůží. V čem byli vychováni, v tom pokračují. Koboldův svět. Svět podle Kobolda. V čem se dítě narodí, takový model chování přenáší. A není to nakonec i s národem tak, že sice fyzicky přežil mnohaletý žalář – šestiletý za nacismu a čtyřicetiletý za socialismu – ale je to jako s člověkem, vrátil se do svobodného světa jako troska schopná a ochotná jen urvat pro sebe, co se dá? Téměř neslyšně se valí hluboké vody.
 
-  
+</section>
+
+<section>
 
 Tváří se, že je navoněná, stříbropěnná, nevinná.
 
@@ -4284,7 +4777,9 @@ Kolik podob má _něco_?
 
 Ať jdou do háje. Ať jdou do českých luhů a hájů.
 
-  
+</section>
+
+<section>
 
 Moje kůže je suchá a napjatá. Hrozí, že bolestivě popraská a chrastivé šupinky odpadnou. Nepopraská, neodpadnou. Jakmile se kůže dotkne vody, zjihne. Začne dýchat. Začne se vlnit. Zřasí se. Varhánkovatí do pravidelných řad. Buňky se šikují do slizkých, vyboulených, vlhkých plíšků.
 
@@ -4296,19 +4791,25 @@ Smočím prst v rukavici. Ochutnávám řeku. Je slaná. Tolik slz Hella vyplak
 
 > _das slastná wasser kommt immer wieder_
 
-  
+</section>
+
+<section>
 
 Advent na náměstí Starého Města bliká modrými, tekutými světly a ozdobnými vánočními koulemi. Agresivní jsou po celý advent. Aby byli tři dny o Vánocích milí. Mířím k jedinému místu. K vánočnímu trhu. V kovové lázni se pečou kaštany. Vystojím frontu. Vhodí mi kaštany do papírového sáčku. Hemžení lidí, z amplionů burácejí koledy, zkřehlé ruce v rukavičkách obemknou vyboulený obal. Ze kterého se kouří. Ohřejí se. Než se vrátím na most, k sladkoslané vodě. Které je čas lhostejný. Činy si pamatuje.
 
 Není sama.
 
-  
+</section>
+
+<section>
 
 Kolem Helly se zdvihaly masy vody. Chňapaly průsvitnými ústy. Lapaly kořist, skelná ústa se rozevřela. Hella vešla, nerozhlížela se, kráčela za Koboldem, nevšimla si, že stezka mezi vodami je užší a užší. Kobold se díval, jak obstojí. Přes Hellu se přelila voda, víry si předávaly ženské tělo.
 
 Kobold přecházel po hladině. Suchou nohou.
 
-  
+</section>
+
+<section>
 
 Starší se do krve rozhádá s Mladším. Uteče z domu. Schová se u bezradného doktora Broda, pronásledovaného přívalovou vlnou. Kobold toho využije. Rozhodne, že odolný syn se stane námořníkem.
 
@@ -4322,7 +4823,9 @@ A Hella řekne, nech ho být, je můj prvorozený.
 
 Rozkřikne se na ni. Bezmocný a lítostivý pak uteče do ulic.
 
-  
+</section>
+
+<section>
 
 „Tak jakpak se dnes máte?“
 
@@ -4334,7 +4837,9 @@ Jak se mám. Dokázala jsem popsat, jak se mají bratři. Jak se má Kobold. Jak
 
 Kobold zvedá lžíci. Ptá se bratrů, co přes den dělali. Několikrát odpovím i já. Jenomže mě se nikdo neptá. Na toto nikdy.
 
-  
+</section>
+
+<section>
 
 Ne.
 
@@ -4342,7 +4847,9 @@ Tak to přece nebylo.
 
 No tak.
 
-  
+</section>
+
+<section>
 
 Nevečeřím s nimi u jednoho stolu. Vcházíme s Mladším, když dojídají. Pomůžeme Helle sklidit ze stolu. A zamést střepy na podlaze. Hltavě večeříme spolu. Kobold nesnese pohled na ruce v háčkovaných rukavičkách. Nesnese pohled na nepodarek. Nesnese, když se po vidličce sesmekne maso a já po vzoru bratrů lovím kuřecí stehýnko. Rukou. V žaludku vzpomínku na hlad. Nebo sáhnu po koblize, rukavičky zamaštěné. Před spaním mi je Hella vymění, jsem její děťátko, místo plenek mi mění vlastnoručně uháčkovaná ochranná zbarvení.
 
@@ -4370,7 +4877,9 @@ Kobold nedovolí, aby se dítě ocitlo v domácnosti na nábřeží. Cikánečk
 
 A pro chlapečka Michael. Jako by jiné mužské jméno neexistovalo. Jako by se neodvažovaly o jiném přemýšlet.
 
-  
+</section>
+
+<section>
 
 Hellina stanoviště. Ve hře na přežití. Nestrhávaly se body. Stačilo uklouznutí, život končil. Když vypuklo šílenství, které se ukázalo být normou v lidském chování, schovala služka zaskočené, nepraktické rodiče do sklepa. Kobold je ponižoval beztrestně.
 
@@ -4390,7 +4899,9 @@ Zachránil ji. Zachránil mě.
 
 „Zachránil ti kejhák. Zachránil i malou. Bez něho… Líbat ruce bys mu měla…“ vtloukala Helle do hlavy Koboldova matka. Vtloukala Helle hřebíky do hlavy. Boží mlýny melou pomalu. Věděla to. Mlynářova dcera.
 
-  
+</section>
+
+<section>
 
 Cikánečka porodí holčičku. Z nemocnice se vypaří. Jako by se po ní zem slehla. Dítě předají do kojeneckého ústavu. Hella obíhá sestřičky a obíhá porodní lékaře a dovolává se otcova jména, které už dávno nikdo nezná. Chce holčičku adoptovat. Řeknu jí, že se zbláznila, vypadá spíš jak její bába nebo prabába.
 
@@ -4422,7 +4933,9 @@ A co já.
 
 Hulákám na Hellu, hulákám na ni ještě dnes. „Sprich über Kinder, nicht über deine Gefühle, moje milá.“
 
-  
+</section>
+
+<section>
 
 Mám slečnu Conan ráda. Je silná. Hella se chovala jako druhé pohlaví. Chovali se k ní tak i jiní.
 
@@ -4440,7 +4953,9 @@ Taky jsem se nedala. Vyzkoušela jsem si muže. Abych seděla vedle posledního 
 
 „Udělala jsem pro ni to nejlepší, co jsem udělat mohla. Odklidila jsem se jí z cesty.“
 
-  
+</section>
+
+<section>
 
 Vlny. To je to slovo!
 
@@ -4448,19 +4963,25 @@ Vlny, to je princip života.
 
 Tichá voda bývá hlubší.
 
-  
+</section>
+
+<section>
 
 Ještě něco říkal. Že i když se dva lidé rozejdou v klidu, i tehdy děti trpí, vždycky trpí, jen tomu nikdo nerozumí.
 
 Cože to říkal.
 
-  
+</section>
+
+<section>
 
 Když Hella mluvila s Koboldem nebo s babičkou, Koboldovou matkou, jako by byla neviditelná. Používali ji jako rohožku, o kterou si otírali boty.
 
 Používali jsme ji jako rohožku.
 
-  
+</section>
+
+<section>
 
 Čelem se opřu o zeď vedle dveří. Je to on.
 
@@ -4478,7 +4999,9 @@ Je hrbolatá. Je slizká.
 
 Jsem doma.
 
-  
+</section>
+
+<section>
 
 Průsvitná Hella se usmívá, to jsou její jistoty, fluss und fleiss, chléb svůj v potu dobývati budeš. Odstrčím babičku, Koboldovu matku. Sejmu ze zdi zrcadlo. Nasypu na něj hrst písku. Prstem vykroužím obrazce, kruhy. Skloním se. Jsem slepá. Místo očí se navrší dvě hromádky. Rozfoukám je.
 
@@ -4494,7 +5017,9 @@ Celý život jsem ho milovala. Milovala jsem ho nejvíc ze všech. Milovala jsem
 
 > _himbeerenkrise_
 
-  
+</section>
+
+<section>
 
 Do hlubin. Abych našla Koboldovu sochu. Nebo Kobolda.
 
@@ -4502,7 +5027,9 @@ Dluží mi to.
 
 Nezažil ode mne nikdy pořádný vztek. Jako by u mě vypadla očekávaná emoční reakce.
 
-  
+</section>
+
+<section>
 
 Slečna Conan u sebe nemá náhradní klíče. Chybí obvyklý klientský set. Je zaskočená. Vypadává z nacvičené role. Protože je tu něco, co nelze vysvětlit, s čím ani ve snu nepočítala. Byt opravdu chci.
 
@@ -4568,7 +5095,9 @@ Rozpačitě v dlaních žmoulá nabízené háčkované rukavice. Nevysvobodím
 
 > _aequo animo_
 
-  
+</section>
+
+<section>
 
 U řeky prodávají ledovou tříšť. Kobold kupuje každou letní neděli jinou příchuť.
 
@@ -4586,7 +5115,9 @@ Mladší zírá na modrou loužičku v uschlé trávě. Kterou Kobold přikrmuj
 
 „Voda je spravedlivá. Polkne, neptá se.“
 
-  
+</section>
+
+<section>
 
 Před prázdninami se hraje zápas kluků proti tátům. Trenér fotbalového školního mužstva řekne: „Koukám, že jsem tu jediný bez juniora.“
 
@@ -4594,7 +5125,9 @@ Starší se Kobolda nedočká. „Já jsem tu jediný bez seniora.“
 
 Přes trávník se blíží postava. Vlasy sepnuté. Na sobě modré tepláky a pruhované tričko. Hella sotva popadá dech. Dá gól. Starší je pyšný. Do očí se jí nepodívá.
 
-  
+</section>
+
+<section>
 
 Hella tu sedí. Zvedne oči, je unavená.
 
@@ -4616,7 +5149,9 @@ Nevím, o čem mluví.
 
 Nevím. Ona ví?
 
-  
+</section>
+
+<section>
 
 Když se Hella odpojí poprvé, nechá ji Koboldova matka okamžitě odvézt. Odstraní smetí, zamete je pod koberec. Co s bytostí, která není k užitku, co s bytostí, která nevaří knedlíky a nevytírá podlahu.
 
@@ -4628,11 +5163,15 @@ Tři děti můžou vzdorovat jediným způsobem. Mlčením.
 
 Tak už uhoď, myslí si vzdorně Judita, když se kužel světla rozšiřuje, to Kobold vchází do pokoje. Uhoď, ty zmrde, uhoď. Judita vydrží. Vydrží, protože si představuje, že toto není Juditino tělo, to Kobold vráží pěstí do těla Julie, bije Julii a Julie tak jako tak zemře mladá.
 
-  
+</section>
+
+<section>
 
 Kde trčí _můj_ Romeo.
 
-  
+</section>
+
+<section>
 
 Mlčíme a stýská se nám. Vezmu bratry za ruku a vypátrám dům s mnoha okny. Čekáme dlouho a sestra i lékař i psycholožka se na sebe dívají a potom nás přece jen vezmou do pokoje.
 
@@ -4662,7 +5201,9 @@ Kobold je horší než paranoia. Hella Kobolda miluje. ¨
 
 > _čeho se lidé bojí_
 
-  
+</section>
+
+<section>
 
 Chodíme za Hellou pravidelně a ona se zase chytne drápkem a vrací do svého těla a do světa, v němž se pohybují její děti, a v tom domě s mnoha okny se držíme za ruce a ona ví, že zachránit musí hlavně nás, a všichni víme, že to nedokáže, nikdy. Kobold je příliš nebezpečný protihráč. Ale ona bude alespoň nárazníkem, který Koboldovu energii změkčí, rozpustí. Všichni to víme, ale nikdy jsme to nevyslovili. Protože bychom pohřbili naději.
 
@@ -4682,7 +5223,9 @@ Marné naděje.
 
 > _sowieso_
 
-  
+</section>
+
+<section>
 
 Sochy na mostě posedle ochraňuje. Sní o nich. Michaelu Koboldovi jsou tři roky, když se potopí Titanic. Maluje onen kolos stále dokola. Nedobytnou, nezničitelnou, hrdou loď. Skloněný nad papírem. S tužkou, kterou mu do špičky ořezává otec, prudkými zářezy. Odštěpky létají kolem a rozlítí matku. „Jak si to malý Moricek představuje.“ Šišlá na manžela zlověstně. Otec po kolenou sbírá ořezané zbytky, matka projde kolem a křísne mu záhlavec, často mu křísne záhlavec, může si to dovolit, ví, že otec je závislý na Koboldovi, že se nevzepře, a jestli ano, ona zaječí.
 
@@ -4692,11 +5235,15 @@ Je závislý na Koboldovi a žena ho má v hrsti i jinak. Během svatebního 
 
 Skupuje noviny, a když mu nestačí peníze, obchází kavárny a loví články v odložených listech. Žijí v městě u řeky od Koboldova zrození, majitel mlýna donutil ničemníka postarat se o oplodněnou dceru. Jí zase zakázal mluvit s kýmkoliv, natož s lidmi z četnické stanice, o okolnostech početí. Vystrojil svatbu, napakoval dvojici penězi a moukou a po narození vnuka vypoklonkoval do dlážděných ulic. Do dláždění se ostuda vsákne.
 
-  
+</section>
+
+<section>
 
 Můj dědeček, Koboldův otec. Řeka zamrzla na Tři krále. U Braníka nasadí synovi šlajfky a pod krkem pevně zaváže čepici. Sám nasedne na kolo. Michael Kobold roztáhne nohy, zachytí se rukavicemi pevně klacku přivázanému k provazu, drží se klacku, jako by to byla řídítka. Táta šlápne do pedálů, Michael Kobold udržuje rovnováhu, nohy napnuté. Stopa za nimi je trojitá. Po zamrzlé řece dojedou ke Kamennému mostu. V letech, kdy řeka zamrzne o Vánocích, prosviští mezi sádkami s kapry.
 
-  
+</section>
+
+<section>
 
 Můj dědeček, Koboldův otec. Pečlivě skládá informace o Titanicu. Se synem se rozmluví jen na mostě. Mezi sochami, které občas pohladí.
 
@@ -4718,7 +5265,9 @@ Podotkne otec směrem dolů, k řece.
 
 „Spěchá, aby si tu spoušť vomrkla, kdyby se vobrátil směr proudu, připlaví nám mrtvý z Titanicu, připlaví nám kusy pasažérů, vokousaný zdechliny. Plnou parou vstříc záhubě.“ Michael Kobold pochopil. Věci nepotopitelné se potopí. Pochopil, že voda je mocná, mocnější než člověk. Některé vylovili do záchranných člunů. Někteří zmrzli.
 
-  
+</section>
+
+<section>
 
 Tu fotografii má nejraději. Zmrzlé postavy vypadají jako sochy. Ojíněné, nehybné, ztvrdlé. Sochy. Které je třeba chránit. Zahřívat, přikrýt, rozhicovat teplem lidského těla. Aby se nerozpadly, aby se nedrolily. Každého z pasažérů polkla voda. Loví jednoho po druhém, identifikují to, co už nenávratně patří vodě. Někteří zmizí navždy. V hlubinách.
 
@@ -4730,13 +5279,17 @@ Existuje tajemství, které mu prozradí jenom voda. Nebo socha s pěti hvězda
 
 Babička, Koboldova matka, nad jeho rakví Michaelovi zlostně zašeptala: „Není vostuda jako chudej začít, je vostuda jako chudej zemřít.“
 
-  
+</section>
+
+<section>
 
 V roce, kdy se pod mostem na řece konalo mistrovství Evropy v krasobruslení, už Kobold na led nevstoupí. Stojí na mostě vklíněný mezi diváky. Vítězkou v ženské kategorii se stala sedmnáctiletá Norka. Byla ve své kategorii jediná. Kobold se na ni dívá. Kobold ji nevidí, Kobold očima hltá cyklistu, který šlape po zamrzlé řece a mizí, propadá do ledu a voda se za ním zavírá. Cyklista šlape do pedálů pod ledem.
 
 Kobold Norce zatleská. A doma přehodí přes židli, na které sedával táta, svůj kabát.
 
-  
+</section>
+
+<section>
 
 Mladší bratr tu neznámou paní s mnoha okny zachrání. Zachrání kapra nasuchu. Roky marně otevírá ústa, vkládá do nich sousta, aby se životu navrátila barva a chuť. Zachrání tu paní, která pátrá po chuti dětství. Přinese vodu v lahvi. Bezbarvou tekutinu. Vlije do úst, ústa ochutnávají, jazyk čvachtá, utápí se. Paní ohřívá tekutinu, polkne. Našla svou chuť. Promění se. Každý má svůj příběh, některé lze snadno zmáhat.
 
@@ -4746,7 +5299,9 @@ Mladší bratr tu neznámou paní s mnoha okny zachrání. Zachrání kapra nas
 
 Voda vylovená z řeky pod mostem.
 
-  
+</section>
+
+<section>
 
 Prošedivělý Kobold domů přitáhne kumpána z mokré čtvrti. Vzhlíží ke Koboldovi. Blonďák s vyhryzlými kouty, prořídlé vlasy stažené červenou gumičkou do culíku. Trochu nesvůj, usrkává pivo. Kobold do sebe hodí vodku.
 
@@ -4766,7 +5321,9 @@ Prošedivělý Kobold domů přitáhne kumpána z mokré čtvrti. Vzhlíží ke
 
 Kobold se rozmáchne, smete mísu ze stolu. Hella posbírá teplé buchty. Smetáčkem zametá ledové střepy a drobky. Kobold podupává botama. Jordán poposedává, neví, co s rukama, pivo z půllitru vyprázdní naráz. Kobold ho zklidní pohledem. Dvě zvířata si k sobě čuchnou a ucítí ten cizí pach. Takhle se to s ženskýma musí, výuka začala, ruce za záda, zazvonilo. Jordán učenlivě zašátrá po mých rukavičkách, složených v klíně.
 
-  
+</section>
+
+<section>
 
 Umím to. Snášet dění kolem. Vnitřnosti sžírá bolest a nenávist. Svorně pomlaskávají. Pocity hanby a pocity viny, a kde je bezpečí, není kam zalézt. Nade mnou sedí on. Král s roztaženýma nohama, s žezlem v ruce. Trůn se převrhne.
 
@@ -4776,7 +5333,9 @@ Vždycky to bylo stejné. Snaha vyplout na moře. Odpoutat se od pevniny.
 
 Tělo mé mámy bylo i mým tělem.
 
-  
+</section>
+
+<section>
 
 „Líbí se mi, že jsi taková nóbl, pořád nóbl, i v práci a tak vůbec.“
 
@@ -4788,7 +5347,9 @@ Tělo mé mámy bylo i mým tělem.
 
 Kobold je pořád s námi. Jordán mezi pitím piva o ničem jiném nemluví. Kobold je jediný, kdo Jordánovi nabídl práci, přizval ho na kapitánský můstek, když ho ostatní skopávají do podpalubí. Jordána kdysi vyhodili ze studií za opisování zakázaných knih, přes průklepový papír, narval těch papírů do stroje i čtrnáct, na těch posledních byly jen černé nebo fialové skvrnky, drobné otlačeniny a modřinky. Kobold byl fascinován, když se dozvěděl, že tři prostřední oblouky Kamenného mostu jsou duté a že se tu Jordán scházel s podobně smýšlejícími a předával přepsané kopie. Koboldovi se chvíli zdálo, že Jordán dělá to samé jako Hella. Jenže větám, které Jordán přepisoval, dobře rozuměl. Jordán si nedovolí odporovat, když šéf na stříbrném tácu nabídne mušli své stárnoucí dcery. Nabídne jediného haranta, který mu zbyl. Nedovolí si odporovat, přestože by mohl mít dvacetileté. Kobold se bojí, že mu zůstanu viset na krku jako Hella. Vidí, že se mužům vyhýbám. Žít s nějakým mužem znamená pro mě, že mi ujídá duši. Proto manželství vypadají jako mrtvá. Nebo alespoň jeden z partnerů.
 
-  
+</section>
+
+<section>
 
 Hella zamyšleně zvedne od lopatky se smetáčkem smaragdově zelené oči. Studuje Koboldův stín jménem Jordán. Obkružuje, tygr přechází v kleci. Jordánovi mě dát nehodlá, Jordán je prodloužená Koboldova ruka, Jordán není Romeo, něco vymyslíme. Tygr přechází v kleci, unaví se. A kousne do zkaženého masa, které leží v koutě. Taky už nejsem čerstvá. Mám si vzít mumii. Doktora Broda.
 
@@ -4798,7 +5359,9 @@ Hella zamyšleně zvedne od lopatky se smetáčkem smaragdově zelené oči. Stu
 
 Poslední pouto s Koboldem chce odsunout z kolejiště, touží po osamění, mezi koleje zalehne jako do doupěte. Nepřemlouvá mě, neosobním tónem drkotá řečí, v níž se slila slova německá a česká. Není to rychlík, ale courák. Drkotá a drkotá.
 
-  
+</section>
+
+<section>
 
 Přízi a háček vymění za průraznou jehlu a režnou nit.
 
@@ -4806,7 +5369,9 @@ Vedle sebe položí oba syny. Dva kabáty. Prodlužuje záda černého mantlu, k
 
 Na nic se neptám. Už nic vědět nechci.
 
-  
+</section>
+
+<section>
 
 Nemohla jsem odolávat někomu, komu nezbyla žádná jiná teritoria rozhodování než dceřin život. Kobold za můj útěk Hellu potrestá. Víme to obě, nemluvíme o tom. Nechci vědět, jak ji potrestá. Bylo to její rozhodnutí, že s ním žije. Ne moje.
 
@@ -4822,7 +5387,9 @@ Kobold křičí, že nás zabije, obě. Jordánovi je trapně. Spíš se mu ulev
 
 „Ty jsi prošla její branou, vyvolená.“ Hladí mě. Mojí brány se nedotkne.
 
-  
+</section>
+
+<section>
 
 Vysmýčím kouty. Neklidná z tikotu pendlovek. Neklidná z ticha a mrtvolné nehybnosti, celý život navyklá na stav ohrožení; mé mysli a tělu najednou chybí. Utopená v myšlenkách, prachovkou někdy setřu prach i z doktora Broda. Podřimuje v křesle nad knihami Lewise Carolla, sní o Helle v šněrovaných botkách, o Helle s lesklými, rozevřenými rtíky. Vzpomíná, jak ji poprvé požádal o ruku v jejích jedenácti letech. Rodiče se smáli. On to myslel vážně. Jako to vážně myslel jeho milovaný Caroll se svou Alice Pleasence Liddellovou.
 
@@ -4832,7 +5399,9 @@ Dítě.
 
 Lidé se nesejdou nikdy ve správný čas, šance dostávají v časových smyčkách. Chci dítě. Musím se rozhodnout rychle. Hellu, která si vydechla, jak má dceru pěkně uklizenou, už neuvidím. Čas vyprchá. Plodná léta vysychají. Lovím poslední šanci.
 
-  
+</section>
+
+<section>
 
 Myslela jsem, že mě doktor Brod ochrání. Než jsem s definitivní platností pochopila, že ochránit se musím sama. Potřebovala jsem svého Kobolda.
 
@@ -4842,7 +5411,9 @@ Je to nemoc.
 
 Nakazila jsem se. Trpěla jsem stejnou nemocí jako Hella. Přitahována bolestí, kterou způsoboval mému tělu a duši. Ta bolest mě oblévala. Moře, můj cíl.
 
-  
+</section>
+
+<section>
 
 „Taháš se s děvkama, celé noci na tebe čekám. Víš, kolik je hodin.“
 
@@ -4850,17 +5421,23 @@ Křičí a není k zastavení. Než Kobold práskne dveřmi a odejde. Než bo
 
 Sedí na zemi a sama nevěří, že je taková. Sedí a stydí se za podobu, kterou si nechala vnutit. Nechá si namluvit, jako všechny před ní, že jinak, než útočným křikem, se bránit nemůže. Není lapena ve světě a v jeho frázích a účelech.
 
-  
+</section>
+
+<section>
 
 Nechci děti, nikdy nechci žádné děti.
 
 Nedokážu si vlastní děti představit.
 
-  
+</section>
+
+<section>
 
 Chci.
 
-  
+</section>
+
+<section>
 
 Slyším, vidím, vnímám. Nechci. Nastavím levé ucho.
 
@@ -4868,7 +5445,9 @@ Děti jsou prý agresivní, jsou drzé. Agresivní a drzá je voda této země.
 
 Jsem zaklapnutá v automobilu jako v plechovce, s řidičem a slečnou Conan. To oni komentují slova z rádia. Nebyla jsem agre­sivní, nebyla jsem drzá, a kdo mě za to pochválil, nikdo. Já přece znám řešení, já znám řešení, jenomže kdo ho zrealizuje. Kdo zařídí, aby děti po narození vychovávali lidé citliví, jemní, moudří, vřelí, tekutí. Dítě je vzácný návštěvník. Jako k vzácné návštěvě se k němu mám chovat. Já jsem vzácný návštěvník. Moje dcera… Všechno jsem podělala. Všechno. Z řeky se stala stoka, já tok nezastavila. Ani neodklonila.
 
-  
+</section>
+
+<section>
 
 Copak se můj příběh dá někomu vyprávět, copak se dá vyprávět můj příběh, copak Hellu někdy někdo vyposlechl, dívali se a ušklíbli, protože křehká Hella provokovala svou křehkostí, protože křehká Hella odmítala vidět, že většina lidí uvízne na mělčině. Pravdu nemůže člověk říkat někomu, kdo ji neslyší. Pak sám sebe strašně zraňuje.
 
@@ -4884,7 +5463,9 @@ Kobold v Helle vzbudil pocit, že je neschopná, závislá. Nemohla se od něho
 
 > _unnr_
 
-  
+</section>
+
+<section>
 
 Každý má svou Achillovu patu. A do té paty je nutno kopnout. Ne. Zahryznout se. Ne. Zabodnout připínáček. Aby dotyčný kápl božskou pravdu.
 
@@ -4892,13 +5473,17 @@ Vracím se, je to místo zoufalství a potupy.
 
 Ve válce jsou všichni vrazi.
 
-  
+</section>
+
+<section>
 
 Ona o tom věděla, věděla o tom.
 
 Nikdy jsem nebrečela. Nikdy jsem nedovolila, aby se ze mě slzy vylily. Slanou vodu jsem zadržovala v sobě. Jaké slzy by se bývaly měly vyplakat. O tuhle vodu jsem se s nikým dělit nehodlala. O tuhle vodu se s nikým dělit nehodlám. Chtěla jsem, aby už uhodil. Chtěla jsem to mít za sebou. Polévá mě vodou, zbožňuje mě. Hlad nebyl to nejhorší, rány nebyly to nejhorší, žízeň nebyla to nejhorší. Stála jsem proti němu, vyzývavě, blanky mezi prsty, sevřené v dětských pěstičkách, tak uhoď, myslela jsem si, tak uhoď, uhoď už, hau mich doch an, du Arschloch, bušil do mě, slyšela jsem praskat kosti, kolikrát jsem skončila v nemocnici, mlátil neúnavně, od té doby špatně slyším na levé ucho, mně se ulevilo, když začal. Nikdy jsem neplakala. Nikdy. Sto let si dítě myslelo, že si trest zaslouží. Byla jsem zástupný cíl. Byla jsem terč, figurína, Judita nebo Julie. Obě stály před Helliným tělem.
 
-  
+</section>
+
+<section>
 
 Překročím Rubikon. „Chceš-li vnímat to nejlepší z Evropy, zajeď si do Ameriky, zařídím to, holčičko,“ řekne mi doktor Brod. Ruším ho ze snů o Helle. Zákon vytesaný v kameni odvleču na zádech. Uteču. Čechy jsou nemocné, nechtějí se léčit. Řeka není naplněná borovou vodou. Nepropláchne mocným šplouchem bolavé rány. Borová voda by stejně nestačila.
 
@@ -4912,19 +5497,27 @@ V pase potřebná povolení a razítka, poslední vzedmutí sil známých dokt
 
 > _erbe_
 
-  
+</section>
+
+<section>
 
 Uteču. Abych lžičkou vyškrabovala z hlavy Hellinu zátěž. A Kobolda. Žil v hrůze, že potkám jiného muže. Lžičkou jsem vyjídala ze své hlavy vzpomínky. Lžičkou vyškrábat momenty, kdy se minulost mísí do přítomnosti, být volná. Kopečky zmrzliny. Zmrzliny, která měla na slunci roztéct. Že se uleptám, jsem věděla. Věděla jsem, že jednou ty zbytky lepkavé špíny s konečnou platností smyju. V řece pod mostem. Tváří v tvář smrti je návaznost na druhé přerušena.
 
-  
+</section>
+
+<section>
 
 Na jaké planetě to Hella žila.
 
-  
+</section>
+
+<section>
 
 Na jaké planetě to žiju já.
 
-  
+</section>
+
+<section>
 
 Učím děti plavat. Tady neslyším Hellin jazyk. Slova zraňují, dikobrazí nájezdy. Stávám se člověkem. Přítomnost je léčivá sama o sobě.
 
@@ -4938,7 +5531,9 @@ Přezdívají mi Rukavička. Řekla jsem, že pod gumovými rukavicemi tělové 
 
 Za odměnu předvedu kouzlo poslední. Nadechnu se a skočím, délku bazénu přeplavu pod vodou na jediný nádech. Pomalu a s rozkoší. Jako pod vrstvou skla. Když se sklo roztříští, lachtan se vyhoupne přes okraj bazénu, lesklý. Záblesky pohupující se vody, hala nikdy nezažila takové ticho. Děti nedutají. Na zápisy do mých kurzů plavání se tvoří dlouhé fronty. Do kurzů mlčenlivé a podivínské paní Rukavičky.
 
-  
+</section>
+
+<section>
 
 Vyplivla jsem mateřský jazyk. Vyplivla jsem otcovský jazyk. Je to Koboldova země. Tolik energie věnované tomu, aby člověk vyrval jedovaté šípy. Už jsem to nezvládala. Co se kolem mě dělo, bolelo. Nerozumím té zemi, nerozumím té lásce, nerozumím moři. Hello, už se nelekej, na kolena neklekej.
 
@@ -4948,11 +5543,15 @@ Sbírám vodu jako jiní sbírají vzácné motýly.
 
 V nové zemi jsou na lavičkách pamětní tabulky: „Sybil and Stu always from the witnesses of theire love affair. Brad, Margita, Todd, Michelle, Emily, Jake, Tomy, Allison, Claudia.“ Mám pocit, že nesedím na zelené lavičce, ale u rodinného stolu.
 
-  
+</section>
+
+<section>
 
 Měla jsem s nimi příliš mnoho společné minulosti. To je k neunesení. Rodiče s dětmi mají vůbec nebezpečně mnoho společné minulosti.
 
-  
+</section>
+
+<section>
 
 Doktor Brod se rozpadne. V prázdném bytě. Rozplyne se v tichu. Rozprodal nábytek, lustry, obrazy. A fotografie nahých děvčátek.
 
@@ -4964,7 +5563,9 @@ Svou parodii antisemitismu nikdy nedopíše. Nedopíše knihu plnou melancholie 
 
 > _eine art_
 
-  
+</section>
+
+<section>
 
 Vstávám časně, abych zachytila východ slunce. Sedím oblečená na posteli a čekám, ven vyjdu do šedavé řídnoucí tmy. Mířím k vodě, zbloudilá na poušti. Plechové nebe se s oceánem na obzoru políbí. Splynou.
 
@@ -5022,11 +5623,15 @@ Měděná řeka za mnou doputovala, rozředěná a ochucená solí. Děti jsou 
 
 Láskyplní je propustí.
 
-  
+</section>
+
+<section>
 
 Ať nám dá život do pořádku.
 
-  
+</section>
+
+<section>
 
 Já vím, jakou má moře sílu, když se durdí. Dokáže podrazit nohy. A bolí. Moře nepatří nikomu. Země taky nepatřila nikomu, a přece si půdu rozparcelovali. Jednou si vyměří a rozprodají i moře.
 
@@ -5048,7 +5653,9 @@ Na břehu moře potkám muže. Jsem panna. Muži rádi loví mořské panny.
 
 > _my destination_
 
-  
+</section>
+
+<section>
 
 „Vezmi si mě.“
 
@@ -5084,7 +5691,9 @@ Rána. Setřu krev z koutku úst. Olíznu prst. Je sladká.
 
 „Takže svatba. Kdy? Za pět minut? Za deset? Zítra odpoledne?“
 
-  
+</section>
+
+<section>
 
 Potřebuju jeho vytrysklý pramen. Odrodím. Chci vyslat do světa Helliny geny, chci holčičku. A vůbec jí nerozumím. Koboldovy geny mají navrch. Vyplavou a tlačí před sebou jediné. Svá ega. Uteču od všeho, znovu.
 
@@ -5100,7 +5709,9 @@ Hodiny, které jsou plné. Prázdné dno se začíná zalévat, nádoba naplňov
 
 > _buttermilch_
 
-  
+</section>
+
+<section>
 
 Kobold nám vnucoval představu, že tu moře je. Hella vyplakala hodně slz. Kobold moře má.
 
@@ -5132,7 +5743,9 @@ Vzduchem poletují podivná Hellina slova.
 
 > _1, 2, 3, 4, 5, 6, 7, 8, 9, 10_
 
-  
+</section>
+
+<section>
 
 Ležím uprostřed svého města.
 
@@ -5148,7 +5761,9 @@ Začnu se pomalu svlékat.
 
 Věci se vracejí ke svému prameni. Můžeme být šťastni ve městě změněném k nepoznání. Bratři zemřeli. Já jsem vyvázla.
 
-  
+</section>
+
+<section>
 
 Odpouštím jim.
 
@@ -5160,7 +5775,9 @@ Byla Koboldovou obětí.
 
 A oběť je také viníkem.
 
-  
+</section>
+
+<section>
 
 Takhle to nebylo.
 
@@ -5170,7 +5787,9 @@ Hella se snažila. Nekřivdi jí, Judito. Nekřivdi jí, Julie.
 
 Je čas zavrtat se do masa.
 
-  
+</section>
+
+<section>
 
 Viděla jsem… Viděla jsem z okna… Vidím, jak se Hella odtrhává. Jak ze sebe smetá jeho ruce. On chytne rukověť jejího kufru. Vykroutí držadlo z prstů a kufr odhodí do řeky. Řeka mu pomáhá, kufr na svém hřbetu posouvá dál, je jako letištní odbavovací pás.
 
@@ -5180,7 +5799,9 @@ Uhodí zezadu, pohlavek černým vlasům. Ona se zlomí v pase, přepadne, proh
 
 Viděla jsem… Vidím to z okna bytu na nábřeží. Nepohnu se. Za rameny se mi objeví Mladší, vykřikne a běží ven, dolů k řece. Kobolda odtrhne, křičí na sebe.
 
-  
+</section>
+
+<section>
 
 Vidím to a jen se dívám. Ještě dnes se jen dívám. Široširé moře. Překročila jsem hranici. Ochotná být už jenom zlá, jsem Koboldova krev. Hella nekřičí, ona nikdy nekřičí. Jak se v tom má dítě vyznat. Pracovala jsem s informacemi, které mi dávala Hella. Nikdy jsem nepracovala s informacemi, které mi dávalo moje tělo, zdravý rozum nebo moje intuice. Kobold přece tvrdí, že ji miluje. Že je neposlušná.
 
@@ -5188,7 +5809,9 @@ Bere si mě na kolena, vypráví mi o Rubikonu, hladí mě, drahý Kobold.
 
 Viděla jsem… Vidím to z okna. A vidím, že jí řeka nepomůže. Proč se nevylije z břehů, neobejme Hellino ležící tělo, nevezme je s sebou, v pomalém tekutém snění, když je tak spravedlivá, no proč.
 
-  
+</section>
+
+<section>
 
 Řeka nabaluje na prvotní písmena slova, posouvá se. Hledá, kdo rozluští celek. Po svých bych měla odšlapat celý tok.
 
@@ -5198,7 +5821,9 @@ Její jediná dokonaná forma protestu, bouře ve sklenici vody. Po ruském vzor
 
 Michael Bold.
 
-  
+</section>
+
+<section>
 
 Mysleli si, že se to nedozvím. Nejprve zmizel Kobold. Prý spadl do čističky vod. Nedodržel přísná bezpečnostní nařízení.
 
@@ -5244,7 +5869,9 @@ Všechno, včetně bytu na nábřeží, propadlo státu.
 
 Bylo mi to jedno. Jen to svírání v krku. Krk ovázaný ostnatým drátem.
 
-  
+</section>
+
+<section>
 
 Poraněné zvíře se vleče. Do špajzu. Zavře za sebou. Na linoleu v kuchyni je šmouha, červená šmouha.
 
@@ -5258,7 +5885,9 @@ Slyšeli jsme ty rány. A ona jenom… jenom tiše naříkala.
 
 „Zavolám sanitku,“ řeknu já.
 
-  
+</section>
+
+<section>
 
 Hella nás zastaví. Sehnula se. Možná zase sebrala nějaké slůvko.
 
@@ -5280,7 +5909,9 @@ Kolikrát jsem se s modřinami schovávala do špajzu s hamburgery, burským m
 
 Hello, zlobím se na tebe, zlobím se na tebe víc než na Kobolda, slyšíš mě, moje milá, slyšíš mě.
 
-  
+</section>
+
+<section>
 
 Jediné, co jsem si odvážela, byly kufry s Hellinými sáčky. Dva kufry naplněné zažloutlým papírem, pošpiněným kolibřím písmem mojí mámy. Mojí mámy, která říkávala, že než člověk začne psát, musí vstát od stolu a smést ze sebe drobty žité a strávené reality. Pak si může sednout a začít psát o své, vnitřní realitě.
 
@@ -5316,7 +5947,9 @@ Neposlouchá mě. I když nesedí u stolu, píše. Vezme mě do náruče a za
 
 „Vykoupit se z každé této stanice znamená only one way.“
 
-  
+</section>
+
+<section>
 
 Velký špajz byl v moderním domě na předměstí. Po celou dobu mluvil jen s dítětem. Začínala jsem žárlit. Odbíhala jsem od večeře. Pro sójovou omáčku. A ubrousky? Ano, ubrousky, zapomněla jsem. Zvedala jsem se. Zarazil mě. Odsunul židli, odešel do špajzu hledat ubrousky, nikdy do špajzu nechodil, nevěděl, kde jsou. Šátral, dlouho se nevracel. Polilo mě horko. Vyšel a štítivě, mezi dvěma prsty, držel jeden z Helliných pytlíků.
 
@@ -5340,7 +5973,9 @@ Zamkl mě do koupelny. Zpod pečících forem tahal štosy vyhlazených slov, tr
 
 Hellina slova chroptěla. Narvaná do drtiče na odpadky.
 
-  
+</section>
+
+<section>
 
 Nemám naději na lásku. Měla jsem se zabít.
 
@@ -5348,19 +5983,25 @@ To by bylo zbytečné.
 
 Mě zabila nesprávná láska nesprávného člověka v nesprávný čas.
 
-  
+</section>
+
+<section>
 
 „Vypiju si tě.“ Řekl Kobold.
 
 „Vysaju si tě.“ Řekla Hella.
 
-  
+</section>
+
+<section>
 
 „Nevím, co se se mnou stalo. Nevím, co se dělo. Bylo to jednoduché. Prostě jsem se bezmezně zamilovala. A přesídlila do jeho řeči. Nevím, co se stalo s mou řečí, pohybovala jsem se jen v jeho řeči a chtěla zpátky.“ Řekla Hella, která se nerozpomínala, kdo byl kdysi já, žila dneškem. „Je to láska. Jediná láska mého života. Přítel v moři lhostejnosti. Představa, že ho ztratím, mě ničí. Neničilo mě, že má jinou. Ničilo mě, že bych ho ztratila. Že bez něho bych se rozpadla. Srdci neporučíš.“ Proboha, vzpamatuj se, Hello. To říkal Kobold a smál se, to říkával Kobold, ale říkal to jinak, srdci a prdeli neporučíš. Vzpamatuj se, Hello. Nechalas nás v tom.
 
 „Nikdo mi ho tak dobře nevykouřil jako ty.“ Říkal Kobold. „A taky nevykouří.“ Říkala ona. A byla pyšná. To byla ta jejich láska. Takhle mluvila ta moje básnířka. A bylo to odporné. Jak se na sebe usmívali.
 
-  
+</section>
+
+<section>
 
 Ta touha nikde nekončí.
 
@@ -5374,7 +6015,9 @@ Voda hoří, nejhorší je spáleniště.
 
 Nebe je nad mostem nízko. Zvednu ruku, dotknu se nebe. Skulina mezi mraky. Dodává mi odvahu.
 
-  
+</section>
+
+<section>
 
 Odpouštím jim. Der Arschloch und die dumme Gans. Člověk se nesmíří lehce s tím, v čem vyrůstal. Jsem součástí bytu. Tak stará, tak nenápadná, jak nenápadně vzniká láska, jak nenápadně vzniká trans, jak nenápadně vzniká domácí násilí. Odpouštím jim oběma, že nedali dítěti, co potřebuje, a co vlastně potřebuje, lásku, optimismus, jistotu, nevím. Dělali koneckonců to, co všichni bozi. Nedotknutelní, mocní tyrani.
 
@@ -5384,7 +6027,9 @@ A vyžadují od těch, které podupou a ničí, aby je milovali a přinášel
 
 Odpouštím jim. Už se nemusejí schovávat, už se můžou zjevit. Moje tělo je připraveno. Mám v žilách vodu. Celý život se mé tělo připravuje, aby se jim přiblížilo. Řeka čaruje, řeka barvy indigo, šeptá Koboldovu modlitbu, očisti nás od všech hříchů, smyj z nás vše nečisté… ať jsme jiní, ať jsme silní… Musím utěšit Kobolda za všechno, co se stalo.
 
-  
+</section>
+
+<section>
 
 Utopit Juditu.
 
@@ -5392,11 +6037,15 @@ Utopit Julii.
 
 Stát se člověkem.
 
-  
+</section>
+
+<section>
 
 Dívali se jiným směrem, pryč ode mě a já jim odpouštím. Přetrhnu řetězec, Evin osud se nenaplní. Masa vody se propne, vyšvihne vzhůru. Vodní masa podobná dlouhovlasé ženě, která se předkloní, potopí hlavu pod hladinu a pak se prudce vynoří a zakloní. Rozhodí mokré šlahouny vlasů do vzduchu, voda opouští tělo a padá…
 
-  
+</section>
+
+<section>
 
 Ještě…
 
@@ -5408,7 +6057,9 @@ Zvíře se instinktivně zakousne do své kořisti. Do kořisti, která neutík�
 
 Já se přidala k němu.
 
-  
+</section>
+
+<section>
 
 Bylo to snadné. Bylo to tak snadné. Bylo hezké patřit k vůdci smečky. Ona se nedivila. Ona se nedivila, ona si zakrývala obličej, kopala jsem tím víc, čím víc se nebránila, kopala jsem ji za to, že se nebrání, že si tehdy oblékala jeho košili a byla šťastná, místo aby tu košili roztrhala na kusy a spálila, místo aby ji nůžkami rozstříhala na kusy, místo aby ji rvala zuby, místo aby se narovnala a koupila si papíry do psacího stroje, protože není normální, když někdo píše na pytlíky od mouky a cukru, to není normální, ta moje Hella, která stejně jako v psaní smísila slova různých jazyků, až nebylo rozumět, nám zavařila celý ten maglajz, když já potřebovala jistotu, jistotu, že černá je černá a bílá je bílá, kopala jsem do ní za to, že nosím háčkované rukavice, které upozorňují na to, co se má zakrýt, kopala jsem ji za to, že nám nikdo nikdy nepomohl.
 
@@ -5416,13 +6067,17 @@ Kopala jsem do ní. Nenáviděla jsem ji. A poprvé jsem pochopila, jaké uspok
 
 Mí bratři byli mrtví.
 
-  
+</section>
+
+<section>
 
 Držet ji pod pokličkou. Tu holčičku uvnitř, pořád křičí, držet pod kontrolou představu rodičů o té holčičce, pořád dotírají, rozkazují, vnucují o ní obrazy, přes které klopýtám. Držím je pod kontrolou, všechna dětská já. Nikdy jsem se nedozvěděla, které já je dospělé, jaký měl se mnou osud skutečný záměr, původní, nefalšovaný, autentický, jaká jsem měla být. Pod nehybnou hladinou, v hlubinách, se neustále něco děje, i tehdy, když je povrch hladký a nehybný. Vyčistím znečištěné rány, musím být sama, ještě se léčím, celý život se léčím, ještě rány čistím od špíny, kterou pohodili, emocionální odpad, smetiště rozesetá po světě, zaneřáděná místa všude tam, kde se kumulují lidé. Vybrala jsem si špatné místo, ale jediné možné. Koboldovo město.
 
 „Es liegt an uns, wie wir auf das Geschehen des Tages reagieren.“ Napsala Hella.
 
-  
+</section>
+
+<section>
 
 Byla to _moje_ záplava. Kruhy na vodě v temnotě, ze dna mířit k světlině. Jakápak výlučná láska. Tam, kde byla Hella, se Kobold nenalézal. Tam, kde byl Kobold, se Hella nenalézala. Tam, kde bylo moje já, se nenalézal ani jeden. Neměla bych používat slovo já, nevím, co znamená. Oba chtěli, abych byla druhé pohlaví. Ve vodě a na poušti takové dělení neexistuje. Moje jméno je mi neznámé, žiju doposud v pocitu nepojmenovatelnosti. Voda z řeky se rozlila, vlnila se a boulila jako mořské vlny, nebyly to vlny, nevířila voda, neještěřila, páv nerozevíral pera; byly to obrysy lidských těl, moře lidských údů, moře všech těl, která tímto městem kdy prošla, moře těl, která se vlnila a hlásila se mi dobrovolně. Nabírala jsem dobrovolníky, kteří byli ochotni se ještě jednou vrátit, nakouknout do rodného města, připomenout se hořejším, suchým partajím, připomenout se těm, kdo záměrně zapomínají a zapomínat chtějí; naprogramovaní.
 
@@ -5438,7 +6093,9 @@ Voda stoupla a olízla omítky domů. Omítky měkly jako plastelína. Voda do 
 
 > _voda hoří_
 
-  
+</section>
+
+<section>
 
 Vykřičet úzkost mohla do vody. Strčit hlavu pod hladinu a skučet a výt a volat o pomoc pro Hellu.
 
@@ -5446,7 +6103,9 @@ Dávala jsem důležitost řece. Přitom patřím moři.
 
 Tolik energie jsem věnovala tomu, abych zvedla hladinu jedné jediné řeky. Abych zvedala koberec země, pod nímž hnije zasuté. Energii jsem mohla darovat něčemu jinému.
 
-  
+</section>
+
+<section>
 
 Jsem šťastná, jsem volná. Růže je nejlepší jako růže, ryba je nejlepší jako ryba, každý člověk má ukázat to nejlepší. Hella by byla nejlepší jako Hella. Potěšení být Hellou si nedopřála. Judita se drží za ruku s Julií. Nevlastní sestru Justýnu jsem nikdy neviděla. Jako bych tu nikdy nebyla. Všechny jsme byly zásobárnou energie pro Kobolda. Už nebude mít z čeho čerpat.
 
@@ -5454,7 +6113,9 @@ Buduj bytelnou loď.
 
 Žij, žij.
 
-  
+</section>
+
+<section>
 
 Nahá se posadím. Na dřevěném voru. Nahá, s háčkovanými rukavičkami na rukou. Přehodím nohy přes pelest. Chodidla vnořím do vody, zahýbu prsty. Matka je tak teplá, laskavá, blány mezi prsty zareagují. Roztáhnou se jako vějíř. Vklouznu do vody.
 
@@ -5462,7 +6123,9 @@ Podívám se z okna, na břehu řeky stojí devět černých drobných soch, od
 
 Brodím se do haly.
 
-  
+</section>
+
+<section>
 
 Voda stoupá, laská mi kolena, laská mi stehna. Dveře koupelny popraskají, vyvalí se voda. Vana je plná, přetéká. Špunt nadskakuje a funí. Pod ním se cosi dusí. Tlak, kterému uleví stoleté dítě, dítě, které se nikdy nemohlo odpojit. Protože se na život nikdy nenapojilo. Svléknu rukavice. Mrštím s nimi o zeď. Roztáhnu prsty na rukou, rozkošné vějíře. Když se to blíží ke konci.
 
@@ -5474,27 +6137,37 @@ Proud mě vyplivne do studené, útěšlivé, tiché vody. V níž se horká vo
 
 Stín, který se podobá soše.
 
-  
+</section>
+
+<section>
 
 Tlak na hrudi. Jsem ztěžklá, zpomalená. Laskám se s vodou, přijala mě. Tolik trpělivosti ze mě odčerpala za ta léta a teď mi ji vrací. Zachovala jsem zpovědní tajemství i za cenu smrti. Nahýbá si mě, kolébá ze strany na stranu, pohupuje. Tady není ostrov. Soutoky mezi prsty vyraší vzhůru, srůstají. Teď bych musela nosit palčáky, nebo jednolité kulaté návleky. Roztáhnu paže. Vyrovnávám rovnováhu, voda mnou ze strany na stranu kymácí mírně. Já se podvolím. Nechám se vést teplým proudem.
 
 Následuju tmavý stín před sebou.
 
-  
+</section>
+
+<section>
 
 Ztrácím schopnost mluvit, myslet. Jen tělo se pohybuje, samo, pudově, hmota a klid a pravidla a ticho pod vodou. Otírám se o vodu jako o hebkou látku, hladím se o ni. Tělem narazím, otřu se o něco nezvyklého. Něco se rýsuje pod masou vody. Ostré hrany. Pohřebiště soch. Mezi nimi hbitě proplouvají hejna malých rybek, se zarážející přesností, jako jednolitý organismus, i důstojné, osamělé velké ryby. Chřestivec, který patří do řádu ďasové. Potravu láká pomocí látky vypouštěné hřbetní ploutví. Plní pod mostem své poslání. Vystrčená hlava se dotkne mého čela. A vypustí z ploutve látku.
 
-  
+</section>
+
+<section>
 
 Pohřebiště soch, některé se zdají být v našedlé mlze živé, ne, to se přes ně přelévá voda. Mazlí se i s nimi. Ponořit se. Projít detoxikační komorou. Rozpustit já, které je poničené. První citová zranění se budou opakovat v milostných i mezilidských vztazích. Pořád na sebe hledím tak, jak na mě hleděli kdysi. Jde o životně důležitou lásku. O nic jiného.
 
-  
+</section>
+
+<section>
 
 Proplouvám, vedena vyšší mocí, zákony vody. Proplouvám k sousoší, hluboko pod mostem. Přitáhne si mě výraz obličeje.
 
 Dívám se do prohlubní, kde bývaly oči.
 
-  
+</section>
+
+<section>
 
 Donutím bytosti na břehu, aby začaly hledat. Zapomenuté hladomory. Řeka vybublává gejzíry. Řeka zvrací. Davy na Kamenném mostě, davy v prošívaných bundách civí dolů s fotoaparáty a videokamerami. Zatímco nad nimi pukají těla soch.
 
@@ -5504,7 +6177,9 @@ Lidé vykřiknou vzrušením.
 
 Přibíhají další a tlačí se, namačkáni na sebe, tentokrát si svou svědeckou chvíli zaznamenají. Tentokrát zmáčknou spouště, spustí kamery. Gejzír docákne na kamení pospojované maltou s vajíčky. Ke zdroji tajemného vodního vulkánu se za několik hodin za doprovodu televizních kamer ponoří potápěči. Donutím lidské bytosti, já je donutím, aby se potopily a vrátily souši pravdu. Budou se spoléhat na slova.
 
-  
+</section>
+
+<section>
 
 V té chvíli splyne mysl s myslí přátel i nepřátel. Voda se napříč časem propojí. Nerušená lidskými zásahy je krásná a bohatá. Masa vody se vášnivě vzedme a propne, zvedá průhledné tělo výš. Nečekaně zmrazená ve vzduchu, v zataveném tichu a zataveném čase. Na tom vodním kopci stojím já. Vydávil mě vzedmutý proud, naposledy, než se voda přelije, mysl zklidní. Voda nevyzdvihne mě.
 
@@ -5524,18 +6199,28 @@ Vzala na sebe rysy Hellina obličeje.
 
 To se stalo v roce, v roce… Tak mi to řeka vyprávěla.
 
-  
+</section>
+
+<section>
 
 Nádech a pod hladinu.
 
-  
+</section>
+
+<section>
 
 _Berlín-Wannsee_, listopad 2008
 
-  
+</section>
+
+<section>
 
 Výdech a nad hladinu.
 
-  
+</section>
+
+<section>
 
 _Graz_, březen 2010
+
+</section>

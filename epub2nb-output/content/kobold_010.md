@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ## Text Helly Koboldové, nalezený po vydražení  
 fotografie jachty Erin (vlepený pod rámem)
 
@@ -90,3 +92,5 @@ _Rozpršelo se. Těla tří žen z písku se zbortila a rozpustila._
 _Teprve tváří v tvář smrti je návaznost na druhé přerušena._
 
 [1](./resources/undefined) Úryvek z knihy Hermanna Hesseho _Demian_, Argo, Praha 2008, s. 87, překlad Vratislav Slezák.
+
+</section>

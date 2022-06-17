@@ -4,11 +4,7 @@ hiddenTitle: true
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Ester a Honzovi
 
@@ -27,3 +23,5 @@ Ostatní se koupali.
 Evě A., která se svými bratry přežila
 
 a umí být ve shodě se skutečností.
+
+</section>
