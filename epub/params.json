@@ -1,5 +1,4 @@
 {
-  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -22,8 +21,8 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
-      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP-text-bez1radku--I \nMLP-text-bez1radku--I---12-0 ",
@@ -120,8 +119,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Kobold"
               },
               {
                 "filename": "kobold_008.md",
@@ -132,8 +132,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Na začátku mého uvěznění ..."
               },
               {
                 "filename": "kobold_009.md",
@@ -144,8 +145,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Vymknout se není snadné ..."
               },
               {
                 "filename": "kobold_010.md",
@@ -196,8 +198,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Kobold"
               },
               {
                 "filename": "kobold_014.md",
@@ -208,8 +211,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Nadejde den, kdy lidé ..."
               },
               {
                 "filename": "kobold_015.md",
@@ -220,8 +224,9 @@
                 "inToc": false,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Otázka dne zněla jednoduše ..."
               }
             ]
           },
@@ -239,7 +244,8 @@
           }
         ]
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -247,7 +253,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Radka Denemarková",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-11-25T23:00:00.000Z"
+      "modified": "2019-11-26T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -422,7 +428,10 @@
       "para-style-override-6",
       "para-style-override-7"
     ],
-    "github": null,
-    "generatedAt": 1653403343014
+    "github": {
+      "user": "books-are-next",
+      "repo": "denemarkova-kobold-new"
+    },
+    "generatedAt": 1652968756503
   }
 }
