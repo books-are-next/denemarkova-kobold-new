@@ -1,6 +1,11 @@
 ---
-title: ""
+title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
-> KOBOLD – slovo německého původu. Diblík, šotek, neposeda, skřítek, strážce podzemních pokladů. Přeneseně skřet, kreatura, monstrum.
+<section>
+
+KOBOLD – slovo německého původu. Diblík, šotek, neposeda, skřítek, strážce podzemních pokladů. Přeneseně skřet, kreatura, monstrum.
+
+</section>

@@ -1,8 +1,13 @@
 ---
-title: "Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)"
+title: ''
 hiddenTitle: true
 contentType: prose
 ---
+
+<section>
+
+## Text Helly Koboldové, nalezený po vydražení  
+fotografie jachty Erin (vlepený pod rámem)
 
 _Tváří v tvář smrti je návaznost na druhé přerušena, pane. Tři ženy stojí na Kamenném mostě. Hella, Judita, Justýna. Skočí a dopadnou do písku, který tudy protéká. Zaboří se a začnou plavat._
 
@@ -87,3 +92,5 @@ _Rozpršelo se. Těla tří žen z písku se zbortila a rozpustila._
 _Teprve tváří v tvář smrti je návaznost na druhé přerušena._
 
 [1](./resources/undefined) Úryvek z knihy Hermanna Hesseho _Demian_, Argo, Praha 2008, s. 87, překlad Vratislav Slezák.
+
+</section>
