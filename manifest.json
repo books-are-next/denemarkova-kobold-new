@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-1b970c4",
-  "revision": "1b970c4",
+  "identifier": "denemarkova-kobold-6a4e540",
+  "revision": "6a4e540",
   "readingOrder": [
     "promo.html",
     "kobold_005.html",
@@ -23,11 +23,11 @@
     "kobold_013.html",
     "kobold_014.html",
     "kobold_015.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:59:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978351316
+    "date": "Thu Jul 07 2022 08:21:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182063433
   },
   "documents": [
     {
@@ -184,7 +184,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PŘEBYTKY LIDÍ          O ohni",
+          "name": "PŘEBYTKY LIDÍ          O ohni",
           "id": null,
           "children": []
         }
@@ -259,7 +259,7 @@
       "role": "chapter",
       "order": 11,
       "prev": "kobold_014.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -272,11 +272,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 131,
-      "chars": 855,
+      "chars": 854,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kobold_015.html",
       "next": null,
@@ -293,9 +293,9 @@
   ],
   "totals": {
     "all": {
-      "words": 79534,
-      "chars": 491695,
-      "ideas": 3412
+      "words": 79651,
+      "chars": 492442,
+      "ideas": 3429
     },
     "chapters": {
       "words": 79398,
