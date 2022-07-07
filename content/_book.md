@@ -26,7 +26,7 @@ readingOrder:
   - kobold_013.html
   - kobold_014.html
   - kobold_015.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
