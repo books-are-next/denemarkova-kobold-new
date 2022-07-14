@@ -37,10 +37,19 @@ tocBase:
           - link: kobold_006.html
             title: Věnování
             hiddenTitle: true
+          - link: kobold_007.html
+            title: Kobold
+            hiddenTitle: true
+          - link: kobold_008.html
+            title: Na začátku mého uvěznění ...
+            hiddenTitle: true
+          - link: kobold_009.html
+            title: Vymknout se není snadné ...
+            hiddenTitle: true
           - link: kobold_010.html
             title: Text Helly Koboldové ...
             hiddenTitle: true
-        listType: plain
+        listType: bulleted
       - link: kobold_011.html
         title: PŘEBYTKY LIDÍ O ohni
         hiddenTitle: false
@@ -48,7 +57,16 @@ tocBase:
           - link: kobold_012.html
             title: Věnování
             hiddenTitle: true
-        listType: plain
+          - link: kobold_013.html
+            title: Kobold
+            hiddenTitle: true
+          - link: kobold_014.html
+            title: Nadejde den, kdy lidé ...
+            hiddenTitle: true
+          - link: kobold_015.html
+            title: Otázka dne zněla jednoduše ...
+            hiddenTitle: true
+        listType: bulleted
     isSection: true
     listType: plain
 static:

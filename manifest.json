@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-540c359",
-  "revision": "540c359",
+  "identifier": "denemarkova-kobold-9b87442",
+  "revision": "9b87442",
   "readingOrder": [
     "promo.html",
     "kobold_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:58:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187936184
+    "date": "Thu Jul 14 2022 13:06:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657803964855
   },
   "documents": [
     {
@@ -274,7 +274,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 131,
-      "chars": 854,
+      "chars": 855,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -294,7 +294,7 @@
   "totals": {
     "all": {
       "words": 79651,
-      "chars": 492442,
+      "chars": 492443,
       "ideas": 3429
     },
     "chapters": {
