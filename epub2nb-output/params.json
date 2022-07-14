@@ -159,7 +159,7 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
+                "hiddenTitle": true,
                 "title": "Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)",
                 "children": []
               }
@@ -432,6 +432,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1657804500386
+    "generatedAt": 1657804952650
   }
 }
