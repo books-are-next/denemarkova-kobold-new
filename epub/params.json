@@ -25,11 +25,12 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
+      "centered": "",
+      "verse": "MLP-verse\nMLP-verse.+",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP-text-bez1radku--I \nMLP-text-bez1radku--I---12-0 ",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": "",
-      "verse": "MLP-verse\nMLP-verse.+"
+      "ignore": ""
     },
     "structure": [
       {
@@ -90,7 +91,7 @@
             "xhtml": "kobold_005.xhtml",
             "id": 4,
             "role": "break",
-            "listType": "plain",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -116,12 +117,12 @@
                 "id": 6,
                 "role": "chapter",
                 "listType": "plain",
-                "inToc": false,
+                "inToc": true,
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Kobold"
+                "title": "Kobold",
+                "children": []
               },
               {
                 "filename": "kobold_008.md",
@@ -129,12 +130,12 @@
                 "id": 7,
                 "role": "chapter",
                 "listType": "plain",
-                "inToc": false,
+                "inToc": true,
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Na začátku mého uvěznění ..."
+                "title": "Na začátku mého uvěznění ...",
+                "children": []
               },
               {
                 "filename": "kobold_009.md",
@@ -142,12 +143,12 @@
                 "id": 8,
                 "role": "chapter",
                 "listType": "plain",
-                "inToc": false,
+                "inToc": true,
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Vymknout se není snadné ..."
+                "title": "Vymknout se není snadné ...",
+                "children": []
               },
               {
                 "filename": "kobold_010.md",
@@ -169,7 +170,7 @@
             "xhtml": "kobold_011.xhtml",
             "id": 10,
             "role": "break",
-            "listType": "plain",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -195,12 +196,12 @@
                 "id": 12,
                 "role": "chapter",
                 "listType": "plain",
-                "inToc": false,
+                "inToc": true,
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Kobold"
+                "title": "Kobold",
+                "children": []
               },
               {
                 "filename": "kobold_014.md",
@@ -208,12 +209,12 @@
                 "id": 13,
                 "role": "chapter",
                 "listType": "plain",
-                "inToc": false,
+                "inToc": true,
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nadejde den, kdy lidé ..."
+                "title": "Nadejde den, kdy lidé ...",
+                "children": []
               },
               {
                 "filename": "kobold_015.md",
@@ -221,12 +222,12 @@
                 "id": 14,
                 "role": "chapter",
                 "listType": "plain",
-                "inToc": false,
+                "inToc": true,
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Otázka dne zněla jednoduše ..."
+                "title": "Otázka dne zněla jednoduše ...",
+                "children": []
               }
             ]
           },
@@ -432,6 +433,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1652968756503
+    "generatedAt": 1657187067494
   }
 }
