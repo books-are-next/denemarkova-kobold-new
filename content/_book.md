@@ -50,7 +50,7 @@ tocBase:
             title: >-
               Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin
               (vlepený pod rámem)
-            hiddenTitle: false
+            hiddenTitle: true
         listType: plain
       - link: kobold_011.html
         title: PŘEBYTKY LIDÍ O ohni
