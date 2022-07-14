@@ -31,7 +31,7 @@ tocBase:
   - id: section-1
     children:
       - link: kobold_005.html
-        title: "PŘEBYTKY NĚHY O\_vodě"
+        title: PŘEBYTKY NĚHY O vodě
         hiddenTitle: false
         children:
           - link: kobold_006.html
@@ -47,9 +47,11 @@ tocBase:
             title: Vymknout se není snadné ...
             hiddenTitle: true
           - link: kobold_010.html
-            title: Text Helly Koboldové ...
-            hiddenTitle: true
-        listType: bulleted
+            title: >-
+              Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin
+              (vlepený pod rámem)
+            hiddenTitle: false
+        listType: plain
       - link: kobold_011.html
         title: PŘEBYTKY LIDÍ O ohni
         hiddenTitle: false
@@ -66,7 +68,7 @@ tocBase:
           - link: kobold_015.html
             title: Otázka dne zněla jednoduše ...
             hiddenTitle: true
-        listType: bulleted
+        listType: plain
     isSection: true
     listType: plain
 static:
