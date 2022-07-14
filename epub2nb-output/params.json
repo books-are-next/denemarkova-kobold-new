@@ -14,7 +14,7 @@
     "elements": {
       "title": "MLP-uroven1-cast",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -91,12 +91,12 @@
             "xhtml": "kobold_005.xhtml",
             "id": 4,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "PŘEBYTKY NĚHY O vodě",
+            "title": "PŘEBYTKY NĚHY O vodě",
             "children": [
               {
                 "filename": "kobold_006.md",
@@ -159,8 +159,8 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "title": "Text Helly Koboldové ...",
+                "hiddenTitle": false,
+                "title": "Text Helly Koboldové, nalezený po vydražení fotografie jachty Erin (vlepený pod rámem)",
                 "children": []
               }
             ]
@@ -170,7 +170,7 @@
             "xhtml": "kobold_011.xhtml",
             "id": 10,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -432,6 +432,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1657803842762
+    "generatedAt": 1657804500386
   }
 }
