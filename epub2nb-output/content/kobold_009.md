@@ -3280,7 +3280,7 @@ Opustím balkon.
 
 Stopuji vlhké skvrny na stěnách. Obtáhnu je ukazovákem. K rukavici přilne mazlavá omítka. Zeď se boulí. V marné snaze vyplivnout mokrého parazita. V knihovně leží několik zapomenutých knih. Dubové police jsou vyklizené, naleštěné. Rozevřu jednu z nich.
 
-„Co se mnou bude, bylo mi úplně jedno. To moje podivné a nikterak pěkné chování, vysedávání po hospodách a naparování, to byl můj spor se světem, má forma protestu. Přitom jsem se ničil a občas mé stanovisko vypadalo asi takto: Nemůže-li svět potřebovat lidi jako já, když pro ně nemá lepší místo, žádné vyšší úkoly, potom se prostě lidé jako já zahubí. Škodu ať si laskavě připíše svět.“[1](./resources/undefined)
+„Co se mnou bude, bylo mi úplně jedno. To moje podivné a nikterak pěkné chování, vysedávání po hospodách a naparování, to byl můj spor se světem, má forma protestu. Přitom jsem se ničil a občas mé stanovisko vypadalo asi takto: Nemůže-li svět potřebovat lidi jako já, když pro ně nemá lepší místo, žádné vyšší úkoly, potom se prostě lidé jako já zahubí. Škodu ať si laskavě připíše svět.“[^1]
 
 Přes stránku přejedu zašpiněným ukazovákem. Bílá mazlavá stopa, písmena mizí. Knihu zaklapnu.
 

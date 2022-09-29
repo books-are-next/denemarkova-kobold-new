@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-kobold-21a060c",
-  "revision": "21a060c",
+  "identifier": "denemarkova-kobold-4b31bb9",
+  "revision": "4b31bb9",
   "readingOrder": [
     "promo.html",
     "kobold_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:30:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413801812
+    "date": "Thu Sep 29 2022 21:21:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486472130
   },
   "documents": [
     {
@@ -126,7 +126,7 @@
       "title": "Kobold",
       "file": "kobold_009.html",
       "words": 53601,
-      "chars": 330749,
+      "chars": 330752,
       "ideas": 2421,
       "role": "chapter",
       "order": 5,
@@ -145,9 +145,9 @@
     {
       "title": "Kobold",
       "file": "kobold_010.html",
-      "words": 2043,
-      "chars": 12138,
-      "ideas": 44,
+      "words": 2028,
+      "chars": 12046,
+      "ideas": 43,
       "role": "chapter",
       "order": 6,
       "prev": "kobold_009.html",
@@ -285,14 +285,14 @@
   ],
   "totals": {
     "all": {
-      "words": 79651,
-      "chars": 492443,
-      "ideas": 3429
+      "words": 79636,
+      "chars": 492354,
+      "ideas": 3428
     },
     "chapters": {
-      "words": 79398,
-      "chars": 490806,
-      "ideas": 3391
+      "words": 79383,
+      "chars": 490717,
+      "ideas": 3390
     }
   }
 }
