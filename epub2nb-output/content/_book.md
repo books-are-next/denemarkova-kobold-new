@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2839-7
 readingOrder:
   - promo.html
   - kobold_005.html

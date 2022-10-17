@@ -9,7 +9,8 @@
       "modified": "2019-11-26T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2839-7"
     },
     "elements": {
       "title": "MLP-uroven1-cast",
@@ -432,6 +433,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1665416356668
+    "generatedAt": 1666029979625
   }
 }
