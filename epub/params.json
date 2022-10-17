@@ -9,7 +9,8 @@
       "modified": "2019-11-26T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2839-7"
     },
     "elements": {
       "title": "MLP-uroven1-cast",
@@ -282,7 +283,7 @@
         "xhtml": "kobold_004.xhtml"
       },
       {
-        "titleSuggest": "PŘEBYTKY NĚHY          O vodě",
+        "titleSuggest": "PŘEBYTKY NĚHY          O vodě",
         "subtitleSuggest": "",
         "filename": "kobold_005.md",
         "xhtml": "kobold_005.xhtml"
@@ -433,6 +434,6 @@
       "user": "books-are-next",
       "repo": "denemarkova-kobold-new"
     },
-    "generatedAt": 1657804500386
+    "generatedAt": 1665416356668
   }
 }
